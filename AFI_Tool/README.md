@@ -4,6 +4,17 @@ The aim of this tool is to evaluate the fault-tolerance aspect of designs genera
 
 An example design is located in this project.
 
+## Prerequisites
+
+The folder AFI_Tool contains all the files required for the use of the tool. In order for the flow to be operational, the following tools need to be present at the user’s machine: 
+* Vivado HLS 2020.1 
+* Vivado 2020.1
+* Matlab 2021.b
+* Git Bash
+* Python 3.7
+  - [SPYDRNET framework](https://github.com/byuccl/spydrnet) 
+
+
 ## Flow
 The flow starts by executing one of the following  scripts: 
 run.cmd allows users to perform a selected FI attack scenario. 
