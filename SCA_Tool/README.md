@@ -1,6 +1,10 @@
 # SCA_Tool - Side-Channel Analysis Attack and Analysis Platform
 
-The platform enables users to automatically perform trace acquisition regarding power consumption as well as Side-Channel Analysis (SCA) attacks on a programmed _ChipWhisperer_ platform (`CW305 Artix FPGA` Target). The trace acquisition is performed using a _Siglent SDS2352X-E_ oscilloscope, which is remotely configured through the platform’s script.
+The platform enables users to automatically perform trace acquisition regarding power consumption as well as Side-Channel Analysis (SCA) attacks on a programmed _ChipWhisperer_ platform (CW305 Artix FPGA Target). The trace acquisition is performed using a _Siglent SDS2352X-E_ oscilloscope, which is remotely configured through the platform’s script.
+
+_Note_: Data are not included in this repository. The capabilities of the tool were used to extract the experimental results for the following publication : 
+
+Koufopoulou, Amalia-Artemis, et al. "Security and Reliability Evaluation of Countermeasures implemented using High-Level Synthesis." 2022 IEEE 28th International Symposium on On-Line Testing and Robust System Design (IOLTS). IEEE, 2022.
 
 ## Prerequisites
 
@@ -20,8 +24,6 @@ The platform is designed to perform SCA attacks on the SubBytes step of the firs
 * On the output of the computation, as well as the intermediate operations. Attacking all the operations of the design under evaluation would provide better insights regarding internal optimizations performed over the design.
 
 The platform consists of ATTACK_SCRIPTS and ANALYSIS_SCRIPTS folders, which contain all the required functionality. 
-
-
 
 ## Attack Scripts - Trace Aqcuisition
 The ChipWhisperer platform contains a series of examples to verify its operation. For our case, we take the aes-128 example and use it as a template, in order to retain the correct interface for the data exchange. From that, we locate the cw305_interface.vhd file in the RTL hierarchy. This file creates the entity for the victim operation the platform will target. Therefore, we modify the code in order to use our victim operation, retaining the interface.
