@@ -1,0 +1,6 @@
+
+		Statistics for design	
+
+
+#FFs: 173
+Execution Time: 360

@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# xsim v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue Mar 26 18:44:07 2024
+# Process ID: 6456
+# Current directory: C:/MyWork/AFI_Tool/Designs/design_0/xsim
+# Command line: xsim.exe -log simulate.log -mode tcl -source {xsim.dir/top_function/xsim_script.tcl}
+# Log file: C:/MyWork/AFI_Tool/Designs/design_0/xsim/simulate.log
+# Journal file: C:/MyWork/AFI_Tool/Designs/design_0/xsim\xsim.jou
+#-----------------------------------------------------------
+source xsim.dir/top_function/xsim_script.tcl
+source cmd.tcl

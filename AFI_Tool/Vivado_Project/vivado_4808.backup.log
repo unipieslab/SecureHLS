@@ -1,0 +1,134 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Mon Sep  5 11:26:02 2022
+# Process ID: 4808
+# Current directory: C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_Project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent24592 C:\Users\amagi\Desktop\v2_RANDOM_SOL_GEN_FRAMEWORK\Vivado_Project\Vivado_Project.xpr
+# Log file: C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_Project/vivado.log
+# Journal file: C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_Project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_Project/Vivado_Project.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.1/data/ip'.
+update_compile_order -fileset sources_1
+synth_design -rtl -name rtl_1
+Command: synth_design -rtl -name rtl_1
+Starting synth_design
+Using part: xc7a12ticsg325-1L
+Top: top_function
+INFO: [Device 21-403] Loading part xc7a12ticsg325-1L
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:04 ; elapsed = 00:00:04 . Memory (MB): peak = 1229.453 ; gain = 211.559
+---------------------------------------------------------------------------------
+INFO: [Synth 8-638] synthesizing module 'top_function' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/top_function.vhd:25]
+	Parameter DataWidth bound to: 8 - type: integer 
+	Parameter AddressRange bound to: 8 - type: integer 
+	Parameter AddressWidth bound to: 3 - type: integer 
+INFO: [Synth 8-3491] module 'top_function_A2X_2' declared at 'C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/top_function_A2X_2.vhd:66' bound to instance 'A2X_2_U' of component 'top_function_A2X_2' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/top_function.vhd:191]
+INFO: [Synth 8-638] synthesizing module 'top_function_A2X_2' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/top_function_A2X_2.vhd:79]
+	Parameter DataWidth bound to: 8 - type: integer 
+	Parameter AddressRange bound to: 8 - type: integer 
+	Parameter AddressWidth bound to: 3 - type: integer 
+INFO: [Synth 8-3491] module 'top_function_A2X_2_rom' declared at 'C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/top_function_A2X_2.vhd:9' bound to instance 'top_function_A2X_2_rom_U' of component 'top_function_A2X_2_rom' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/top_function_A2X_2.vhd:91]
+INFO: [Synth 8-638] synthesizing module 'top_function_A2X_2_rom' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/top_function_A2X_2.vhd:24]
+	Parameter DWIDTH bound to: 8 - type: integer 
+	Parameter AWIDTH bound to: 3 - type: integer 
+	Parameter MEM_SIZE bound to: 8 - type: integer 
+INFO: [Synth 8-256] done synthesizing module 'top_function_A2X_2_rom' (1#1) [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/top_function_A2X_2.vhd:24]
+INFO: [Synth 8-256] done synthesizing module 'top_function_A2X_2' (2#1) [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/top_function_A2X_2.vhd:79]
+	Parameter DataWidth bound to: 8 - type: integer 
+	Parameter AddressRange bound to: 8 - type: integer 
+	Parameter AddressWidth bound to: 3 - type: integer 
+INFO: [Synth 8-3491] module 'top_function_X2S_2' declared at 'C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/top_function_X2S_2.vhd:66' bound to instance 'X2S_2_U' of component 'top_function_X2S_2' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/top_function.vhd:203]
+INFO: [Synth 8-638] synthesizing module 'top_function_X2S_2' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/top_function_X2S_2.vhd:79]
+	Parameter DataWidth bound to: 8 - type: integer 
+	Parameter AddressRange bound to: 8 - type: integer 
+	Parameter AddressWidth bound to: 3 - type: integer 
+INFO: [Synth 8-3491] module 'top_function_X2S_2_rom' declared at 'C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/top_function_X2S_2.vhd:9' bound to instance 'top_function_X2S_2_rom_U' of component 'top_function_X2S_2_rom' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/top_function_X2S_2.vhd:91]
+INFO: [Synth 8-638] synthesizing module 'top_function_X2S_2_rom' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/top_function_X2S_2.vhd:24]
+	Parameter DWIDTH bound to: 8 - type: integer 
+	Parameter AWIDTH bound to: 3 - type: integer 
+	Parameter MEM_SIZE bound to: 8 - type: integer 
+INFO: [Synth 8-256] done synthesizing module 'top_function_X2S_2_rom' (3#1) [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/top_function_X2S_2.vhd:24]
+INFO: [Synth 8-256] done synthesizing module 'top_function_X2S_2' (4#1) [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/top_function_X2S_2.vhd:79]
+	Parameter DataWidth bound to: 8 - type: integer 
+	Parameter AddressRange bound to: 8 - type: integer 
+	Parameter AddressWidth bound to: 3 - type: integer 
+INFO: [Synth 8-3491] module 'top_function_A2X_2' declared at 'C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/top_function_A2X_2.vhd:66' bound to instance 'A2X_1_U' of component 'top_function_A2X_2' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/top_function.vhd:215]
+	Parameter DataWidth bound to: 8 - type: integer 
+	Parameter AddressRange bound to: 8 - type: integer 
+	Parameter AddressWidth bound to: 3 - type: integer 
+INFO: [Synth 8-3491] module 'top_function_X2S_2' declared at 'C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/top_function_X2S_2.vhd:66' bound to instance 'X2S_1_U' of component 'top_function_X2S_2' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/top_function.vhd:227]
+INFO: [Synth 8-3491] module 'G256_inv_1' declared at 'C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G256_inv_1.vhd:12' bound to instance 'grp_G256_inv_1_fu_38' of component 'G256_inv_1' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/top_function.vhd:239]
+INFO: [Synth 8-638] synthesizing module 'G256_inv_1' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G256_inv_1.vhd:21]
+INFO: [Synth 8-3491] module 'G4_mul_1' declared at 'C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G4_mul_1.vhd:12' bound to instance 'e_s_G4_mul_1_fu_58' of component 'G4_mul_1' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G256_inv_1.vhd:146]
+INFO: [Synth 8-638] synthesizing module 'G4_mul_1' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G4_mul_1.vhd:21]
+INFO: [Synth 8-256] done synthesizing module 'G4_mul_1' (5#1) [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G4_mul_1.vhd:21]
+INFO: [Synth 8-3491] module 'G4_mul_1' declared at 'C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G4_mul_1.vhd:12' bound to instance 'tmp_i_G4_mul_1_fu_64' of component 'G4_mul_1' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G256_inv_1.vhd:153]
+INFO: [Synth 8-3491] module 'G4_mul_1' declared at 'C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G4_mul_1.vhd:12' bound to instance 'tmp_4_i_G4_mul_1_fu_70' of component 'G4_mul_1' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G256_inv_1.vhd:160]
+INFO: [Synth 8-3491] module 'G4_mul_1' declared at 'C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G4_mul_1.vhd:12' bound to instance 'd_5_G4_mul_1_fu_76' of component 'G4_mul_1' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G256_inv_1.vhd:167]
+INFO: [Synth 8-3491] module 'G4_mul_1' declared at 'C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G4_mul_1.vhd:12' bound to instance 'a_7_G4_mul_1_fu_82' of component 'G4_mul_1' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G256_inv_1.vhd:174]
+INFO: [Synth 8-3491] module 'G4_mul_1' declared at 'C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G4_mul_1.vhd:12' bound to instance 'b_5_G4_mul_1_fu_88' of component 'G4_mul_1' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G256_inv_1.vhd:181]
+INFO: [Synth 8-3491] module 'G4_mul_1' declared at 'C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G4_mul_1.vhd:12' bound to instance 'e_1_G4_mul_1_fu_94' of component 'G4_mul_1' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G256_inv_1.vhd:188]
+INFO: [Synth 8-3491] module 'G4_mul_1' declared at 'C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G4_mul_1.vhd:12' bound to instance 'tmp_i1_G4_mul_1_fu_100' of component 'G4_mul_1' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G256_inv_1.vhd:195]
+INFO: [Synth 8-3491] module 'G4_mul_1' declared at 'C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G4_mul_1.vhd:12' bound to instance 'tmp_4_i1_G4_mul_1_fu_107' of component 'G4_mul_1' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G256_inv_1.vhd:202]
+INFO: [Synth 8-3491] module 'G4_mul_1' declared at 'C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G4_mul_1.vhd:12' bound to instance 'e_2_G4_mul_1_fu_114' of component 'G4_mul_1' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G256_inv_1.vhd:209]
+INFO: [Synth 8-3491] module 'G4_mul_1' declared at 'C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G4_mul_1.vhd:12' bound to instance 'tmp_i2_G4_mul_1_fu_120' of component 'G4_mul_1' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G256_inv_1.vhd:216]
+INFO: [Synth 8-3491] module 'G4_mul_1' declared at 'C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G4_mul_1.vhd:12' bound to instance 'tmp_4_i2_G4_mul_1_fu_127' of component 'G4_mul_1' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G256_inv_1.vhd:223]
+INFO: [Synth 8-3491] module 'G16_sq_scl_1' declared at 'C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G16_sq_scl_1.vhd:12' bound to instance 'c_G16_sq_scl_1_fu_134' of component 'G16_sq_scl_1' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G256_inv_1.vhd:230]
+INFO: [Synth 8-638] synthesizing module 'G16_sq_scl_1' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G16_sq_scl_1.vhd:20]
+INFO: [Synth 8-3491] module 'G4_scl_N2_1' declared at 'C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G4_scl_N2_1.vhd:12' bound to instance 'q_G4_scl_N2_1_fu_30' of component 'G4_scl_N2_1' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G16_sq_scl_1.vhd:47]
+INFO: [Synth 8-638] synthesizing module 'G4_scl_N2_1' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G4_scl_N2_1.vhd:20]
+INFO: [Synth 8-256] done synthesizing module 'G4_scl_N2_1' (6#1) [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G4_scl_N2_1.vhd:20]
+INFO: [Synth 8-256] done synthesizing module 'G16_sq_scl_1' (7#1) [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G16_sq_scl_1.vhd:20]
+INFO: [Synth 8-256] done synthesizing module 'G256_inv_1' (8#1) [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G256_inv_1.vhd:21]
+INFO: [Synth 8-3491] module 'G256_inv_2' declared at 'C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G256_inv_2.vhd:12' bound to instance 'grp_G256_inv_2_fu_43' of component 'G256_inv_2' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/top_function.vhd:246]
+INFO: [Synth 8-638] synthesizing module 'G256_inv_2' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G256_inv_2.vhd:25]
+INFO: [Synth 8-3491] module 'G16_mul_2' declared at 'C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G16_mul_2.vhd:12' bound to instance 'grp_G16_mul_2_fu_48' of component 'G16_mul_2' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G256_inv_2.vhd:129]
+INFO: [Synth 8-638] synthesizing module 'G16_mul_2' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G16_mul_2.vhd:21]
+INFO: [Synth 8-256] done synthesizing module 'G16_mul_2' (9#1) [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G16_mul_2.vhd:21]
+INFO: [Synth 8-3491] module 'G16_mul_2' declared at 'C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G16_mul_2.vhd:12' bound to instance 'q_G16_mul_2_fu_54' of component 'G16_mul_2' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G256_inv_2.vhd:136]
+INFO: [Synth 8-256] done synthesizing module 'G256_inv_2' (10#1) [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G256_inv_2.vhd:25]
+INFO: [Synth 8-3491] module 'G256_newbasis_2' declared at 'C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G256_newbasis_2.vhd:12' bound to instance 'grp_G256_newbasis_2_fu_48' of component 'G256_newbasis_2' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/top_function.vhd:257]
+INFO: [Synth 8-638] synthesizing module 'G256_newbasis_2' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G256_newbasis_2.vhd:28]
+INFO: [Synth 8-256] done synthesizing module 'G256_newbasis_2' (11#1) [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G256_newbasis_2.vhd:28]
+INFO: [Synth 8-3491] module 'G256_newbasis_1' declared at 'C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G256_newbasis_1.vhd:12' bound to instance 'grp_G256_newbasis_1_fu_58' of component 'G256_newbasis_1' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/top_function.vhd:271]
+INFO: [Synth 8-638] synthesizing module 'G256_newbasis_1' [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G256_newbasis_1.vhd:28]
+INFO: [Synth 8-256] done synthesizing module 'G256_newbasis_1' (12#1) [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/G256_newbasis_1.vhd:28]
+INFO: [Synth 8-256] done synthesizing module 'top_function' (13#1) [C:/Users/amagi/Desktop/v2_RANDOM_SOL_GEN_FRAMEWORK/Vivado_HLS/design_9/module_1/top_function.vhd:25]
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:05 ; elapsed = 00:00:05 . Memory (MB): peak = 1308.180 ; gain = 290.285
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:06 ; elapsed = 00:00:06 . Memory (MB): peak = 1308.180 ; gain = 290.285
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:06 ; elapsed = 00:00:06 . Memory (MB): peak = 1308.180 ; gain = 290.285
+---------------------------------------------------------------------------------
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.006 . Memory (MB): peak = 1308.180 ; gain = 0.000
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+Completed Processing XDC Constraints
+
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1392.910 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+RTL Elaboration Complete:  : Time (s): cpu = 00:00:14 ; elapsed = 00:00:09 . Memory (MB): peak = 1416.695 ; gain = 398.801
+56 Infos, 0 Warnings, 0 Critical Warnings and 0 Errors encountered.
+synth_design completed successfully
+synth_design: Time (s): cpu = 00:00:18 ; elapsed = 00:00:15 . Memory (MB): peak = 1416.695 ; gain = 398.801
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Sep  5 12:22:50 2022...

@@ -1,0 +1,12 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/MyWork/AFI_Tool/Designs/design_0/xsim/srcs/G16_mul.vhd" into library Module
+INFO: [VRFC 10-3107] analyzing entity 'G16_mul'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/MyWork/AFI_Tool/Designs/design_0/xsim/srcs/G256_inv.vhd" into library Module
+INFO: [VRFC 10-3107] analyzing entity 'G256_inv'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/MyWork/AFI_Tool/Designs/design_0/xsim/srcs/top_function_A2X.vhd" into library Module
+INFO: [VRFC 10-3107] analyzing entity 'top_function_A2X_rom'
+INFO: [VRFC 10-3107] analyzing entity 'top_function_A2X'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/MyWork/AFI_Tool/Designs/design_0/xsim/srcs/top_function_X2S.vhd" into library Module
+INFO: [VRFC 10-3107] analyzing entity 'top_function_X2S_rom'
+INFO: [VRFC 10-3107] analyzing entity 'top_function_X2S'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/MyWork/AFI_Tool/Designs/design_0/xsim/srcs/top_function.vhd" into library Module
+INFO: [VRFC 10-3107] analyzing entity 'top_function'

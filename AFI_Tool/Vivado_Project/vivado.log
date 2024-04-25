@@ -1,0 +1,175 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Fri Oct 14 19:12:53 2022
+# Process ID: 23832
+# Current directory: C:/MyWork/GNN/FI_v2/Vivado_Project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3028 C:\MyWork\GNN\FI_v2\Vivado_Project\Vivado_Project.xpr
+# Log file: C:/MyWork/GNN/FI_v2/Vivado_Project/vivado.log
+# Journal file: C:/MyWork/GNN/FI_v2/Vivado_Project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/MyWork/GNN/FI_v2/Vivado_Project/Vivado_Project.xpr
+Scanning sources...
+Finished scanning sources
+WARNING: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/MyWork/GNN/FI_v2/Vivado_Project/Vivado_Project.srcs/sources_1'.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.1/data/ip'.
+update_compile_order -fileset sources_1
+synth_design -rtl -name rtl_1
+Command: synth_design -rtl -name rtl_1
+Starting synth_design
+Using part: xc7a12ticsg325-1L
+Top: top_function
+INFO: [Device 21-403] Loading part xc7a12ticsg325-1L
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:05 ; elapsed = 00:00:04 . Memory (MB): peak = 1236.730 ; gain = 220.625
+---------------------------------------------------------------------------------
+INFO: [Synth 8-638] synthesizing module 'top_function' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/top_function.vhd:26]
+INFO: [Synth 8-3491] module 'top_function_entry5' declared at 'C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/top_function_entry5.vhd:12' bound to instance 'top_function_entry5_U0' of component 'top_function_entry5' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/top_function.vhd:221]
+INFO: [Synth 8-638] synthesizing module 'top_function_entry5' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/top_function_entry5.vhd:35]
+INFO: [Synth 8-256] done synthesizing module 'top_function_entry5' (1#1) [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/top_function_entry5.vhd:35]
+INFO: [Synth 8-3491] module 'Sbox_2' declared at 'C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_2.vhd:12' bound to instance 'Sbox_2_U0' of component 'Sbox_2' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/top_function.vhd:242]
+INFO: [Synth 8-638] synthesizing module 'Sbox_2' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_2.vhd:29]
+	Parameter DataWidth bound to: 8 - type: integer 
+	Parameter AddressRange bound to: 8 - type: integer 
+	Parameter AddressWidth bound to: 3 - type: integer 
+INFO: [Synth 8-3491] module 'Sbox_2_A2X_2' declared at 'C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_2_A2X_2.vhd:66' bound to instance 'A2X_2_U' of component 'Sbox_2_A2X_2' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_2.vhd:216]
+INFO: [Synth 8-638] synthesizing module 'Sbox_2_A2X_2' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_2_A2X_2.vhd:79]
+	Parameter DataWidth bound to: 8 - type: integer 
+	Parameter AddressRange bound to: 8 - type: integer 
+	Parameter AddressWidth bound to: 3 - type: integer 
+INFO: [Synth 8-3491] module 'Sbox_2_A2X_2_rom' declared at 'C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_2_A2X_2.vhd:9' bound to instance 'Sbox_2_A2X_2_rom_U' of component 'Sbox_2_A2X_2_rom' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_2_A2X_2.vhd:91]
+INFO: [Synth 8-638] synthesizing module 'Sbox_2_A2X_2_rom' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_2_A2X_2.vhd:24]
+	Parameter DWIDTH bound to: 8 - type: integer 
+	Parameter AWIDTH bound to: 3 - type: integer 
+	Parameter MEM_SIZE bound to: 8 - type: integer 
+INFO: [Synth 8-256] done synthesizing module 'Sbox_2_A2X_2_rom' (2#1) [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_2_A2X_2.vhd:24]
+INFO: [Synth 8-256] done synthesizing module 'Sbox_2_A2X_2' (3#1) [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_2_A2X_2.vhd:79]
+	Parameter DataWidth bound to: 8 - type: integer 
+	Parameter AddressRange bound to: 8 - type: integer 
+	Parameter AddressWidth bound to: 3 - type: integer 
+INFO: [Synth 8-3491] module 'Sbox_2_X2S_2' declared at 'C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_2_X2S_2.vhd:66' bound to instance 'X2S_2_U' of component 'Sbox_2_X2S_2' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_2.vhd:228]
+INFO: [Synth 8-638] synthesizing module 'Sbox_2_X2S_2' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_2_X2S_2.vhd:79]
+	Parameter DataWidth bound to: 8 - type: integer 
+	Parameter AddressRange bound to: 8 - type: integer 
+	Parameter AddressWidth bound to: 3 - type: integer 
+INFO: [Synth 8-3491] module 'Sbox_2_X2S_2_rom' declared at 'C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_2_X2S_2.vhd:9' bound to instance 'Sbox_2_X2S_2_rom_U' of component 'Sbox_2_X2S_2_rom' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_2_X2S_2.vhd:91]
+INFO: [Synth 8-638] synthesizing module 'Sbox_2_X2S_2_rom' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_2_X2S_2.vhd:24]
+	Parameter DWIDTH bound to: 8 - type: integer 
+	Parameter AWIDTH bound to: 3 - type: integer 
+	Parameter MEM_SIZE bound to: 8 - type: integer 
+INFO: [Synth 8-256] done synthesizing module 'Sbox_2_X2S_2_rom' (4#1) [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_2_X2S_2.vhd:24]
+INFO: [Synth 8-256] done synthesizing module 'Sbox_2_X2S_2' (5#1) [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_2_X2S_2.vhd:79]
+INFO: [Synth 8-3491] module 'G16_mul_2' declared at 'C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/G16_mul_2.vhd:12' bound to instance 'grp_G16_mul_2_fu_189' of component 'G16_mul_2' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_2.vhd:240]
+INFO: [Synth 8-638] synthesizing module 'G16_mul_2' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/G16_mul_2.vhd:21]
+INFO: [Synth 8-256] done synthesizing module 'G16_mul_2' (6#1) [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/G16_mul_2.vhd:21]
+INFO: [Synth 8-3491] module 'G16_mul_2' declared at 'C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/G16_mul_2.vhd:12' bound to instance 'q_i_G16_mul_2_fu_195' of component 'G16_mul_2' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_2.vhd:247]
+INFO: [Synth 8-256] done synthesizing module 'Sbox_2' (7#1) [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_2.vhd:29]
+INFO: [Synth 8-3491] module 'Sbox_1' declared at 'C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_1.vhd:12' bound to instance 'Sbox_1_U0' of component 'Sbox_1' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/top_function.vhd:257]
+INFO: [Synth 8-638] synthesizing module 'Sbox_1' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_1.vhd:29]
+	Parameter DataWidth bound to: 8 - type: integer 
+	Parameter AddressRange bound to: 8 - type: integer 
+	Parameter AddressWidth bound to: 3 - type: integer 
+INFO: [Synth 8-3491] module 'Sbox_2_A2X_2' declared at 'C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_2_A2X_2.vhd:66' bound to instance 'A2X_1_U' of component 'Sbox_2_A2X_2' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_1.vhd:232]
+	Parameter DataWidth bound to: 8 - type: integer 
+	Parameter AddressRange bound to: 8 - type: integer 
+	Parameter AddressWidth bound to: 3 - type: integer 
+INFO: [Synth 8-3491] module 'Sbox_2_X2S_2' declared at 'C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_2_X2S_2.vhd:66' bound to instance 'X2S_1_U' of component 'Sbox_2_X2S_2' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_1.vhd:244]
+INFO: [Synth 8-3491] module 'G16_mul_1' declared at 'C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/G16_mul_1.vhd:12' bound to instance 'grp_G16_mul_1_fu_183' of component 'G16_mul_1' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_1.vhd:256]
+INFO: [Synth 8-638] synthesizing module 'G16_mul_1' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/G16_mul_1.vhd:21]
+INFO: [Synth 8-256] done synthesizing module 'G16_mul_1' (8#1) [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/G16_mul_1.vhd:21]
+INFO: [Synth 8-3491] module 'G16_mul_1' declared at 'C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/G16_mul_1.vhd:12' bound to instance 'q_i_i_G16_mul_1_fu_189' of component 'G16_mul_1' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_1.vhd:263]
+INFO: [Synth 8-3491] module 'G4_sq_1' declared at 'C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/G4_sq_1.vhd:12' bound to instance 'grp_G4_sq_1_fu_195' of component 'G4_sq_1' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_1.vhd:270]
+INFO: [Synth 8-638] synthesizing module 'G4_sq_1' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/G4_sq_1.vhd:20]
+INFO: [Synth 8-256] done synthesizing module 'G4_sq_1' (9#1) [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/G4_sq_1.vhd:20]
+INFO: [Synth 8-3491] module 'G4_sq_1' declared at 'C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/G4_sq_1.vhd:12' bound to instance 'tmp_i_i_i_G4_sq_1_fu_200' of component 'G4_sq_1' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_1.vhd:276]
+INFO: [Synth 8-3491] module 'G4_sq_1' declared at 'C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/G4_sq_1.vhd:12' bound to instance 'tmp_i3_i_i_G4_sq_1_fu_205' of component 'G4_sq_1' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_1.vhd:282]
+INFO: [Synth 8-256] done synthesizing module 'Sbox_1' (10#1) [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Sbox_1.vhd:29]
+INFO: [Synth 8-3491] module 'Block_proc_proc' declared at 'C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Block_proc_proc.vhd:12' bound to instance 'Block_proc_proc_U0' of component 'Block_proc_proc' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/top_function.vhd:272]
+INFO: [Synth 8-638] synthesizing module 'Block_proc_proc' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Block_proc_proc.vhd:27]
+INFO: [Synth 8-256] done synthesizing module 'Block_proc_proc' (11#1) [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/Block_proc_proc.vhd:27]
+INFO: [Synth 8-3491] module 'fifo_w8_d2_A' declared at 'C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/fifo_w8_d2_A.vhd:47' bound to instance 'input_1_c_U' of component 'fifo_w8_d2_A' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/top_function.vhd:285]
+INFO: [Synth 8-638] synthesizing module 'fifo_w8_d2_A' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/fifo_w8_d2_A.vhd:66]
+	Parameter MEM_STYLE bound to: shiftreg - type: string 
+	Parameter DATA_WIDTH bound to: 8 - type: integer 
+	Parameter ADDR_WIDTH bound to: 1 - type: integer 
+	Parameter DEPTH bound to: 2 - type: integer 
+	Parameter DATA_WIDTH bound to: 8 - type: integer 
+	Parameter ADDR_WIDTH bound to: 1 - type: integer 
+	Parameter DEPTH bound to: 2 - type: integer 
+INFO: [Synth 8-3491] module 'fifo_w8_d2_A_shiftReg' declared at 'C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/fifo_w8_d2_A.vhd:10' bound to instance 'U_fifo_w8_d2_A_shiftReg' of component 'fifo_w8_d2_A_shiftReg' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/fifo_w8_d2_A.vhd:124]
+INFO: [Synth 8-638] synthesizing module 'fifo_w8_d2_A_shiftReg' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/fifo_w8_d2_A.vhd:23]
+	Parameter DATA_WIDTH bound to: 8 - type: integer 
+	Parameter ADDR_WIDTH bound to: 1 - type: integer 
+	Parameter DEPTH bound to: 2 - type: integer 
+INFO: [Synth 8-256] done synthesizing module 'fifo_w8_d2_A_shiftReg' (12#1) [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/fifo_w8_d2_A.vhd:23]
+INFO: [Synth 8-256] done synthesizing module 'fifo_w8_d2_A' (13#1) [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/fifo_w8_d2_A.vhd:66]
+INFO: [Synth 8-3491] module 'fifo_w8_d2_A' declared at 'C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/fifo_w8_d2_A.vhd:47' bound to instance 'input_2_c_U' of component 'fifo_w8_d2_A' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/top_function.vhd:298]
+INFO: [Synth 8-3491] module 'fifo_w8_d2_A' declared at 'C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/fifo_w8_d2_A.vhd:47' bound to instance 'p_channel_U' of component 'fifo_w8_d2_A' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/top_function.vhd:311]
+INFO: [Synth 8-3491] module 'fifo_w8_d2_A' declared at 'C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/fifo_w8_d2_A.vhd:47' bound to instance 'p_channel1_U' of component 'fifo_w8_d2_A' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/top_function.vhd:324]
+INFO: [Synth 8-3491] module 'start_for_Sbox_2_U0' declared at 'C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/start_for_Sbox_2_U0.vhd:47' bound to instance 'start_for_Sbox_2_U0_U' of component 'start_for_Sbox_2_U0' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/top_function.vhd:337]
+INFO: [Synth 8-638] synthesizing module 'start_for_Sbox_2_U0' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/start_for_Sbox_2_U0.vhd:66]
+	Parameter MEM_STYLE bound to: shiftreg - type: string 
+	Parameter DATA_WIDTH bound to: 1 - type: integer 
+	Parameter ADDR_WIDTH bound to: 1 - type: integer 
+	Parameter DEPTH bound to: 2 - type: integer 
+	Parameter DATA_WIDTH bound to: 1 - type: integer 
+	Parameter ADDR_WIDTH bound to: 1 - type: integer 
+	Parameter DEPTH bound to: 2 - type: integer 
+INFO: [Synth 8-3491] module 'start_for_Sbox_2_U0_shiftReg' declared at 'C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/start_for_Sbox_2_U0.vhd:10' bound to instance 'U_start_for_Sbox_2_U0_shiftReg' of component 'start_for_Sbox_2_U0_shiftReg' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/start_for_Sbox_2_U0.vhd:124]
+INFO: [Synth 8-638] synthesizing module 'start_for_Sbox_2_U0_shiftReg' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/start_for_Sbox_2_U0.vhd:23]
+	Parameter DATA_WIDTH bound to: 1 - type: integer 
+	Parameter ADDR_WIDTH bound to: 1 - type: integer 
+	Parameter DEPTH bound to: 2 - type: integer 
+INFO: [Synth 8-256] done synthesizing module 'start_for_Sbox_2_U0_shiftReg' (14#1) [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/start_for_Sbox_2_U0.vhd:23]
+INFO: [Synth 8-256] done synthesizing module 'start_for_Sbox_2_U0' (15#1) [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/start_for_Sbox_2_U0.vhd:66]
+INFO: [Synth 8-3491] module 'start_for_Sbox_1_U0' declared at 'C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/start_for_Sbox_1_U0.vhd:47' bound to instance 'start_for_Sbox_1_U0_U' of component 'start_for_Sbox_1_U0' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/top_function.vhd:350]
+INFO: [Synth 8-638] synthesizing module 'start_for_Sbox_1_U0' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/start_for_Sbox_1_U0.vhd:66]
+	Parameter MEM_STYLE bound to: shiftreg - type: string 
+	Parameter DATA_WIDTH bound to: 1 - type: integer 
+	Parameter ADDR_WIDTH bound to: 1 - type: integer 
+	Parameter DEPTH bound to: 2 - type: integer 
+	Parameter DATA_WIDTH bound to: 1 - type: integer 
+	Parameter ADDR_WIDTH bound to: 1 - type: integer 
+	Parameter DEPTH bound to: 2 - type: integer 
+INFO: [Synth 8-3491] module 'start_for_Sbox_1_U0_shiftReg' declared at 'C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/start_for_Sbox_1_U0.vhd:10' bound to instance 'U_start_for_Sbox_1_U0_shiftReg' of component 'start_for_Sbox_1_U0_shiftReg' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/start_for_Sbox_1_U0.vhd:124]
+INFO: [Synth 8-638] synthesizing module 'start_for_Sbox_1_U0_shiftReg' [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/start_for_Sbox_1_U0.vhd:23]
+	Parameter DATA_WIDTH bound to: 1 - type: integer 
+	Parameter ADDR_WIDTH bound to: 1 - type: integer 
+	Parameter DEPTH bound to: 2 - type: integer 
+INFO: [Synth 8-256] done synthesizing module 'start_for_Sbox_1_U0_shiftReg' (16#1) [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/start_for_Sbox_1_U0.vhd:23]
+INFO: [Synth 8-256] done synthesizing module 'start_for_Sbox_1_U0' (17#1) [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/start_for_Sbox_1_U0.vhd:66]
+INFO: [Synth 8-256] done synthesizing module 'top_function' (18#1) [C:/MyWork/GNN/FI_v2/Vivado_HLS/design_2/module_1/top_function.vhd:26]
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:06 ; elapsed = 00:00:05 . Memory (MB): peak = 1313.801 ; gain = 297.695
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:06 ; elapsed = 00:00:06 . Memory (MB): peak = 1313.801 ; gain = 297.695
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:06 ; elapsed = 00:00:06 . Memory (MB): peak = 1313.801 ; gain = 297.695
+---------------------------------------------------------------------------------
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.009 . Memory (MB): peak = 1313.801 ; gain = 0.000
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+Completed Processing XDC Constraints
+
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1403.918 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+RTL Elaboration Complete:  : Time (s): cpu = 00:00:15 ; elapsed = 00:00:09 . Memory (MB): peak = 1456.195 ; gain = 440.090
+66 Infos, 0 Warnings, 0 Critical Warnings and 0 Errors encountered.
+synth_design completed successfully
+synth_design: Time (s): cpu = 00:00:19 ; elapsed = 00:00:14 . Memory (MB): peak = 1456.195 ; gain = 440.090
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri Oct 14 19:16:00 2022...

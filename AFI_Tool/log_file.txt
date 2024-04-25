@@ -1,0 +1,117 @@
+run_all.cmd started at: 26/03/2024 16:28:15.96 
+run_all.cmd started at: 26/03/2024 16:28:45.44 
+
+
+CHECKPOINT - Design data extraction end: 03/26/2024 16:29:49
+
+
+
+
+CHECKPOINT - register.txt files created: 03/26/2024 16:29:50
+
+
+
+
+CHECKPOINT - Simulation scenarios (cmd.tcl) created: 03/26/2024 16:29:50
+
+
+run_all.cmd started at: 26/03/2024 16:50:06.63 
+
+
+CHECKPOINT - Design data extraction end: 03/26/2024 16:51:11
+
+
+
+
+CHECKPOINT - register.txt files created: 03/26/2024 16:51:11
+
+
+
+
+CHECKPOINT - Simulation scenarios (cmd.tcl) created: 03/26/2024 16:51:11
+
+
+run_all.cmd started at: 26/03/2024 16:54:36.12 
+
+
+CHECKPOINT - Design data extraction end: 03/26/2024 16:55:38
+
+
+
+
+CHECKPOINT - register.txt files created: 03/26/2024 16:55:38
+
+
+
+
+CHECKPOINT - Simulation scenarios (cmd.tcl) created: 03/26/2024 16:55:38
+
+
+run_all.cmd started at: 26/03/2024 17:01:42.69 
+
+
+CHECKPOINT - Design data extraction end: 03/26/2024 17:02:45
+
+
+
+
+CHECKPOINT - register.txt files created: 03/26/2024 17:02:46
+
+
+
+
+CHECKPOINT - Simulation scenarios (cmd.tcl) created: 03/26/2024 17:02:46
+
+
+run_all.cmd started at: 26/03/2024 17:07:21.19 
+
+
+CHECKPOINT - Design data extraction end: 03/26/2024 17:08:24
+
+
+
+
+CHECKPOINT - register.txt files created: 03/26/2024 17:08:24
+
+
+
+
+CHECKPOINT - Simulation scenarios (cmd.tcl) created: 03/26/2024 17:08:24
+
+
+
+
+	Attack on C:/MyWork/AFI_Tool/Designs/design_0/FI start at: 03/26/2024 17:09:35 --
+
+
+	Attack on C:/MyWork/AFI_Tool/Designs/design_0/FI ended at: 03/26/2024 17:26:09
+
+
+CHECKPOINT - Fault evaluation done at 26-Mar-2024 17:26:17
+
+run_all.cmd started at: 26/03/2024 18:39:55.60 
+
+
+CHECKPOINT - Design data extraction end: 03/26/2024 18:42:39
+
+
+
+
+CHECKPOINT - register.txt files created: 03/26/2024 18:42:40
+
+
+
+
+CHECKPOINT - Simulation scenarios (cmd.tcl) created: 03/26/2024 18:42:40
+
+
+
+
+	Attack on C:/MyWork/AFI_Tool/Designs/design_0/FI start at: 03/26/2024 18:44:09 --
+
+
+	Attack on C:/MyWork/AFI_Tool/Designs/design_0/FI ended at: 03/26/2024 19:07:27
+
+
+CHECKPOINT - Fault evaluation done at 26-Mar-2024 19:07:45
+

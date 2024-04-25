@@ -1,0 +1,23 @@
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe --relax --debug typical --mt auto -L Module -L secureip --snapshot top_function Module.top_function -log elaborate.log 
+Multi-threading is on. Using 10 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture rtl of entity module.top_function_A2X_rom [top_function_a2x_rom_default]
+Compiling architecture arch of entity module.top_function_A2X [top_function_a2x_default]
+Compiling architecture rtl of entity module.top_function_X2S_rom [top_function_x2s_rom_default]
+Compiling architecture arch of entity module.top_function_X2S [top_function_x2s_default]
+Compiling architecture behav of entity module.G16_mul [g16_mul_default]
+Compiling architecture behav of entity module.G256_inv [g256_inv_default]
+Compiling architecture behav of entity module.top_function
+Built simulation snapshot top_function

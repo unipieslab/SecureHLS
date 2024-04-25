@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Webtalk v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue Mar 26 18:44:01 2024
+# Process ID: 13600
+# Current directory: C:/MyWork/AFI_Tool/Designs/design_0/xsim
+# Command line: wbtcv.exe -mode batch -source C:/MyWork/AFI_Tool/Designs/design_0/xsim/xsim.dir/top_function/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/MyWork/AFI_Tool/Designs/design_0/xsim/webtalk.log
+# Journal file: C:/MyWork/AFI_Tool/Designs/design_0/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/MyWork/AFI_Tool/Designs/design_0/xsim/xsim.dir/top_function/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-206] Exiting Webtalk at Tue Mar 26 18:44:01 2024...

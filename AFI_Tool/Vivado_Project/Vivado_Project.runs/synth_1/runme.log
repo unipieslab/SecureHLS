@@ -1,0 +1,244 @@
+
+*** Running vivado
+    with args -log top_function.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source top_function.tcl
+
+
+
+****** Vivado v2020.1 (64-bit)
+  **** SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+  **** IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+    ** Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+
+source top_function.tcl -notrace
+Command: synth_design -top top_function -part xc7a12ticsg325-1L -flatten_hierarchy none -keep_equivalent_registers -resource_sharing off -no_lc
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7a12ti'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a12ti'
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+INFO: [Synth 8-7078] Launching helper process for spawning children vivado processes
+INFO: [Synth 8-7075] Helper process launched with PID 16484
+---------------------------------------------------------------------------------
+Starting Synthesize : Time (s): cpu = 00:00:10 ; elapsed = 00:00:10 . Memory (MB): peak = 1015.746 ; gain = 0.000
+---------------------------------------------------------------------------------
+INFO: [Synth 8-638] synthesizing module 'top_function' [C:/MyWork/AFI_Tool/Designs/design_0/Module/top_function.vhd:29]
+	Parameter DataWidth bound to: 8 - type: integer 
+	Parameter AddressRange bound to: 8 - type: integer 
+	Parameter AddressWidth bound to: 3 - type: integer 
+INFO: [Synth 8-3491] module 'top_function_A2X' declared at 'C:/MyWork/AFI_Tool/Designs/design_0/Module/top_function_A2X.vhd:66' bound to instance 'A2X_U' of component 'top_function_A2X' [C:/MyWork/AFI_Tool/Designs/design_0/Module/top_function.vhd:165]
+INFO: [Synth 8-638] synthesizing module 'top_function_A2X' [C:/MyWork/AFI_Tool/Designs/design_0/Module/top_function_A2X.vhd:79]
+	Parameter DataWidth bound to: 8 - type: integer 
+	Parameter AddressRange bound to: 8 - type: integer 
+	Parameter AddressWidth bound to: 3 - type: integer 
+INFO: [Synth 8-3491] module 'top_function_A2X_rom' declared at 'C:/MyWork/AFI_Tool/Designs/design_0/Module/top_function_A2X.vhd:9' bound to instance 'top_function_A2X_rom_U' of component 'top_function_A2X_rom' [C:/MyWork/AFI_Tool/Designs/design_0/Module/top_function_A2X.vhd:91]
+INFO: [Synth 8-638] synthesizing module 'top_function_A2X_rom' [C:/MyWork/AFI_Tool/Designs/design_0/Module/top_function_A2X.vhd:24]
+	Parameter DWIDTH bound to: 8 - type: integer 
+	Parameter AWIDTH bound to: 3 - type: integer 
+	Parameter MEM_SIZE bound to: 8 - type: integer 
+INFO: [Synth 8-256] done synthesizing module 'top_function_A2X_rom' (1#1) [C:/MyWork/AFI_Tool/Designs/design_0/Module/top_function_A2X.vhd:24]
+INFO: [Synth 8-256] done synthesizing module 'top_function_A2X' (2#1) [C:/MyWork/AFI_Tool/Designs/design_0/Module/top_function_A2X.vhd:79]
+	Parameter DataWidth bound to: 8 - type: integer 
+	Parameter AddressRange bound to: 8 - type: integer 
+	Parameter AddressWidth bound to: 3 - type: integer 
+INFO: [Synth 8-3491] module 'top_function_X2S' declared at 'C:/MyWork/AFI_Tool/Designs/design_0/Module/top_function_X2S.vhd:66' bound to instance 'X2S_U' of component 'top_function_X2S' [C:/MyWork/AFI_Tool/Designs/design_0/Module/top_function.vhd:177]
+INFO: [Synth 8-638] synthesizing module 'top_function_X2S' [C:/MyWork/AFI_Tool/Designs/design_0/Module/top_function_X2S.vhd:79]
+	Parameter DataWidth bound to: 8 - type: integer 
+	Parameter AddressRange bound to: 8 - type: integer 
+	Parameter AddressWidth bound to: 3 - type: integer 
+INFO: [Synth 8-3491] module 'top_function_X2S_rom' declared at 'C:/MyWork/AFI_Tool/Designs/design_0/Module/top_function_X2S.vhd:9' bound to instance 'top_function_X2S_rom_U' of component 'top_function_X2S_rom' [C:/MyWork/AFI_Tool/Designs/design_0/Module/top_function_X2S.vhd:91]
+INFO: [Synth 8-638] synthesizing module 'top_function_X2S_rom' [C:/MyWork/AFI_Tool/Designs/design_0/Module/top_function_X2S.vhd:24]
+	Parameter DWIDTH bound to: 8 - type: integer 
+	Parameter AWIDTH bound to: 3 - type: integer 
+	Parameter MEM_SIZE bound to: 8 - type: integer 
+INFO: [Synth 8-256] done synthesizing module 'top_function_X2S_rom' (3#1) [C:/MyWork/AFI_Tool/Designs/design_0/Module/top_function_X2S.vhd:24]
+INFO: [Synth 8-256] done synthesizing module 'top_function_X2S' (4#1) [C:/MyWork/AFI_Tool/Designs/design_0/Module/top_function_X2S.vhd:79]
+INFO: [Synth 8-3491] module 'G256_inv' declared at 'C:/MyWork/AFI_Tool/Designs/design_0/Module/G256_inv.vhd:12' bound to instance 'grp_G256_inv_fu_176' of component 'G256_inv' [C:/MyWork/AFI_Tool/Designs/design_0/Module/top_function.vhd:189]
+INFO: [Synth 8-638] synthesizing module 'G256_inv' [C:/MyWork/AFI_Tool/Designs/design_0/Module/G256_inv.vhd:25]
+INFO: [Synth 8-3491] module 'G16_mul' declared at 'C:/MyWork/AFI_Tool/Designs/design_0/Module/G16_mul.vhd:12' bound to instance 'grp_G16_mul_fu_48' of component 'G16_mul' [C:/MyWork/AFI_Tool/Designs/design_0/Module/G256_inv.vhd:138]
+INFO: [Synth 8-638] synthesizing module 'G16_mul' [C:/MyWork/AFI_Tool/Designs/design_0/Module/G16_mul.vhd:21]
+INFO: [Synth 8-256] done synthesizing module 'G16_mul' (5#1) [C:/MyWork/AFI_Tool/Designs/design_0/Module/G16_mul.vhd:21]
+INFO: [Synth 8-3491] module 'G16_mul' declared at 'C:/MyWork/AFI_Tool/Designs/design_0/Module/G16_mul.vhd:12' bound to instance 'q_G16_mul_fu_54' of component 'G16_mul' [C:/MyWork/AFI_Tool/Designs/design_0/Module/G256_inv.vhd:145]
+INFO: [Synth 8-256] done synthesizing module 'G256_inv' (6#1) [C:/MyWork/AFI_Tool/Designs/design_0/Module/G256_inv.vhd:25]
+INFO: [Synth 8-256] done synthesizing module 'top_function' (7#1) [C:/MyWork/AFI_Tool/Designs/design_0/Module/top_function.vhd:29]
+---------------------------------------------------------------------------------
+Finished Synthesize : Time (s): cpu = 00:00:14 ; elapsed = 00:00:14 . Memory (MB): peak = 1015.746 ; gain = 0.000
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Constraint Validation : Time (s): cpu = 00:00:15 ; elapsed = 00:00:16 . Memory (MB): peak = 1015.746 ; gain = 0.000
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Loading Part and Timing Information
+---------------------------------------------------------------------------------
+Loading part: xc7a12ticsg325-1L
+---------------------------------------------------------------------------------
+Finished Loading Part and Timing Information : Time (s): cpu = 00:00:15 ; elapsed = 00:00:16 . Memory (MB): peak = 1015.746 ; gain = 0.000
+---------------------------------------------------------------------------------
+INFO: [Device 21-403] Loading part xc7a12ticsg325-1L
+INFO: [Synth 8-4490] FSM extraction disabled for register 'ap_CS_fsm_reg' through user attribute
+INFO: [Synth 8-4490] FSM extraction disabled for register 'ap_CS_fsm_reg' through user attribute
+INFO: [Synth 8-4490] FSM extraction disabled for register 'ap_CS_fsm_reg' through user attribute
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 2 : Time (s): cpu = 00:00:17 ; elapsed = 00:00:17 . Memory (MB): peak = 1015.746 ; gain = 0.000
+---------------------------------------------------------------------------------
+No constraint files found.
+---------------------------------------------------------------------------------
+Start RTL Component Statistics 
+---------------------------------------------------------------------------------
+Detailed RTL Component Info : 
++---Adders : 
+	   2 Input    4 Bit       Adders := 2     
++---XORs : 
+	   2 Input     32 Bit         XORs := 3     
+	   2 Input      4 Bit         XORs := 2     
+	   2 Input      2 Bit         XORs := 13    
+	   2 Input      1 Bit         XORs := 41    
+	   3 Input      1 Bit         XORs := 2     
+	   4 Input      1 Bit         XORs := 1     
++---Registers : 
+	               32 Bit    Registers := 6     
+	               31 Bit    Registers := 2     
+	                8 Bit    Registers := 2     
+	                6 Bit    Registers := 1     
+	                4 Bit    Registers := 6     
+	                2 Bit    Registers := 1     
+	                1 Bit    Registers := 14    
++---Muxes : 
+	   2 Input   32 Bit        Muxes := 1     
+	   2 Input   31 Bit        Muxes := 1     
+	   2 Input    6 Bit        Muxes := 1     
+	   2 Input    5 Bit        Muxes := 1     
+	   2 Input    4 Bit        Muxes := 3     
+	   4 Input    2 Bit        Muxes := 1     
+	   2 Input    2 Bit        Muxes := 1     
+	   2 Input    1 Bit        Muxes := 3     
+---------------------------------------------------------------------------------
+Finished RTL Component Statistics 
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Part Resource Summary
+---------------------------------------------------------------------------------
+Part Resources:
+DSPs: 40 (col length:40)
+BRAMs: 40 (col length: RAMB18 40 RAMB36 20)
+---------------------------------------------------------------------------------
+Finished Part Resource Summary
+---------------------------------------------------------------------------------
+No constraint files found.
+---------------------------------------------------------------------------------
+Start Cross Boundary and Area Optimization
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Cross Boundary and Area Optimization : Time (s): cpu = 00:00:29 ; elapsed = 00:00:31 . Memory (MB): peak = 1015.746 ; gain = 0.000
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start ROM, RAM, DSP and Shift Register Reporting
+---------------------------------------------------------------------------------
+
+ROM: Preliminary Mapping	Report
++---------------------+------------+---------------+----------------+
+|Module Name          | RTL Object | Depth x Width | Implemented As | 
++---------------------+------------+---------------+----------------+
+|top_function_A2X_rom | p_0_out    | 8x8           | LUT            | 
+|top_function_X2S_rom | p_0_out    | 8x8           | LUT            | 
++---------------------+------------+---------------+----------------+
+
+---------------------------------------------------------------------------------
+Finished ROM, RAM, DSP and Shift Register Reporting
+---------------------------------------------------------------------------------
+No constraint files found.
+---------------------------------------------------------------------------------
+Start Timing Optimization
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Timing Optimization : Time (s): cpu = 00:00:29 ; elapsed = 00:00:32 . Memory (MB): peak = 1015.746 ; gain = 0.000
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Technology Mapping
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Technology Mapping : Time (s): cpu = 00:00:29 ; elapsed = 00:00:32 . Memory (MB): peak = 1015.746 ; gain = 0.000
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished IO Insertion : Time (s): cpu = 00:00:42 ; elapsed = 00:00:44 . Memory (MB): peak = 1015.746 ; gain = 0.000
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Instances
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Instances : Time (s): cpu = 00:00:42 ; elapsed = 00:00:44 . Memory (MB): peak = 1015.746 ; gain = 0.000
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:42 ; elapsed = 00:00:44 . Memory (MB): peak = 1015.746 ; gain = 0.000
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Writing Synthesis Report
+---------------------------------------------------------------------------------
+
+Report BlackBoxes: 
++-+--------------+----------+
+| |BlackBox name |Instances |
++-+--------------+----------+
++-+--------------+----------+
+
+Report Cell Usage: 
++------+-----+------+
+|      |Cell |Count |
++------+-----+------+
+|1     |BUFG |     1|
+|2     |LUT1 |     6|
+|3     |LUT2 |    34|
+|4     |LUT3 |    72|
+|5     |LUT4 |    17|
+|6     |LUT5 |     3|
+|7     |LUT6 |    15|
+|8     |FDRE |   165|
+|9     |FDSE |     8|
+|10    |IBUF |    35|
+|11    |OBUF |    35|
++------+-----+------+
+
+Report Instance Areas: 
++------+---------------------------+---------------------+------+
+|      |Instance                   |Module               |Cells |
++------+---------------------------+---------------------+------+
+|1     |top                        |                     |   391|
+|2     |  A2X_U                    |top_function_A2X     |    16|
+|3     |    top_function_A2X_rom_U |top_function_A2X_rom |    16|
+|4     |  X2S_U                    |top_function_X2S     |    16|
+|5     |    top_function_X2S_rom_U |top_function_X2S_rom |    16|
+|6     |  grp_G256_inv_fu_176      |G256_inv             |    69|
+|7     |    grp_G16_mul_fu_48      |G16_mul__1           |    12|
+|8     |    q_G16_mul_fu_54        |G16_mul              |    12|
++------+---------------------------+---------------------+------+
+---------------------------------------------------------------------------------
+Finished Writing Synthesis Report : Time (s): cpu = 00:00:42 ; elapsed = 00:00:44 . Memory (MB): peak = 1015.746 ; gain = 0.000
+---------------------------------------------------------------------------------
+Synthesis finished with 0 errors, 0 critical warnings and 0 warnings.
+Synthesis Optimization Runtime : Time (s): cpu = 00:00:42 ; elapsed = 00:00:44 . Memory (MB): peak = 1015.746 ; gain = 0.000
+Synthesis Optimization Complete : Time (s): cpu = 00:00:42 ; elapsed = 00:00:44 . Memory (MB): peak = 1015.746 ; gain = 0.000
+INFO: [Project 1-571] Translating synthesized netlist
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.031 . Memory (MB): peak = 1015.746 ; gain = 0.000
+INFO: [Project 1-570] Preparing netlist for logic optimization
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1015.746 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+INFO: [Common 17-83] Releasing license: Synthesis
+34 Infos, 0 Warnings, 0 Critical Warnings and 0 Errors encountered.
+synth_design completed successfully
+synth_design: Time (s): cpu = 00:00:52 ; elapsed = 00:00:58 . Memory (MB): peak = 1015.746 ; gain = 0.000
+INFO: [Common 17-1381] The checkpoint 'C:/MyWork/AFI_Tool/Vivado_Project/Vivado_Project.runs/synth_1/top_function.dcp' has been generated.
+INFO: [runtcl-4] Executing : report_utilization -file top_function_utilization_synth.rpt -pb top_function_utilization_synth.pb
+INFO: [Common 17-206] Exiting Vivado at Tue Mar 26 18:42:03 2024...

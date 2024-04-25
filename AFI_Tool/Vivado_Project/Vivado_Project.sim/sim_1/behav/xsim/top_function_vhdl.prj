@@ -1,0 +1,14 @@
+# compile vhdl design source files
+vhdl Module  \
+"../../../../../Designs/design_0/Module/G16_mul_1.vhd" \
+"../../../../../Designs/design_0/Module/G16_mul_2.vhd" \
+"../../../../../Designs/design_0/Module/G256_inv_1.vhd" \
+"../../../../../Designs/design_0/Module/G256_inv_2.vhd" \
+"../../../../../Designs/design_0/Module/Sbox_1.vhd" \
+"../../../../../Designs/design_0/Module/Sbox_2.vhd" \
+"../../../../../Designs/design_0/Module/Sbox_2_A2X_2.vhd" \
+"../../../../../Designs/design_0/Module/Sbox_2_X2S_2.vhd" \
+"../../../../../Designs/design_0/Module/top_function.vhd" \
+
+# Do not sort compile order
+nosort

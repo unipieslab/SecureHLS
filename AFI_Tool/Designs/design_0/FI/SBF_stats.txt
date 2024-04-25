@@ -1,0 +1,19 @@
+
+
+Statistics for SBF on design
+
+
+  --Raw Data--
+
+Detected : 0
+Critical : 316
+Hang : 393
+Silent : 5519
+Total : 6228
+
+   --Percentages--
+
+Detected : 0
+Critical : 5.0739
+Hang : 6.3102
+Silent : 88.6159

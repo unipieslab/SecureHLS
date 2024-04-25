@@ -1,0 +1,1 @@
+--relax --debug "typical" --mt "auto" -L "Module" -L "secureip" --snapshot "top_function" "Module.top_function" -log "elaborate.log" 

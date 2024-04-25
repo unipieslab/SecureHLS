@@ -1,0 +1,8 @@
+vhdl Module  \
+"srcs/G16_mul.vhd" \
+"srcs/G256_inv.vhd" \
+"srcs/top_function_A2X.vhd" \
+"srcs/top_function_X2S.vhd" \
+"srcs/top_function.vhd" \
+
+nosort

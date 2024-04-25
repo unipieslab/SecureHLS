@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Fri Oct 14 19:12:53 2022
+# Process ID: 23832
+# Current directory: C:/MyWork/GNN/FI_v2/Vivado_Project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3028 C:\MyWork\GNN\FI_v2\Vivado_Project\Vivado_Project.xpr
+# Log file: C:/MyWork/GNN/FI_v2/Vivado_Project/vivado.log
+# Journal file: C:/MyWork/GNN/FI_v2/Vivado_Project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/MyWork/GNN/FI_v2/Vivado_Project/Vivado_Project.xpr
+update_compile_order -fileset sources_1
+synth_design -rtl -name rtl_1
