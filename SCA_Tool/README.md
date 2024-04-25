@@ -6,10 +6,10 @@ The platform enables users to automatically perform trace acquisition regarding 
 
 Regarding the software, the platform requires 
 * Python 3.7 
-    -ChipWhisperer (version 5.7.0) package 
+    - ChipWhisperer (version 5.7.0) package 
 * NI-VISA drivers 
 * Matlab 2021.b
-    -Matlab Engine
+    - Matlab Engine
 
 
 ## Flow
