@@ -1,0 +1,1223 @@
+
+--- Fold %d --- 0
+Epoch: 01 | Train Loss: 18.6191 | Val Loss: 10.9213  | Exp Val Loss: 2208551114968323325952.00000000 
+
+Epoch: 02 | Train Loss: 11.4056 | Val Loss: 10.8381  | Exp Val Loss: 2208550734300526149632.00000000 
+
+Epoch: 03 | Train Loss: 11.0871 | Val Loss: 12.3732  | Exp Val Loss: 2208551206385659674624.00000000 
+
+Epoch: 04 | Train Loss: 13.2614 | Val Loss: 13.6621  | Exp Val Loss: 2208551106360241291264.00000000 
+
+Epoch: 05 | Train Loss: 12.2882 | Val Loss: 10.2194  | Exp Val Loss: 2208551111227366965248.00000000 
+
+Epoch: 06 | Train Loss: 10.3221 | Val Loss: 8.8038  | Exp Val Loss: 2208549823977076293632.00000000 
+
+Epoch: 07 | Train Loss: 9.3113 | Val Loss: 11.0000  | Exp Val Loss: 2208551206549973630976.00000000 
+
+Epoch: 08 | Train Loss: 11.8599 | Val Loss: 13.2909  | Exp Val Loss: 2208548393211436990464.00000000 
+
+Epoch: 09 | Train Loss: 12.4486 | Val Loss: 13.0042  | Exp Val Loss: 2208551108988071313408.00000000 
+
+Epoch: 10 | Train Loss: 8.6134 | Val Loss: 11.6545  | Exp Val Loss: 2208550905037980434432.00000000 
+
+Epoch: 11 | Train Loss: 7.7644 | Val Loss: 10.9312  | Exp Val Loss: 2208551105478561366016.00000000 
+
+Epoch: 12 | Train Loss: 9.5766 | Val Loss: 10.4555  | Exp Val Loss: 2208548670307424796672.00000000 
+
+Epoch: 13 | Train Loss: 8.5389 | Val Loss: 10.9977  | Exp Val Loss: 2208550854798252703744.00000000 
+
+Epoch: 14 | Train Loss: 8.6350 | Val Loss: 8.6038  | Exp Val Loss: 2208464536437942648832.00000000 
+
+Epoch: 15 | Train Loss: 9.9049 | Val Loss: 9.1905  | Exp Val Loss: 2208495069828453761024.00000000 
+
+Epoch: 16 | Train Loss: 8.2519 | Val Loss: 6.8971  | Exp Val Loss: 2208442146461518135296.00000000 
+
+Epoch: 17 | Train Loss: 6.2802 | Val Loss: 4.7027  | Exp Val Loss: 2203738797461241593856.00000000 
+
+Epoch: 18 | Train Loss: 5.4233 | Val Loss: 5.7822  | Exp Val Loss: 2196601478125867237376.00000000 
+
+Epoch: 19 | Train Loss: 4.2668 | Val Loss: 3.2851  | Exp Val Loss: 2196296092856898813952.00000000 
+
+Epoch: 20 | Train Loss: 4.4875 | Val Loss: 4.6456  | Exp Val Loss: 2206500093373218029568.00000000 
+
+Epoch: 21 | Train Loss: 3.8118 | Val Loss: 6.1524  | Exp Val Loss: 2277209084906743267328.00000000 
+
+Epoch: 22 | Train Loss: 5.5011 | Val Loss: 9.2582  | Exp Val Loss: 2208390577034335617024.00000000 
+
+Epoch: 23 | Train Loss: 9.3640 | Val Loss: 9.9809  | Exp Val Loss: 2208414731469104873472.00000000 
+
+Epoch: 24 | Train Loss: 8.1155 | Val Loss: 10.1529  | Exp Val Loss: 2207257460047719432192.00000000 
+
+Epoch: 25 | Train Loss: 4.5487 | Val Loss: 3.1834  | Exp Val Loss: 2180079598034496520192.00000000 
+
+Epoch: 26 | Train Loss: 2.3599 | Val Loss: 3.0699  | Exp Val Loss: 2188879756722829262848.00000000 
+
+Epoch: 27 | Train Loss: 2.7802 | Val Loss: 2.9089  | Exp Val Loss: 2154458837906593677312.00000000 
+
+Epoch: 28 | Train Loss: 1.9413 | Val Loss: 3.5153  | Exp Val Loss: 2208285672517089361920.00000000 
+
+Epoch: 29 | Train Loss: 2.0514 | Val Loss: 5.3092  | Exp Val Loss: 2200393215654438895616.00000000 
+
+Epoch: 30 | Train Loss: 4.0145 | Val Loss: 6.8965  | Exp Val Loss: 2202619022245970051072.00000000 
+
+Epoch: 31 | Train Loss: 3.3075 | Val Loss: 3.5012  | Exp Val Loss: 2208063353552996401152.00000000 
+
+Epoch: 32 | Train Loss: 2.9296 | Val Loss: 2.9765  | Exp Val Loss: 2208096382135135633408.00000000 
+
+Epoch: 33 | Train Loss: 2.8750 | Val Loss: 4.2103  | Exp Val Loss: 2207927609840309895168.00000000 
+
+Epoch: 34 | Train Loss: 1.9422 | Val Loss: 2.5389  | Exp Val Loss: 2207615372879464497152.00000000 
+
+Epoch: 35 | Train Loss: 4.5169 | Val Loss: 3.6509  | Exp Val Loss: 2207180662400899088384.00000000 
+
+Epoch: 36 | Train Loss: 2.2476 | Val Loss: 3.9554  | Exp Val Loss: 2204435172782417117184.00000000 
+
+Epoch: 37 | Train Loss: 2.1892 | Val Loss: 2.9162  | Exp Val Loss: 2207959692330245029888.00000000 
+
+Epoch: 38 | Train Loss: 2.0767 | Val Loss: 2.5703  | Exp Val Loss: 2205185240992222806016.00000000 
+
+Epoch: 39 | Train Loss: 2.1871 | Val Loss: 2.9880  | Exp Val Loss: 2208309079185984323584.00000000 
+
+Epoch: 40 | Train Loss: 2.0224 | Val Loss: 3.2045  | Exp Val Loss: 2207095456585629040640.00000000 
+
+Epoch: 41 | Train Loss: 2.3349 | Val Loss: 2.5987  | Exp Val Loss: 2204465109862249660416.00000000 
+
+Epoch: 42 | Train Loss: 2.2007 | Val Loss: 3.6551  | Exp Val Loss: 2205101825179042185216.00000000 
+
+Epoch: 43 | Train Loss: 1.8230 | Val Loss: 2.5735  | Exp Val Loss: 2093177705145123471360.00000000 
+
+Epoch: 44 | Train Loss: 3.6568 | Val Loss: 4.2533  | Exp Val Loss: 2206747460670564073472.00000000 
+
+Epoch: 45 | Train Loss: 4.3747 | Val Loss: 4.5475  | Exp Val Loss: 2205543281201814437888.00000000 
+
+Epoch: 46 | Train Loss: 2.5082 | Val Loss: 3.7560  | Exp Val Loss: 2201074142287371173888.00000000 
+
+Epoch: 47 | Train Loss: 2.8078 | Val Loss: 4.7980  | Exp Val Loss: 2187889970601013018624.00000000 
+
+Epoch: 48 | Train Loss: 2.7236 | Val Loss: 3.5848  | Exp Val Loss: 2205449007687974780928.00000000 
+
+Epoch: 49 | Train Loss: 2.1979 | Val Loss: 3.1567  | Exp Val Loss: 2189502506823939522560.00000000 
+
+Epoch: 50 | Train Loss: 1.8876 | Val Loss: 3.2426  | Exp Val Loss: 2197063155677044932608.00000000 
+
+Epoch: 51 | Train Loss: 2.0444 | Val Loss: 3.3450  | Exp Val Loss: 2194524338676361068544.00000000 
+
+Epoch: 52 | Train Loss: 2.2904 | Val Loss: 3.1721  | Exp Val Loss: 2185029388093378789376.00000000 
+
+Epoch: 53 | Train Loss: 2.0301 | Val Loss: 3.4071  | Exp Val Loss: 2186990281966316158976.00000000 
+
+Epoch: 54 | Train Loss: 1.5124 | Val Loss: 3.4229  | Exp Val Loss: 2198838063557698912256.00000000 
+
+Epoch: 55 | Train Loss: 2.2046 | Val Loss: 2.8983  | Exp Val Loss: 2183684996776811298816.00000000 
+
+Epoch: 56 | Train Loss: 1.6788 | Val Loss: 2.6736  | Exp Val Loss: 2186140267842711584768.00000000 
+
+Epoch: 57 | Train Loss: 1.4697 | Val Loss: 3.0380  | Exp Val Loss: 2212620207367020871680.00000000 
+
+Epoch: 58 | Train Loss: 1.5740 | Val Loss: 2.6943  | Exp Val Loss: 2197132664706138898432.00000000 
+
+Epoch: 59 | Train Loss: 0.9470 | Val Loss: 2.8102  | Exp Val Loss: 2211617630689179729920.00000000 
+
+Epoch: 60 | Train Loss: 1.1243 | Val Loss: 3.0617  | Exp Val Loss: 2201380474255129968640.00000000 
+
+Epoch: 61 | Train Loss: 1.2273 | Val Loss: 2.8522  | Exp Val Loss: 2196620269097154510848.00000000 
+
+Epoch: 62 | Train Loss: 1.0448 | Val Loss: 2.6527  | Exp Val Loss: 2182951742834964168704.00000000 
+
+Epoch: 63 | Train Loss: 1.0430 | Val Loss: 2.8859  | Exp Val Loss: 2185678866298431340544.00000000 
+
+Epoch: 64 | Train Loss: 1.2805 | Val Loss: 2.8934  | Exp Val Loss: 2184783083218679365632.00000000 
+
+Epoch: 65 | Train Loss: 0.9198 | Val Loss: 3.2368  | Exp Val Loss: 2207514300961025163264.00000000 
+
+Epoch: 66 | Train Loss: 0.8852 | Val Loss: 2.7118  | Exp Val Loss: 2201717821324170887168.00000000 
+
+Epoch: 67 | Train Loss: 0.9330 | Val Loss: 2.8419  | Exp Val Loss: 2185654450152405729280.00000000 
+
+Epoch: 68 | Train Loss: 0.8482 | Val Loss: 2.6428  | Exp Val Loss: 2207565841633867464704.00000000 
+
+Epoch: 69 | Train Loss: 0.6344 | Val Loss: 3.1109  | Exp Val Loss: 2210593229298011734016.00000000 
+
+Epoch: 70 | Train Loss: 0.8574 | Val Loss: 2.5802  | Exp Val Loss: 2191267740225661042688.00000000 
+
+Epoch: 71 | Train Loss: 0.7641 | Val Loss: 2.4134  | Exp Val Loss: 2194426434647996497920.00000000 
+
+Epoch: 72 | Train Loss: 1.0850 | Val Loss: 2.4219  | Exp Val Loss: 2222346606750443503616.00000000 
+
+Epoch: 73 | Train Loss: 0.8666 | Val Loss: 2.3448  | Exp Val Loss: 2206694618326170599424.00000000 
+
+Epoch: 74 | Train Loss: 0.6483 | Val Loss: 2.2632  | Exp Val Loss: 2206140750948661723136.00000000 
+
+Epoch: 75 | Train Loss: 0.6277 | Val Loss: 2.2689  | Exp Val Loss: 2208784851089441947648.00000000 
+
+Epoch: 76 | Train Loss: 0.6884 | Val Loss: 2.1327  | Exp Val Loss: 2204603585098569744384.00000000 
+
+Epoch: 77 | Train Loss: 0.6545 | Val Loss: 2.2245  | Exp Val Loss: 2204208142181715148800.00000000 
+
+Epoch: 78 | Train Loss: 0.6614 | Val Loss: 2.2638  | Exp Val Loss: 2184586584766586028032.00000000 
+
+Epoch: 79 | Train Loss: 0.7330 | Val Loss: 2.3350  | Exp Val Loss: 2129028591846379225088.00000000 
+
+Epoch: 80 | Train Loss: 0.5941 | Val Loss: 2.3689  | Exp Val Loss: 2205318231649432371200.00000000 
+
+Epoch: 81 | Train Loss: 0.4561 | Val Loss: 2.1850  | Exp Val Loss: 2124373059638325936128.00000000 
+
+Epoch: 82 | Train Loss: 0.5526 | Val Loss: 2.0548  | Exp Val Loss: 2205015696724955496448.00000000 
+
+Epoch: 83 | Train Loss: 0.3830 | Val Loss: 2.2027  | Exp Val Loss: 2202724971512889868288.00000000 
+
+Epoch: 84 | Train Loss: 0.5432 | Val Loss: 2.2144  | Exp Val Loss: 2204246504312410734592.00000000 
+
+Epoch: 85 | Train Loss: 0.4184 | Val Loss: 2.1476  | Exp Val Loss: 2203135871441824120832.00000000 
+
+Epoch: 86 | Train Loss: 0.4505 | Val Loss: 2.0457  | Exp Val Loss: 2199989240885610020864.00000000 
+
+Epoch: 87 | Train Loss: 0.3422 | Val Loss: 2.2482  | Exp Val Loss: 2207872370119365885952.00000000 
+
+Epoch: 88 | Train Loss: 0.3266 | Val Loss: 2.0305  | Exp Val Loss: 2190096120148659011584.00000000 
+
+Epoch: 89 | Train Loss: 0.3562 | Val Loss: 2.1257  | Exp Val Loss: 2178563816727967694848.00000000 
+
+Epoch: 90 | Train Loss: 0.2567 | Val Loss: 2.2417  | Exp Val Loss: 2206464825733805244416.00000000 
+
+Epoch: 91 | Train Loss: 0.2578 | Val Loss: 2.1297  | Exp Val Loss: 2184716760744807628800.00000000 
+
+Epoch: 92 | Train Loss: 0.3973 | Val Loss: 2.0381  | Exp Val Loss: 2195579728023543087104.00000000 
+
+Epoch: 93 | Train Loss: 0.2366 | Val Loss: 2.0048  | Exp Val Loss: 2196523672333764526080.00000000 
+
+Epoch: 94 | Train Loss: 0.3896 | Val Loss: 2.0005  | Exp Val Loss: 2206045765260773163008.00000000 
+
+Epoch: 95 | Train Loss: 0.2831 | Val Loss: 2.0798  | Exp Val Loss: 2194945397969911808000.00000000 
+
+Epoch: 96 | Train Loss: 0.3332 | Val Loss: 2.1971  | Exp Val Loss: 2182100196060757491712.00000000 
+
+Epoch: 97 | Train Loss: 0.2750 | Val Loss: 2.0654  | Exp Val Loss: 2190396680669649698816.00000000 
+
+Epoch: 98 | Train Loss: 0.2818 | Val Loss: 2.0786  | Exp Val Loss: 2193336112504123424768.00000000 
+
+Epoch: 99 | Train Loss: 0.2645 | Val Loss: 1.9532  | Exp Val Loss: 2190585557557343158272.00000000 
+
+Epoch: 100 | Train Loss: 0.2796 | Val Loss: 1.9994  | Exp Val Loss: 2167868287033158664192.00000000 
+
+Epoch: 101 | Train Loss: 0.1528 | Val Loss: 2.0446  | Exp Val Loss: 2171540263886504067072.00000000 
+
+Epoch: 102 | Train Loss: 0.1642 | Val Loss: 2.2470  | Exp Val Loss: 2192717778233410977792.00000000 
+
+Epoch: 103 | Train Loss: 0.1555 | Val Loss: 1.9538  | Exp Val Loss: 2158541024526044495872.00000000 
+
+Epoch: 104 | Train Loss: 0.2292 | Val Loss: 1.8943  | Exp Val Loss: 2140329414021045026816.00000000 
+
+Epoch: 105 | Train Loss: 0.2138 | Val Loss: 1.8526  | Exp Val Loss: 2078365919642206076928.00000000 
+
+Epoch: 106 | Train Loss: 0.1757 | Val Loss: 1.9669  | Exp Val Loss: 2140084631986779455488.00000000 
+
+Epoch: 107 | Train Loss: 0.2015 | Val Loss: 2.0563  | Exp Val Loss: 2078651769552685498368.00000000 
+
+Epoch: 108 | Train Loss: 0.2795 | Val Loss: 1.8626  | Exp Val Loss: 2165731311096610160640.00000000 
+
+Epoch: 109 | Train Loss: 0.1912 | Val Loss: 2.0304  | Exp Val Loss: 2072822277568210403328.00000000 
+
+Epoch: 110 | Train Loss: 0.2035 | Val Loss: 2.1117  | Exp Val Loss: 2171678778524584640512.00000000 
+
+Epoch: 111 | Train Loss: 0.1574 | Val Loss: 1.9264  | Exp Val Loss: 2073070579760553525248.00000000 
+
+Epoch: 112 | Train Loss: 0.1439 | Val Loss: 2.0814  | Exp Val Loss: 2000875141281009106944.00000000 
+
+Epoch: 113 | Train Loss: 0.1767 | Val Loss: 2.2036  | Exp Val Loss: 2146157826960192962560.00000000 
+
+Epoch: 114 | Train Loss: 0.1301 | Val Loss: 1.9027  | Exp Val Loss: 2106412590028485820416.00000000 
+
+Epoch: 115 | Train Loss: 0.1138 | Val Loss: 1.9282  | Exp Val Loss: 2001437930389119434752.00000000 
+
+Epoch: 116 | Train Loss: 0.1438 | Val Loss: 1.8772  | Exp Val Loss: 2094224382733828489216.00000000 
+
+Epoch: 117 | Train Loss: 0.0929 | Val Loss: 2.0037  | Exp Val Loss: 2163075612007139901440.00000000 
+
+Epoch: 118 | Train Loss: 0.0894 | Val Loss: 2.0321  | Exp Val Loss: 2109966356508675670016.00000000 
+
+Epoch: 119 | Train Loss: 0.0658 | Val Loss: 2.0204  | Exp Val Loss: 2149152085895833976832.00000000 
+
+Epoch: 120 | Train Loss: 0.0618 | Val Loss: 2.0365  | Exp Val Loss: 2151418058438228312064.00000000 
+
+Epoch: 121 | Train Loss: 0.0597 | Val Loss: 1.9909  | Exp Val Loss: 2131708280477193076736.00000000 
+
+Epoch: 122 | Train Loss: 0.0561 | Val Loss: 2.0280  | Exp Val Loss: 2159305851373802487808.00000000 
+
+Epoch: 123 | Train Loss: 0.0597 | Val Loss: 2.0080  | Exp Val Loss: 2000224489391316008960.00000000 
+
+Epoch: 124 | Train Loss: 0.0617 | Val Loss: 1.9454  | Exp Val Loss: 2147197254166017998848.00000000 
+
+Epoch: 125 | Train Loss: 0.0514 | Val Loss: 1.9723  | Exp Val Loss: 2137733416549970083840.00000000 
+
+Epoch: 126 | Train Loss: 0.0584 | Val Loss: 1.9354  | Exp Val Loss: 2070685035217302323200.00000000 
+
+Epoch: 127 | Train Loss: 0.0514 | Val Loss: 2.0139  | Exp Val Loss: 2154899731248284434432.00000000 
+
+Epoch: 128 | Train Loss: 0.0294 | Val Loss: 1.9341  | Exp Val Loss: 2135988431774761091072.00000000 
+
+Epoch: 129 | Train Loss: 0.0226 | Val Loss: 1.9872  | Exp Val Loss: 2158477400839044202496.00000000 
+
+Epoch: 130 | Train Loss: 0.0333 | Val Loss: 1.9243  | Exp Val Loss: 2099331674046275518464.00000000 
+
+Epoch: 131 | Train Loss: 0.0356 | Val Loss: 1.9524  | Exp Val Loss: 2116569854269206822912.00000000 
+
+Epoch: 132 | Train Loss: 0.0238 | Val Loss: 1.9505  | Exp Val Loss: 2151116859767883563008.00000000 
+
+Epoch: 133 | Train Loss: 0.0233 | Val Loss: 1.9425  | Exp Val Loss: 2145227376326457163776.00000000 
+
+Epoch: 134 | Train Loss: 0.0257 | Val Loss: 1.9111  | Exp Val Loss: 2095437316502138912768.00000000 
+
+Epoch: 135 | Train Loss: 0.0296 | Val Loss: 1.9505  | Exp Val Loss: 2118056173998280278016.00000000 
+
+Epoch: 136 | Train Loss: 0.0237 | Val Loss: 1.9206  | Exp Val Loss: 2121045089533857366016.00000000 
+
+Epoch: 137 | Train Loss: 0.0223 | Val Loss: 1.9177  | Exp Val Loss: 2127031245044065501184.00000000 
+
+Epoch: 138 | Train Loss: 0.0216 | Val Loss: 1.9525  | Exp Val Loss: 2153947599523657809920.00000000 
+
+Epoch: 139 | Train Loss: 0.0167 | Val Loss: 1.8995  | Exp Val Loss: 2125917486510595899392.00000000 
+
+Epoch: 140 | Train Loss: 0.0139 | Val Loss: 1.9408  | Exp Val Loss: 2090046805629281501184.00000000 
+
+Epoch: 141 | Train Loss: 0.0130 | Val Loss: 1.9053  | Exp Val Loss: 2132627013527011328000.00000000 
+
+Epoch: 142 | Train Loss: 0.0202 | Val Loss: 1.9140  | Exp Val Loss: 2134290643798358228992.00000000 
+
+Epoch: 143 | Train Loss: 0.0147 | Val Loss: 1.9398  | Exp Val Loss: 2141367776101208948736.00000000 
+
+Epoch: 144 | Train Loss: 0.0163 | Val Loss: 1.9145  | Exp Val Loss: 2130595993142622945280.00000000 
+
+Epoch: 145 | Train Loss: 0.0136 | Val Loss: 1.8980  | Exp Val Loss: 2128148104505135726592.00000000 
+
+Epoch: 146 | Train Loss: 0.0122 | Val Loss: 1.9273  | Exp Val Loss: 2113102750529009221632.00000000 
+
+Epoch: 147 | Train Loss: 0.0178 | Val Loss: 1.9306  | Exp Val Loss: 2127258816599910776832.00000000 
+
+Epoch: 148 | Train Loss: 0.0114 | Val Loss: 1.9130  | Exp Val Loss: 2121331939060092764160.00000000 
+
+Epoch: 149 | Train Loss: 0.0173 | Val Loss: 1.9023  | Exp Val Loss: 2125078988108704514048.00000000 
+
+Epoch: 150 | Train Loss: 0.0131 | Val Loss: 1.8799  | Exp Val Loss: 2098588544316116041728.00000000 
+
+Epoch: 151 | Train Loss: 0.0060 | Val Loss: 1.8872  | Exp Val Loss: 2117172794498341666816.00000000 
+
+Epoch: 152 | Train Loss: 0.0105 | Val Loss: 1.9008  | Exp Val Loss: 2102918107134929928192.00000000 
+
+Epoch: 153 | Train Loss: 0.0088 | Val Loss: 1.8857  | Exp Val Loss: 2116480315247889219584.00000000 
+
+Epoch: 154 | Train Loss: 0.0091 | Val Loss: 1.8824  | Exp Val Loss: 2103332344973242662912.00000000 
+
+Epoch: 155 | Train Loss: 0.0101 | Val Loss: 1.8825  | Exp Val Loss: 2101172667721437675520.00000000 
+
+--- Fold %d --- 1
+Epoch: 01 | Train Loss: 15.1441 | Val Loss: 7.4716  | Exp Val Loss: 21456954932875738742784.00000000 
+
+Epoch: 02 | Train Loss: 10.3515 | Val Loss: 9.9383  | Exp Val Loss: 21456919880763011235840.00000000 
+
+Epoch: 03 | Train Loss: 6.9818 | Val Loss: 9.6455  | Exp Val Loss: 21455578144138430775296.00000000 
+
+Epoch: 04 | Train Loss: 6.0612 | Val Loss: 6.1694  | Exp Val Loss: 21456594705676853313536.00000000 
+
+Epoch: 05 | Train Loss: 4.9791 | Val Loss: 6.1509  | Exp Val Loss: 21455360896047324856320.00000000 
+
+Epoch: 06 | Train Loss: 6.8763 | Val Loss: 8.3319  | Exp Val Loss: 21456449463994902642688.00000000 
+
+Epoch: 07 | Train Loss: 5.5258 | Val Loss: 8.3202  | Exp Val Loss: 21456936827999368511488.00000000 
+
+Epoch: 08 | Train Loss: 5.7038 | Val Loss: 10.3230  | Exp Val Loss: 21456960411943628177408.00000000 
+
+Epoch: 09 | Train Loss: 3.3514 | Val Loss: 6.6454  | Exp Val Loss: 21456891173023267160064.00000000 
+
+Epoch: 10 | Train Loss: 4.6385 | Val Loss: 12.7616  | Exp Val Loss: 21451575479660967886848.00000000 
+
+Epoch: 11 | Train Loss: 6.0045 | Val Loss: 8.6236  | Exp Val Loss: 21456162761131851513856.00000000 
+
+Epoch: 12 | Train Loss: 4.3733 | Val Loss: 6.5932  | Exp Val Loss: 21456817405431663034368.00000000 
+
+Epoch: 13 | Train Loss: 3.8961 | Val Loss: 11.1395  | Exp Val Loss: 21434928728770751758336.00000000 
+
+Epoch: 14 | Train Loss: 3.9242 | Val Loss: 7.0938  | Exp Val Loss: 21456690248375437623296.00000000 
+
+Epoch: 15 | Train Loss: 3.5845 | Val Loss: 6.5305  | Exp Val Loss: 21456451047839993167872.00000000 
+
+Epoch: 16 | Train Loss: 2.5025 | Val Loss: 9.4276  | Exp Val Loss: 21448253518945324105728.00000000 
+
+Epoch: 17 | Train Loss: 2.7530 | Val Loss: 6.4293  | Exp Val Loss: 21456710912276093206528.00000000 
+
+Epoch: 18 | Train Loss: 2.7454 | Val Loss: 6.3819  | Exp Val Loss: 21456862867288154439680.00000000 
+
+Epoch: 19 | Train Loss: 1.8935 | Val Loss: 6.8689  | Exp Val Loss: 21457043935888880435200.00000000 
+
+Epoch: 20 | Train Loss: 1.5496 | Val Loss: 6.9881  | Exp Val Loss: 21459625373249354858496.00000000 
+
+Epoch: 21 | Train Loss: 1.0967 | Val Loss: 6.5231  | Exp Val Loss: 21456902482569348513792.00000000 
+
+Epoch: 22 | Train Loss: 1.7322 | Val Loss: 6.4945  | Exp Val Loss: 21456249410984026832896.00000000 
+
+Epoch: 23 | Train Loss: 2.5211 | Val Loss: 17.2219  | Exp Val Loss: 1072514343600431550169088.00000000 
+
+Epoch: 24 | Train Loss: 2.3189 | Val Loss: 6.5957  | Exp Val Loss: 21456850041654457925632.00000000 
+
+Epoch: 25 | Train Loss: 1.6532 | Val Loss: 6.7735  | Exp Val Loss: 21454925316380063432704.00000000 
+
+Epoch: 26 | Train Loss: 1.2911 | Val Loss: 6.0343  | Exp Val Loss: 21456871147453301129216.00000000 
+
+Epoch: 27 | Train Loss: 1.5634 | Val Loss: 6.3068  | Exp Val Loss: 21455618025300384808960.00000000 
+
+Epoch: 28 | Train Loss: 0.8912 | Val Loss: 6.7650  | Exp Val Loss: 21453484329879029678080.00000000 
+
+Epoch: 29 | Train Loss: 3.6137 | Val Loss: 6.4492  | Exp Val Loss: 21449831368897553498112.00000000 
+
+Epoch: 30 | Train Loss: 2.7695 | Val Loss: 6.7489  | Exp Val Loss: 21455891364643185098752.00000000 
+
+Epoch: 31 | Train Loss: 1.4219 | Val Loss: 5.8745  | Exp Val Loss: 21456866638116679581696.00000000 
+
+Epoch: 32 | Train Loss: 2.4254 | Val Loss: 6.5392  | Exp Val Loss: 21456854196198972588032.00000000 
+
+Epoch: 33 | Train Loss: 1.2753 | Val Loss: 6.0433  | Exp Val Loss: 21456776458760959819776.00000000 
+
+Epoch: 34 | Train Loss: 2.5143 | Val Loss: 6.1714  | Exp Val Loss: 21456599728115568082944.00000000 
+
+Epoch: 35 | Train Loss: 1.3228 | Val Loss: 6.3282  | Exp Val Loss: 21444631272113477517312.00000000 
+
+Epoch: 36 | Train Loss: 2.2244 | Val Loss: 7.1077  | Exp Val Loss: 21416121745595414085632.00000000 
+
+Epoch: 37 | Train Loss: 1.4147 | Val Loss: 6.0131  | Exp Val Loss: 21454172447488874643456.00000000 
+
+Epoch: 38 | Train Loss: 1.3702 | Val Loss: 7.4952  | Exp Val Loss: 21142916744111047311360.00000000 
+
+Epoch: 39 | Train Loss: 2.1104 | Val Loss: 6.2985  | Exp Val Loss: 21441304977274377863168.00000000 
+
+Epoch: 40 | Train Loss: 1.8655 | Val Loss: 5.7436  | Exp Val Loss: 21456049914601503981568.00000000 
+
+Epoch: 41 | Train Loss: 1.8808 | Val Loss: 6.1683  | Exp Val Loss: 21456357889826768289792.00000000 
+
+Epoch: 42 | Train Loss: 2.0002 | Val Loss: 5.8206  | Exp Val Loss: 21456763888660947927040.00000000 
+
+Epoch: 43 | Train Loss: 1.2919 | Val Loss: 5.6889  | Exp Val Loss: 21437099148275871645696.00000000 
+
+Epoch: 44 | Train Loss: 1.5481 | Val Loss: 5.6652  | Exp Val Loss: 21451273911065890521088.00000000 
+
+Epoch: 45 | Train Loss: 1.3144 | Val Loss: 6.5077  | Exp Val Loss: 21456061611526695419904.00000000 
+
+Epoch: 46 | Train Loss: 2.1756 | Val Loss: 5.7296  | Exp Val Loss: 21456826998365135831040.00000000 
+
+Epoch: 47 | Train Loss: 1.7667 | Val Loss: 5.8949  | Exp Val Loss: 21456571871237656018944.00000000 
+
+Epoch: 48 | Train Loss: 1.4885 | Val Loss: 5.9481  | Exp Val Loss: 21456594661537990311936.00000000 
+
+Epoch: 49 | Train Loss: 1.3221 | Val Loss: 5.9247  | Exp Val Loss: 21455376462073055674368.00000000 
+
+Epoch: 50 | Train Loss: 1.4484 | Val Loss: 5.8334  | Exp Val Loss: 21453986700898718449664.00000000 
+
+Epoch: 51 | Train Loss: 1.2583 | Val Loss: 5.5268  | Exp Val Loss: 21454342280008259600384.00000000 
+
+Epoch: 52 | Train Loss: 1.3655 | Val Loss: 5.4100  | Exp Val Loss: 21455971578934370238464.00000000 
+
+Epoch: 53 | Train Loss: 1.4772 | Val Loss: 8.0281  | Exp Val Loss: 21486710180209630380032.00000000 
+
+Epoch: 54 | Train Loss: 1.5806 | Val Loss: 5.7635  | Exp Val Loss: 21456173613003445370880.00000000 
+
+Epoch: 55 | Train Loss: 1.4005 | Val Loss: 5.9290  | Exp Val Loss: 21455974205501168680960.00000000 
+
+Epoch: 56 | Train Loss: 0.8156 | Val Loss: 7.1164  | Exp Val Loss: 21450439219033176801280.00000000 
+
+Epoch: 57 | Train Loss: 0.9688 | Val Loss: 5.6216  | Exp Val Loss: 21456252699160824774656.00000000 
+
+Epoch: 58 | Train Loss: 1.0498 | Val Loss: 5.4882  | Exp Val Loss: 21454093707884806275072.00000000 
+
+Epoch: 59 | Train Loss: 1.2041 | Val Loss: 5.2027  | Exp Val Loss: 21456412749649133174784.00000000 
+
+Epoch: 60 | Train Loss: 1.0558 | Val Loss: 5.5891  | Exp Val Loss: 21454914506483889602560.00000000 
+
+Epoch: 61 | Train Loss: 0.8453 | Val Loss: 5.4977  | Exp Val Loss: 21453598519568971595776.00000000 
+
+Epoch: 62 | Train Loss: 1.3901 | Val Loss: 5.7830  | Exp Val Loss: 21409182481542639779840.00000000 
+
+Epoch: 63 | Train Loss: 1.3415 | Val Loss: 5.1089  | Exp Val Loss: 21439876548584112390144.00000000 
+
+Epoch: 64 | Train Loss: 1.3762 | Val Loss: 5.1911  | Exp Val Loss: 21450315561542342410240.00000000 
+
+Epoch: 65 | Train Loss: 1.0913 | Val Loss: 5.2695  | Exp Val Loss: 21442353638796672630784.00000000 
+
+Epoch: 66 | Train Loss: 1.1331 | Val Loss: 5.2055  | Exp Val Loss: 21444894271963008073728.00000000 
+
+Epoch: 67 | Train Loss: 0.7611 | Val Loss: 6.3365  | Exp Val Loss: 21456885644594463637504.00000000 
+
+Epoch: 68 | Train Loss: 1.1143 | Val Loss: 5.4497  | Exp Val Loss: 21454096942640763240448.00000000 
+
+Epoch: 69 | Train Loss: 1.1395 | Val Loss: 5.9210  | Exp Val Loss: 21454015130010977828864.00000000 
+
+Epoch: 70 | Train Loss: 1.1888 | Val Loss: 5.6437  | Exp Val Loss: 21453036671277694189568.00000000 
+
+Epoch: 71 | Train Loss: 0.7539 | Val Loss: 5.4838  | Exp Val Loss: 21453322166065174675456.00000000 
+
+Epoch: 72 | Train Loss: 1.1573 | Val Loss: 5.8207  | Exp Val Loss: 21455798693045106376704.00000000 
+
+Epoch: 73 | Train Loss: 1.1183 | Val Loss: 5.5073  | Exp Val Loss: 21455755778593457700864.00000000 
+
+Epoch: 74 | Train Loss: 1.1007 | Val Loss: 5.9565  | Exp Val Loss: 21453062250438689030144.00000000 
+
+Epoch: 75 | Train Loss: 1.1867 | Val Loss: 5.6405  | Exp Val Loss: 21438485192655627091968.00000000 
+
+Epoch: 76 | Train Loss: 0.5997 | Val Loss: 5.7927  | Exp Val Loss: 21452627346501018845184.00000000 
+
+Epoch: 77 | Train Loss: 0.5146 | Val Loss: 5.6772  | Exp Val Loss: 21429753285157473746944.00000000 
+
+Epoch: 78 | Train Loss: 0.7502 | Val Loss: 4.6520  | Exp Val Loss: 21443751686856656289792.00000000 
+
+Epoch: 79 | Train Loss: 0.5323 | Val Loss: 5.0754  | Exp Val Loss: 21440256123145201647616.00000000 
+
+Epoch: 80 | Train Loss: 0.6183 | Val Loss: 5.2290  | Exp Val Loss: 21431955562868366114816.00000000 
+
+Epoch: 81 | Train Loss: 0.4936 | Val Loss: 5.4635  | Exp Val Loss: 21444434311691760566272.00000000 
+
+Epoch: 82 | Train Loss: 0.4842 | Val Loss: 5.6874  | Exp Val Loss: 21453259847736179556352.00000000 
+
+Epoch: 83 | Train Loss: 0.6067 | Val Loss: 5.4155  | Exp Val Loss: 21439691514919306395648.00000000 
+
+Epoch: 84 | Train Loss: 0.4681 | Val Loss: 4.8351  | Exp Val Loss: 21440798961740451676160.00000000 
+
+Epoch: 85 | Train Loss: 0.3463 | Val Loss: 4.7206  | Exp Val Loss: 21429774656679337525248.00000000 
+
+Epoch: 86 | Train Loss: 0.5069 | Val Loss: 4.9673  | Exp Val Loss: 21449580827347599228928.00000000 
+
+Epoch: 87 | Train Loss: 0.5236 | Val Loss: 5.3567  | Exp Val Loss: 21445710120381960945664.00000000 
+
+Epoch: 88 | Train Loss: 0.4820 | Val Loss: 4.7642  | Exp Val Loss: 21450642695838976966656.00000000 
+
+Epoch: 89 | Train Loss: 0.4349 | Val Loss: 4.8509  | Exp Val Loss: 21451756965869006094336.00000000 
+
+Epoch: 90 | Train Loss: 0.2899 | Val Loss: 4.7627  | Exp Val Loss: 21445784456898589753344.00000000 
+
+Epoch: 91 | Train Loss: 0.2225 | Val Loss: 4.6777  | Exp Val Loss: 21449426898434348023808.00000000 
+
+Epoch: 92 | Train Loss: 0.2251 | Val Loss: 5.1569  | Exp Val Loss: 21446235154072752619520.00000000 
+
+Epoch: 93 | Train Loss: 0.3238 | Val Loss: 5.3266  | Exp Val Loss: 21442454116298699833344.00000000 
+
+Epoch: 94 | Train Loss: 0.1939 | Val Loss: 5.0796  | Exp Val Loss: 21449395886893146570752.00000000 
+
+Epoch: 95 | Train Loss: 0.1999 | Val Loss: 5.1374  | Exp Val Loss: 21424087840954970537984.00000000 
+
+Epoch: 96 | Train Loss: 0.2545 | Val Loss: 5.1009  | Exp Val Loss: 21440664789983877398528.00000000 
+
+Epoch: 97 | Train Loss: 0.2735 | Val Loss: 5.0746  | Exp Val Loss: 21437247549885151969280.00000000 
+
+Epoch: 98 | Train Loss: 0.1979 | Val Loss: 4.8649  | Exp Val Loss: 21439703406121349808128.00000000 
+
+Epoch: 99 | Train Loss: 0.1890 | Val Loss: 4.8969  | Exp Val Loss: 21430293460157527490560.00000000 
+
+Epoch: 100 | Train Loss: 0.2025 | Val Loss: 5.9119  | Exp Val Loss: 21437464060327557595136.00000000 
+
+Epoch: 101 | Train Loss: 0.1619 | Val Loss: 4.9819  | Exp Val Loss: 21429541737260841435136.00000000 
+
+Epoch: 102 | Train Loss: 0.1391 | Val Loss: 5.4012  | Exp Val Loss: 21432742040818983895040.00000000 
+
+Epoch: 103 | Train Loss: 0.1231 | Val Loss: 5.6643  | Exp Val Loss: 21436924469055611469824.00000000 
+
+Epoch: 104 | Train Loss: 0.1268 | Val Loss: 5.2904  | Exp Val Loss: 21434233216063072370688.00000000 
+
+Epoch: 105 | Train Loss: 0.1133 | Val Loss: 5.2110  | Exp Val Loss: 21444872057776764878848.00000000 
+
+Epoch: 106 | Train Loss: 0.1251 | Val Loss: 5.0345  | Exp Val Loss: 21439253087339027628032.00000000 
+
+Epoch: 107 | Train Loss: 0.1227 | Val Loss: 5.0849  | Exp Val Loss: 21439114572770911977472.00000000 
+
+Epoch: 108 | Train Loss: 0.1151 | Val Loss: 4.7804  | Exp Val Loss: 21435353576573866344448.00000000 
+
+Epoch: 109 | Train Loss: 0.1041 | Val Loss: 4.8270  | Exp Val Loss: 21440031759168356483072.00000000 
+
+Epoch: 110 | Train Loss: 0.1175 | Val Loss: 4.6036  | Exp Val Loss: 21431664803865891438592.00000000 
+
+Epoch: 111 | Train Loss: 0.1061 | Val Loss: 4.8069  | Exp Val Loss: 21439309552685162692608.00000000 
+
+Epoch: 112 | Train Loss: 0.1067 | Val Loss: 4.8356  | Exp Val Loss: 21442371009517698678784.00000000 
+
+Epoch: 113 | Train Loss: 0.0961 | Val Loss: 4.7326  | Exp Val Loss: 21442155968642993356800.00000000 
+
+Epoch: 114 | Train Loss: 0.0880 | Val Loss: 5.1334  | Exp Val Loss: 21431444943689132015616.00000000 
+
+Epoch: 115 | Train Loss: 0.1154 | Val Loss: 4.8579  | Exp Val Loss: 21436085323842612887552.00000000 
+
+Epoch: 116 | Train Loss: 0.0773 | Val Loss: 4.8892  | Exp Val Loss: 21442743009932432375808.00000000 
+
+Epoch: 117 | Train Loss: 0.0837 | Val Loss: 4.8108  | Exp Val Loss: 21440440698096536518656.00000000 
+
+Epoch: 118 | Train Loss: 0.0861 | Val Loss: 4.8961  | Exp Val Loss: 21444755208354006040576.00000000 
+
+Epoch: 119 | Train Loss: 0.0813 | Val Loss: 4.9625  | Exp Val Loss: 21437839164632347967488.00000000 
+
+Epoch: 120 | Train Loss: 0.0941 | Val Loss: 4.7050  | Exp Val Loss: 21442147201669211881472.00000000 
+
+Epoch: 121 | Train Loss: 0.0975 | Val Loss: 4.8403  | Exp Val Loss: 21436834272420596547584.00000000 
+
+Epoch: 122 | Train Loss: 0.0666 | Val Loss: 4.7693  | Exp Val Loss: 21439709830158800125952.00000000 
+
+Epoch: 123 | Train Loss: 0.0647 | Val Loss: 4.8553  | Exp Val Loss: 21436703301030679412736.00000000 
+
+Epoch: 124 | Train Loss: 0.0545 | Val Loss: 4.7850  | Exp Val Loss: 21435321681802424221696.00000000 
+
+Epoch: 125 | Train Loss: 0.0577 | Val Loss: 4.8379  | Exp Val Loss: 21440701569390449000448.00000000 
+
+Epoch: 126 | Train Loss: 0.0528 | Val Loss: 4.7487  | Exp Val Loss: 21437863316705331118080.00000000 
+
+Epoch: 127 | Train Loss: 0.0496 | Val Loss: 4.8124  | Exp Val Loss: 21442183168414917328896.00000000 
+
+Epoch: 128 | Train Loss: 0.0550 | Val Loss: 4.8422  | Exp Val Loss: 21439740579730455265280.00000000 
+
+Epoch: 129 | Train Loss: 0.0487 | Val Loss: 4.8449  | Exp Val Loss: 21442887414901435793408.00000000 
+
+Epoch: 130 | Train Loss: 0.0519 | Val Loss: 4.8628  | Exp Val Loss: 21441303888659904200704.00000000 
+
+Epoch: 131 | Train Loss: 0.0497 | Val Loss: 4.9440  | Exp Val Loss: 21440061944532794605568.00000000 
+
+Epoch: 132 | Train Loss: 0.0433 | Val Loss: 4.8269  | Exp Val Loss: 21440725433571887546368.00000000 
+
+Epoch: 133 | Train Loss: 0.0359 | Val Loss: 4.9083  | Exp Val Loss: 21438141655497052258304.00000000 
+
+Epoch: 134 | Train Loss: 0.0458 | Val Loss: 4.9540  | Exp Val Loss: 21444429077886263099392.00000000 
+
+Epoch: 135 | Train Loss: 0.0447 | Val Loss: 4.9146  | Exp Val Loss: 21441198596826693894144.00000000 
+
+Epoch: 136 | Train Loss: 0.0374 | Val Loss: 4.8914  | Exp Val Loss: 21440865612633997312000.00000000 
+
+Epoch: 137 | Train Loss: 0.0375 | Val Loss: 4.9459  | Exp Val Loss: 21442220032962164948992.00000000 
+
+Epoch: 138 | Train Loss: 0.0362 | Val Loss: 4.8904  | Exp Val Loss: 21443109062497378762752.00000000 
+
+Epoch: 139 | Train Loss: 0.0314 | Val Loss: 4.8791  | Exp Val Loss: 21441515850133906915328.00000000 
+
+Epoch: 140 | Train Loss: 0.0347 | Val Loss: 4.9078  | Exp Val Loss: 21442958980635324055552.00000000 
+
+Epoch: 141 | Train Loss: 0.0326 | Val Loss: 4.8759  | Exp Val Loss: 21443850161246905040896.00000000 
+
+Epoch: 142 | Train Loss: 0.0377 | Val Loss: 4.8989  | Exp Val Loss: 21443818615004626681856.00000000 
+
+Epoch: 143 | Train Loss: 0.0317 | Val Loss: 4.8592  | Exp Val Loss: 21443169245234513051648.00000000 
+
+Epoch: 144 | Train Loss: 0.0314 | Val Loss: 4.8918  | Exp Val Loss: 21443530248358251724800.00000000 
+
+Epoch: 145 | Train Loss: 0.0252 | Val Loss: 4.8757  | Exp Val Loss: 21443516038831721676800.00000000 
+
+Epoch: 146 | Train Loss: 0.0281 | Val Loss: 4.8876  | Exp Val Loss: 21442558031102363041792.00000000 
+
+Epoch: 147 | Train Loss: 0.0311 | Val Loss: 4.8349  | Exp Val Loss: 21443613921833075605504.00000000 
+
+Epoch: 148 | Train Loss: 0.0260 | Val Loss: 4.8788  | Exp Val Loss: 21443345263867398717440.00000000 
+
+Epoch: 149 | Train Loss: 0.0232 | Val Loss: 4.8371  | Exp Val Loss: 21443278872237469335552.00000000 
+
+Epoch: 150 | Train Loss: 0.0242 | Val Loss: 4.8581  | Exp Val Loss: 21443573600987815870464.00000000 
+
+Epoch: 151 | Train Loss: 0.0248 | Val Loss: 4.8478  | Exp Val Loss: 21442252700093549379584.00000000 
+
+Epoch: 152 | Train Loss: 0.0244 | Val Loss: 4.9016  | Exp Val Loss: 21444534631953659330560.00000000 
+
+Epoch: 153 | Train Loss: 0.0246 | Val Loss: 4.8495  | Exp Val Loss: 21441554141851798208512.00000000 
+
+Epoch: 154 | Train Loss: 0.0264 | Val Loss: 4.8851  | Exp Val Loss: 21444125296060111257600.00000000 
+
+Epoch: 155 | Train Loss: 0.0217 | Val Loss: 4.8870  | Exp Val Loss: 21443960355469607829504.00000000 
+
+Epoch: 156 | Train Loss: 0.0254 | Val Loss: 4.9029  | Exp Val Loss: 21442999144719402926080.00000000 
+
+Epoch: 157 | Train Loss: 0.0239 | Val Loss: 4.9035  | Exp Val Loss: 21443357550323936788480.00000000 
+
+Epoch: 158 | Train Loss: 0.0231 | Val Loss: 4.9071  | Exp Val Loss: 21443896743566659026944.00000000 
+
+Epoch: 159 | Train Loss: 0.0178 | Val Loss: 4.9012  | Exp Val Loss: 21444734222655308169216.00000000 
+
+Epoch: 160 | Train Loss: 0.0188 | Val Loss: 4.9021  | Exp Val Loss: 21444081691132172435456.00000000 
+
+--- Fold %d --- 2
+Epoch: 01 | Train Loss: 19.0142 | Val Loss: 50.4982  | Exp Val Loss: 887054190439824535584768.00000000 
+
+Epoch: 02 | Train Loss: 10.4306 | Val Loss: 9.4464  | Exp Val Loss: 8233257893096981.00000000 
+
+Epoch: 03 | Train Loss: 7.7466 | Val Loss: 14.5495  | Exp Val Loss: 40590587595046409732096.00000000 
+
+Epoch: 04 | Train Loss: 9.8956 | Val Loss: 7.5981  | Exp Val Loss: 964266144610893440.00000000 
+
+Epoch: 05 | Train Loss: 6.1036 | Val Loss: 6.6718  | Exp Val Loss: 29796526615609680.00000000 
+
+Epoch: 06 | Train Loss: 6.9350 | Val Loss: 5.8972  | Exp Val Loss: 8909390423323899.00000000 
+
+Epoch: 07 | Train Loss: 5.6157 | Val Loss: 15.7531  | Exp Val Loss: 18440986509780555363516416.00000000 
+
+Epoch: 08 | Train Loss: 10.8997 | Val Loss: 10.2844  | Exp Val Loss: 8930220953077616.00000000 
+
+Epoch: 09 | Train Loss: 11.5184 | Val Loss: 13.0695  | Exp Val Loss: 8914668944054722.00000000 
+
+Epoch: 10 | Train Loss: 12.4665 | Val Loss: 8.5730  | Exp Val Loss: 8932019514371490.00000000 
+
+Epoch: 11 | Train Loss: 8.8227 | Val Loss: 8.1755  | Exp Val Loss: 8927268773548383.00000000 
+
+Epoch: 12 | Train Loss: 8.9328 | Val Loss: 8.4421  | Exp Val Loss: 8929714565369254.00000000 
+
+Epoch: 13 | Train Loss: 9.6909 | Val Loss: 7.3534  | Exp Val Loss: 8923765117633112.00000000 
+
+Epoch: 14 | Train Loss: 10.3467 | Val Loss: 7.2508  | Exp Val Loss: 8923589799690893.00000000 
+
+Epoch: 15 | Train Loss: 8.0575 | Val Loss: 5.9546  | Exp Val Loss: 8924671443727910.00000000 
+
+Epoch: 16 | Train Loss: 9.6710 | Val Loss: 7.9087  | Exp Val Loss: 8930729817258451.00000000 
+
+Epoch: 17 | Train Loss: 10.1078 | Val Loss: 5.5939  | Exp Val Loss: 8923892449343559.00000000 
+
+Epoch: 18 | Train Loss: 7.7662 | Val Loss: 6.4160  | Exp Val Loss: 8929724308839262.00000000 
+
+Epoch: 19 | Train Loss: 9.6419 | Val Loss: 5.9693  | Exp Val Loss: 8926639942519209.00000000 
+
+Epoch: 20 | Train Loss: 8.8245 | Val Loss: 7.0628  | Exp Val Loss: 8913421238962326.00000000 
+
+Epoch: 21 | Train Loss: 8.7454 | Val Loss: 6.2283  | Exp Val Loss: 8914158467549524.00000000 
+
+Epoch: 22 | Train Loss: 8.0138 | Val Loss: 6.5935  | Exp Val Loss: 8908726739210487.00000000 
+
+Epoch: 23 | Train Loss: 6.8794 | Val Loss: 9.9330  | Exp Val Loss: 8805554424281447.00000000 
+
+Epoch: 24 | Train Loss: 8.7614 | Val Loss: 7.7004  | Exp Val Loss: 8855129685469136.00000000 
+
+Epoch: 25 | Train Loss: 8.0445 | Val Loss: 9.2788  | Exp Val Loss: 8648008918664928.00000000 
+
+Epoch: 26 | Train Loss: 6.4775 | Val Loss: 6.6617  | Exp Val Loss: 8854105308593971.00000000 
+
+Epoch: 27 | Train Loss: 4.7821 | Val Loss: 4.3046  | Exp Val Loss: 4709440915706282.00000000 
+
+Epoch: 28 | Train Loss: 2.9817 | Val Loss: 2.4411  | Exp Val Loss: 6680752563618920.00000000 
+
+Epoch: 29 | Train Loss: 2.3287 | Val Loss: 2.2342  | Exp Val Loss: 6225317327678253.00000000 
+
+Epoch: 30 | Train Loss: 2.2716 | Val Loss: 1.7236  | Exp Val Loss: 28724728030556092.00000000 
+
+Epoch: 31 | Train Loss: 1.9181 | Val Loss: 2.3617  | Exp Val Loss: 7093406564191913.00000000 
+
+Epoch: 32 | Train Loss: 2.3416 | Val Loss: 1.8733  | Exp Val Loss: 3398944309826783.50000000 
+
+Epoch: 33 | Train Loss: 2.3332 | Val Loss: 1.6495  | Exp Val Loss: 5958746854377217.00000000 
+
+Epoch: 34 | Train Loss: 2.9306 | Val Loss: 2.2040  | Exp Val Loss: 3247494509354150.50000000 
+
+Epoch: 35 | Train Loss: 1.5120 | Val Loss: 1.4957  | Exp Val Loss: 28719726799400800.00000000 
+
+Epoch: 36 | Train Loss: 1.2834 | Val Loss: 2.2010  | Exp Val Loss: 5281522572349389.00000000 
+
+Epoch: 37 | Train Loss: 1.3109 | Val Loss: 2.6394  | Exp Val Loss: 195502370616909824.00000000 
+
+Epoch: 38 | Train Loss: 1.9297 | Val Loss: 2.1598  | Exp Val Loss: 106537605443152320.00000000 
+
+Epoch: 39 | Train Loss: 1.3707 | Val Loss: 2.9444  | Exp Val Loss: 11400290395372108.00000000 
+
+Epoch: 40 | Train Loss: 1.2843 | Val Loss: 1.7405  | Exp Val Loss: 469555231614855040.00000000 
+
+Epoch: 41 | Train Loss: 1.1600 | Val Loss: 2.3039  | Exp Val Loss: 10703871203249492.00000000 
+
+Epoch: 42 | Train Loss: 1.2681 | Val Loss: 1.9759  | Exp Val Loss: 265515282604322240.00000000 
+
+Epoch: 43 | Train Loss: 1.2229 | Val Loss: 2.0560  | Exp Val Loss: 260608543640270336.00000000 
+
+Epoch: 44 | Train Loss: 1.0793 | Val Loss: 1.6712  | Exp Val Loss: 27392614812261800.00000000 
+
+Epoch: 45 | Train Loss: 1.3033 | Val Loss: 3.2941  | Exp Val Loss: 15216765141342182.00000000 
+
+Epoch: 46 | Train Loss: 1.4025 | Val Loss: 2.0310  | Exp Val Loss: 2217349265747570176.00000000 
+
+Epoch: 47 | Train Loss: 0.7250 | Val Loss: 1.6390  | Exp Val Loss: 1571966537526808320.00000000 
+
+Epoch: 48 | Train Loss: 0.7271 | Val Loss: 1.7360  | Exp Val Loss: 3139489370226229760.00000000 
+
+Epoch: 49 | Train Loss: 0.6637 | Val Loss: 1.7537  | Exp Val Loss: 2002473674569422080.00000000 
+
+Epoch: 50 | Train Loss: 0.6332 | Val Loss: 2.9812  | Exp Val Loss: 11618830071371663360.00000000 
+
+Epoch: 51 | Train Loss: 0.5446 | Val Loss: 1.8786  | Exp Val Loss: 8711370904800016384.00000000 
+
+Epoch: 52 | Train Loss: 0.6523 | Val Loss: 1.9517  | Exp Val Loss: 1644651307177140224.00000000 
+
+Epoch: 53 | Train Loss: 0.6644 | Val Loss: 2.0012  | Exp Val Loss: 12346304211214632960.00000000 
+
+Epoch: 54 | Train Loss: 0.7016 | Val Loss: 1.8657  | Exp Val Loss: 6140326648136072192.00000000 
+
+Epoch: 55 | Train Loss: 0.6129 | Val Loss: 2.8669  | Exp Val Loss: 7294847474424212480.00000000 
+
+Epoch: 56 | Train Loss: 0.5334 | Val Loss: 1.7479  | Exp Val Loss: 2807085657500886528.00000000 
+
+Epoch: 57 | Train Loss: 0.5832 | Val Loss: 1.3680  | Exp Val Loss: 34532561958141832.00000000 
+
+Epoch: 58 | Train Loss: 0.6347 | Val Loss: 1.5466  | Exp Val Loss: 506913331340572096.00000000 
+
+Epoch: 59 | Train Loss: 0.6193 | Val Loss: 2.7405  | Exp Val Loss: 1617017629409231104.00000000 
+
+Epoch: 60 | Train Loss: 0.6560 | Val Loss: 1.4765  | Exp Val Loss: 2484476040958104576.00000000 
+
+Epoch: 61 | Train Loss: 0.6259 | Val Loss: 1.6231  | Exp Val Loss: 2191635918063519232.00000000 
+
+Epoch: 62 | Train Loss: 0.5533 | Val Loss: 1.7741  | Exp Val Loss: 3734080381437744640.00000000 
+
+Epoch: 63 | Train Loss: 0.4935 | Val Loss: 1.6078  | Exp Val Loss: 874262112293277440.00000000 
+
+Epoch: 64 | Train Loss: 0.5806 | Val Loss: 1.8722  | Exp Val Loss: 1824755801767514112.00000000 
+
+Epoch: 65 | Train Loss: 0.4900 | Val Loss: 2.1211  | Exp Val Loss: 1969362354492054016.00000000 
+
+Epoch: 66 | Train Loss: 0.4933 | Val Loss: 5.6407  | Exp Val Loss: 954498634334078592.00000000 
+
+Epoch: 67 | Train Loss: 0.5279 | Val Loss: 1.5059  | Exp Val Loss: 9118705149481019392.00000000 
+
+Epoch: 68 | Train Loss: 0.4601 | Val Loss: 1.6572  | Exp Val Loss: 1225946583098295552.00000000 
+
+Epoch: 69 | Train Loss: 0.3476 | Val Loss: 1.7573  | Exp Val Loss: 5501267508473336832.00000000 
+
+Epoch: 70 | Train Loss: 0.2827 | Val Loss: 1.8000  | Exp Val Loss: 3483779641534607872.00000000 
+
+Epoch: 71 | Train Loss: 0.3086 | Val Loss: 1.8952  | Exp Val Loss: 21479041514517344256.00000000 
+
+Epoch: 72 | Train Loss: 0.2889 | Val Loss: 1.8753  | Exp Val Loss: 17297978830216308736.00000000 
+
+Epoch: 73 | Train Loss: 0.2430 | Val Loss: 1.8600  | Exp Val Loss: 9309797573388519424.00000000 
+
+Epoch: 74 | Train Loss: 0.3105 | Val Loss: 1.8669  | Exp Val Loss: 3103333132725744640.00000000 
+
+Epoch: 75 | Train Loss: 0.3042 | Val Loss: 2.0594  | Exp Val Loss: 7459631647682736128.00000000 
+
+Epoch: 76 | Train Loss: 0.2499 | Val Loss: 2.0130  | Exp Val Loss: 14773103414597537792.00000000 
+
+Epoch: 77 | Train Loss: 0.2590 | Val Loss: 1.9961  | Exp Val Loss: 2637790025153157632.00000000 
+
+Epoch: 78 | Train Loss: 0.3506 | Val Loss: 1.7137  | Exp Val Loss: 24988678034351321088.00000000 
+
+Epoch: 79 | Train Loss: 0.2963 | Val Loss: 1.7022  | Exp Val Loss: 3836298883350982656.00000000 
+
+Epoch: 80 | Train Loss: 0.1986 | Val Loss: 1.7134  | Exp Val Loss: 14609959175215546368.00000000 
+
+Epoch: 81 | Train Loss: 0.2376 | Val Loss: 1.7298  | Exp Val Loss: 6367683351652978688.00000000 
+
+Epoch: 82 | Train Loss: 0.2052 | Val Loss: 2.0103  | Exp Val Loss: 5841131995112757248.00000000 
+
+Epoch: 83 | Train Loss: 0.1988 | Val Loss: 1.7511  | Exp Val Loss: 6142244144178950144.00000000 
+
+Epoch: 84 | Train Loss: 0.1633 | Val Loss: 1.7095  | Exp Val Loss: 14691360312950824960.00000000 
+
+Epoch: 85 | Train Loss: 0.1631 | Val Loss: 1.8098  | Exp Val Loss: 33275324641944338432.00000000 
+
+Epoch: 86 | Train Loss: 0.1858 | Val Loss: 1.7146  | Exp Val Loss: 17478995188137218048.00000000 
+
+Epoch: 87 | Train Loss: 0.2029 | Val Loss: 1.7977  | Exp Val Loss: 19108664086525665280.00000000 
+
+Epoch: 88 | Train Loss: 0.1683 | Val Loss: 1.7224  | Exp Val Loss: 13243624867950630912.00000000 
+
+Epoch: 89 | Train Loss: 0.2435 | Val Loss: 1.8751  | Exp Val Loss: 65441275737704439808.00000000 
+
+Epoch: 90 | Train Loss: 0.1798 | Val Loss: 1.8635  | Exp Val Loss: 28778543706513043456.00000000 
+
+Epoch: 91 | Train Loss: 0.1046 | Val Loss: 1.7909  | Exp Val Loss: 12766104036548839424.00000000 
+
+Epoch: 92 | Train Loss: 0.1371 | Val Loss: 1.9064  | Exp Val Loss: 51724842453280964608.00000000 
+
+Epoch: 93 | Train Loss: 0.1570 | Val Loss: 1.9330  | Exp Val Loss: 20462547501372993536.00000000 
+
+Epoch: 94 | Train Loss: 0.1336 | Val Loss: 1.9017  | Exp Val Loss: 13266103490826690560.00000000 
+
+Epoch: 95 | Train Loss: 0.1772 | Val Loss: 1.8563  | Exp Val Loss: 25917171737100816384.00000000 
+
+Epoch: 96 | Train Loss: 0.2041 | Val Loss: 1.8339  | Exp Val Loss: 42729004654810505216.00000000 
+
+Epoch: 97 | Train Loss: 0.1583 | Val Loss: 1.9649  | Exp Val Loss: 37787547434957316096.00000000 
+
+Epoch: 98 | Train Loss: 0.1893 | Val Loss: 1.8642  | Exp Val Loss: 40150606362651000832.00000000 
+
+Epoch: 99 | Train Loss: 0.0929 | Val Loss: 1.8305  | Exp Val Loss: 22385247791345876992.00000000 
+
+Epoch: 100 | Train Loss: 0.1234 | Val Loss: 1.8088  | Exp Val Loss: 52451433545243901952.00000000 
+
+Epoch: 101 | Train Loss: 0.1158 | Val Loss: 1.7374  | Exp Val Loss: 46479581581498220544.00000000 
+
+Epoch: 102 | Train Loss: 0.1428 | Val Loss: 1.7147  | Exp Val Loss: 16976134946416398336.00000000 
+
+Epoch: 103 | Train Loss: 0.1057 | Val Loss: 1.7472  | Exp Val Loss: 27211941472997924864.00000000 
+
+Epoch: 104 | Train Loss: 0.1251 | Val Loss: 1.7602  | Exp Val Loss: 25108771852719886336.00000000 
+
+Epoch: 105 | Train Loss: 0.0996 | Val Loss: 1.7517  | Exp Val Loss: 26600102901086814208.00000000 
+
+Epoch: 106 | Train Loss: 0.0993 | Val Loss: 1.7522  | Exp Val Loss: 18698718867668221952.00000000 
+
+Epoch: 107 | Train Loss: 0.0926 | Val Loss: 1.7927  | Exp Val Loss: 26288899628682719232.00000000 
+
+--- Fold %d --- 3
+Epoch: 01 | Train Loss: 16.2898 | Val Loss: 5.3251  | Exp Val Loss: 100220614781139173376.00000000 
+
+Epoch: 02 | Train Loss: 10.4524 | Val Loss: 7.4393  | Exp Val Loss: 99864174965696184320.00000000 
+
+Epoch: 03 | Train Loss: 8.6606 | Val Loss: 9.2944  | Exp Val Loss: 100265536186153779200.00000000 
+
+Epoch: 04 | Train Loss: 8.9252 | Val Loss: 14.2783  | Exp Val Loss: 100265815075493675008.00000000 
+
+Epoch: 05 | Train Loss: 11.4368 | Val Loss: 10.0630  | Exp Val Loss: 100151255175875018752.00000000 
+
+Epoch: 06 | Train Loss: 7.7754 | Val Loss: 7.5607  | Exp Val Loss: 100260301455040905216.00000000 
+
+Epoch: 07 | Train Loss: 8.0909 | Val Loss: 6.9242  | Exp Val Loss: 97237074535390494720.00000000 
+
+Epoch: 08 | Train Loss: 6.7074 | Val Loss: 4.9637  | Exp Val Loss: 70199277240817590272.00000000 
+
+Epoch: 09 | Train Loss: 7.3435 | Val Loss: 4.9280  | Exp Val Loss: 96804774786510815232.00000000 
+
+Epoch: 10 | Train Loss: 4.4313 | Val Loss: 4.9342  | Exp Val Loss: 83769054331282440192.00000000 
+
+Epoch: 11 | Train Loss: 5.9106 | Val Loss: 5.0922  | Exp Val Loss: 97196454614169583616.00000000 
+
+Epoch: 12 | Train Loss: 5.3778 | Val Loss: 5.1883  | Exp Val Loss: 99116592849703534592.00000000 
+
+Epoch: 13 | Train Loss: 4.1286 | Val Loss: 4.5263  | Exp Val Loss: 100167488323390095360.00000000 
+
+Epoch: 14 | Train Loss: 5.9067 | Val Loss: 4.6700  | Exp Val Loss: 88723329392599515136.00000000 
+
+Epoch: 15 | Train Loss: 5.0031 | Val Loss: 9.0543  | Exp Val Loss: 100256861256101167104.00000000 
+
+Epoch: 16 | Train Loss: 6.3450 | Val Loss: 5.1286  | Exp Val Loss: 85887140931775823872.00000000 
+
+Epoch: 17 | Train Loss: 3.5272 | Val Loss: 4.7631  | Exp Val Loss: 81307636271414820864.00000000 
+
+Epoch: 18 | Train Loss: 4.4228 | Val Loss: 6.3347  | Exp Val Loss: 98172022314152116224.00000000 
+
+Epoch: 19 | Train Loss: 3.5992 | Val Loss: 5.3832  | Exp Val Loss: 98196201608584265728.00000000 
+
+Epoch: 20 | Train Loss: 3.9857 | Val Loss: 9.3578  | Exp Val Loss: 39347721219977689169920.00000000 
+
+Epoch: 21 | Train Loss: 5.0592 | Val Loss: 4.9552  | Exp Val Loss: 96984248245392113664.00000000 
+
+Epoch: 22 | Train Loss: 3.7709 | Val Loss: 7.1119  | Exp Val Loss: 22553317767667429408768.00000000 
+
+Epoch: 23 | Train Loss: 2.9815 | Val Loss: 5.0462  | Exp Val Loss: 257391380236040536064.00000000 
+
+Epoch: 24 | Train Loss: 3.4021 | Val Loss: 5.8796  | Exp Val Loss: 42392918113873584128.00000000 
+
+Epoch: 25 | Train Loss: 3.5291 | Val Loss: 4.7534  | Exp Val Loss: 19280568294603726848.00000000 
+
+Epoch: 26 | Train Loss: 1.7673 | Val Loss: 4.6438  | Exp Val Loss: 95264776864418086912.00000000 
+
+Epoch: 27 | Train Loss: 2.7910 | Val Loss: 4.9526  | Exp Val Loss: 3624492374706415616.00000000 
+
+Epoch: 28 | Train Loss: 3.0836 | Val Loss: 9.0506  | Exp Val Loss: 46297245292192023445504.00000000 
+
+Epoch: 29 | Train Loss: 3.1621 | Val Loss: 4.6181  | Exp Val Loss: 90986162554454835200.00000000 
+
+Epoch: 30 | Train Loss: 2.4645 | Val Loss: 4.7363  | Exp Val Loss: 910803580940484096.00000000 
+
+Epoch: 31 | Train Loss: 2.1632 | Val Loss: 5.8742  | Exp Val Loss: 6104476588540788998144.00000000 
+
+Epoch: 32 | Train Loss: 2.6806 | Val Loss: 4.3302  | Exp Val Loss: 87570328942359805952.00000000 
+
+Epoch: 33 | Train Loss: 3.1595 | Val Loss: 4.0764  | Exp Val Loss: 64216268374836428800.00000000 
+
+Epoch: 34 | Train Loss: 2.4409 | Val Loss: 3.7584  | Exp Val Loss: 63123107370692837376.00000000 
+
+Epoch: 35 | Train Loss: 1.7489 | Val Loss: 4.0114  | Exp Val Loss: 824116134487740645376.00000000 
+
+Epoch: 36 | Train Loss: 2.4597 | Val Loss: 5.0950  | Exp Val Loss: 4317781685551677571072.00000000 
+
+Epoch: 37 | Train Loss: 2.0488 | Val Loss: 3.2202  | Exp Val Loss: 17714501336424034304.00000000 
+
+Epoch: 38 | Train Loss: 3.2937 | Val Loss: 4.8703  | Exp Val Loss: 98032890243842834432.00000000 
+
+Epoch: 39 | Train Loss: 1.8799 | Val Loss: 3.8433  | Exp Val Loss: 91458133615719153664.00000000 
+
+Epoch: 40 | Train Loss: 1.6651 | Val Loss: 6.1020  | Exp Val Loss: 4458358452072868216832.00000000 
+
+Epoch: 41 | Train Loss: 1.6433 | Val Loss: 4.4782  | Exp Val Loss: 8537453445767774208.00000000 
+
+Epoch: 42 | Train Loss: 1.1590 | Val Loss: 3.6894  | Exp Val Loss: 3259446360687751200768.00000000 
+
+Epoch: 43 | Train Loss: 2.0032 | Val Loss: 5.3933  | Exp Val Loss: 114125556570864402432.00000000 
+
+Epoch: 44 | Train Loss: 2.1451 | Val Loss: 4.7055  | Exp Val Loss: 238605325782316782452736.00000000 
+
+Epoch: 45 | Train Loss: 1.7151 | Val Loss: 3.9225  | Exp Val Loss: 113744788840079228928.00000000 
+
+Epoch: 46 | Train Loss: 1.4487 | Val Loss: 3.6531  | Exp Val Loss: 82935575776685146112.00000000 
+
+Epoch: 47 | Train Loss: 2.2385 | Val Loss: 3.8971  | Exp Val Loss: 32036861770131140608.00000000 
+
+Epoch: 48 | Train Loss: 1.8590 | Val Loss: 3.5375  | Exp Val Loss: 32209538141128437760.00000000 
+
+Epoch: 49 | Train Loss: 1.1652 | Val Loss: 3.6178  | Exp Val Loss: 125484879767832887296.00000000 
+
+Epoch: 50 | Train Loss: 1.4977 | Val Loss: 3.9158  | Exp Val Loss: 50402809727371526144.00000000 
+
+Epoch: 51 | Train Loss: 1.4991 | Val Loss: 3.8901  | Exp Val Loss: 60288762952585871360.00000000 
+
+Epoch: 52 | Train Loss: 1.0467 | Val Loss: 3.8858  | Exp Val Loss: 26453101710588055552.00000000 
+
+Epoch: 53 | Train Loss: 1.2770 | Val Loss: 4.6239  | Exp Val Loss: 63642227951988342784.00000000 
+
+Epoch: 54 | Train Loss: 1.1824 | Val Loss: 7.2193  | Exp Val Loss: 306104796243485196288.00000000 
+
+Epoch: 55 | Train Loss: 1.0475 | Val Loss: 5.6837  | Exp Val Loss: 44909683209658163200.00000000 
+
+Epoch: 56 | Train Loss: 0.9517 | Val Loss: 4.7602  | Exp Val Loss: 1934634554679865901056.00000000 
+
+Epoch: 57 | Train Loss: 0.7897 | Val Loss: 5.8315  | Exp Val Loss: 10288745361126371360768.00000000 
+
+Epoch: 58 | Train Loss: 0.9370 | Val Loss: 3.8962  | Exp Val Loss: 23003352277896056832.00000000 
+
+Epoch: 59 | Train Loss: 0.9873 | Val Loss: 4.2712  | Exp Val Loss: 488380846061402718208.00000000 
+
+Epoch: 60 | Train Loss: 0.8025 | Val Loss: 4.7372  | Exp Val Loss: 2319801801165534658560.00000000 
+
+Epoch: 61 | Train Loss: 0.8744 | Val Loss: 5.0633  | Exp Val Loss: 37907860349699710976.00000000 
+
+Epoch: 62 | Train Loss: 0.7204 | Val Loss: 4.7303  | Exp Val Loss: 538581305725537288192.00000000 
+
+Epoch: 63 | Train Loss: 0.7661 | Val Loss: 4.7970  | Exp Val Loss: 724112897745040572416.00000000 
+
+Epoch: 64 | Train Loss: 0.5939 | Val Loss: 4.5291  | Exp Val Loss: 801224079472176791552.00000000 
+
+Epoch: 65 | Train Loss: 0.7218 | Val Loss: 5.4628  | Exp Val Loss: 991197847865950470144.00000000 
+
+Epoch: 66 | Train Loss: 0.5781 | Val Loss: 5.0667  | Exp Val Loss: 887727640463399976960.00000000 
+
+Epoch: 67 | Train Loss: 0.6401 | Val Loss: 5.1148  | Exp Val Loss: 54200958189213338042368.00000000 
+
+Epoch: 68 | Train Loss: 0.5307 | Val Loss: 5.1624  | Exp Val Loss: 26970437333520048193536.00000000 
+
+Epoch: 69 | Train Loss: 0.6225 | Val Loss: 6.2379  | Exp Val Loss: 6351756691001399312384.00000000 
+
+Epoch: 70 | Train Loss: 0.4155 | Val Loss: 5.0058  | Exp Val Loss: 4656849508006545588224.00000000 
+
+Epoch: 71 | Train Loss: 0.4792 | Val Loss: 5.3383  | Exp Val Loss: 8164684908465726947328.00000000 
+
+Epoch: 72 | Train Loss: 0.3988 | Val Loss: 5.8722  | Exp Val Loss: 13795299256716629114880.00000000 
+
+Epoch: 73 | Train Loss: 0.3497 | Val Loss: 7.4212  | Exp Val Loss: 16432483168141640204288.00000000 
+
+Epoch: 74 | Train Loss: 0.4542 | Val Loss: 6.2759  | Exp Val Loss: 21070149406295836327936.00000000 
+
+Epoch: 75 | Train Loss: 0.3903 | Val Loss: 6.6722  | Exp Val Loss: 1628742858028648235008.00000000 
+
+Epoch: 76 | Train Loss: 0.3970 | Val Loss: 6.3629  | Exp Val Loss: 4124346764740942364672.00000000 
+
+Epoch: 77 | Train Loss: 0.3935 | Val Loss: 5.9347  | Exp Val Loss: 4994170002817647902720.00000000 
+
+Epoch: 78 | Train Loss: 0.3535 | Val Loss: 5.4819  | Exp Val Loss: 3522329302850112847872.00000000 
+
+Epoch: 79 | Train Loss: 0.4130 | Val Loss: 6.2913  | Exp Val Loss: 14691743484715064098816.00000000 
+
+Epoch: 80 | Train Loss: 0.3223 | Val Loss: 6.9164  | Exp Val Loss: 20131735189125423169536.00000000 
+
+Epoch: 81 | Train Loss: 0.3162 | Val Loss: 6.9246  | Exp Val Loss: 17624682348859176779776.00000000 
+
+Epoch: 82 | Train Loss: 0.3551 | Val Loss: 6.7552  | Exp Val Loss: 43430546356806073974784.00000000 
+
+Epoch: 83 | Train Loss: 0.3322 | Val Loss: 6.4682  | Exp Val Loss: 25918516892378150731776.00000000 
+
+Epoch: 84 | Train Loss: 0.2420 | Val Loss: 6.5572  | Exp Val Loss: 27203322967329934934016.00000000 
+
+Epoch: 85 | Train Loss: 0.2578 | Val Loss: 7.4754  | Exp Val Loss: 231610361586350167162880.00000000 
+
+Epoch: 86 | Train Loss: 0.2488 | Val Loss: 6.9901  | Exp Val Loss: 91385256827387486666752.00000000 
+
+Epoch: 87 | Train Loss: 0.2880 | Val Loss: 6.5950  | Exp Val Loss: 74775737108030113710080.00000000 
+
+--- Fold %d --- 4
+Epoch: 01 | Train Loss: 12.8145 | Val Loss: 13.4834  | Exp Val Loss: 141687621444410064896.00000000 
+
+Epoch: 02 | Train Loss: 9.9744 | Val Loss: 11.7074  | Exp Val Loss: 141687594394089127936.00000000 
+
+Epoch: 03 | Train Loss: 5.2305 | Val Loss: 13.5569  | Exp Val Loss: 141687622801361846272.00000000 
+
+Epoch: 04 | Train Loss: 8.1874 | Val Loss: 6.7356  | Exp Val Loss: 141667309411390750720.00000000 
+
+Epoch: 05 | Train Loss: 6.4798 | Val Loss: 9.3550  | Exp Val Loss: 141687399289189285888.00000000 
+
+Epoch: 06 | Train Loss: 5.9363 | Val Loss: 8.1015  | Exp Val Loss: 141686426888817098752.00000000 
+
+Epoch: 07 | Train Loss: 12.5591 | Val Loss: 13.3174  | Exp Val Loss: 141687159403147722752.00000000 
+
+Epoch: 08 | Train Loss: 9.9000 | Val Loss: 9.5817  | Exp Val Loss: 141687250272986529792.00000000 
+
+Epoch: 09 | Train Loss: 5.0329 | Val Loss: 7.8740  | Exp Val Loss: 141683747313249517568.00000000 
+
+Epoch: 10 | Train Loss: 4.1718 | Val Loss: 8.0306  | Exp Val Loss: 142582770317307379712.00000000 
+
+Epoch: 11 | Train Loss: 6.7967 | Val Loss: 11.6127  | Exp Val Loss: 141519199278732034048.00000000 
+
+Epoch: 12 | Train Loss: 5.4177 | Val Loss: 8.4633  | Exp Val Loss: 141687096214584311808.00000000 
+
+Epoch: 13 | Train Loss: 5.4036 | Val Loss: 6.3485  | Exp Val Loss: 141623835691276943360.00000000 
+
+Epoch: 14 | Train Loss: 4.1086 | Val Loss: 7.3299  | Exp Val Loss: 140905535210655678464.00000000 
+
+Epoch: 15 | Train Loss: 4.7689 | Val Loss: 10.1669  | Exp Val Loss: 141687534073450348544.00000000 
+
+Epoch: 16 | Train Loss: 5.2022 | Val Loss: 8.0793  | Exp Val Loss: 141687094805382184960.00000000 
+
+Epoch: 17 | Train Loss: 4.0055 | Val Loss: 6.3058  | Exp Val Loss: 141683291360098648064.00000000 
+
+Epoch: 18 | Train Loss: 4.2358 | Val Loss: 6.9387  | Exp Val Loss: 141677058160171139072.00000000 
+
+Epoch: 19 | Train Loss: 6.3915 | Val Loss: 11.6813  | Exp Val Loss: 141515316879593553920.00000000 
+
+Epoch: 20 | Train Loss: 4.3817 | Val Loss: 7.3806  | Exp Val Loss: 142212105133644840960.00000000 
+
+Epoch: 21 | Train Loss: 5.4861 | Val Loss: 9.4197  | Exp Val Loss: 141717098660335878144.00000000 
+
+Epoch: 22 | Train Loss: 6.0205 | Val Loss: 6.2781  | Exp Val Loss: 141686580372761231360.00000000 
+
+Epoch: 23 | Train Loss: 4.7236 | Val Loss: 6.7528  | Exp Val Loss: 141671187877229150208.00000000 
+
+Epoch: 24 | Train Loss: 3.5633 | Val Loss: 5.8479  | Exp Val Loss: 141682180408984092672.00000000 
+
+Epoch: 25 | Train Loss: 3.8560 | Val Loss: 4.9314  | Exp Val Loss: 141679232283698118656.00000000 
+
+Epoch: 26 | Train Loss: 4.3116 | Val Loss: 6.3331  | Exp Val Loss: 148502374365484974080.00000000 
+
+Epoch: 27 | Train Loss: 5.7152 | Val Loss: 8.0721  | Exp Val Loss: 141127880283827224576.00000000 
+
+Epoch: 28 | Train Loss: 3.8964 | Val Loss: 4.4923  | Exp Val Loss: 141649725087369396224.00000000 
+
+Epoch: 29 | Train Loss: 3.8288 | Val Loss: 5.6576  | Exp Val Loss: 141685718847205982208.00000000 
+
+Epoch: 30 | Train Loss: 3.6969 | Val Loss: 6.1678  | Exp Val Loss: 141425286742995255296.00000000 
+
+Epoch: 31 | Train Loss: 4.4706 | Val Loss: 7.0365  | Exp Val Loss: 141683561101948895232.00000000 
+
+Epoch: 32 | Train Loss: 4.5999 | Val Loss: 5.4049  | Exp Val Loss: 141329610952384954368.00000000 
+
+Epoch: 33 | Train Loss: 4.0865 | Val Loss: 5.3191  | Exp Val Loss: 141663564395011031040.00000000 
+
+Epoch: 34 | Train Loss: 3.3242 | Val Loss: 4.8530  | Exp Val Loss: 141362214685592272896.00000000 
+
+Epoch: 35 | Train Loss: 2.7222 | Val Loss: 5.6352  | Exp Val Loss: 141676048952596889600.00000000 
+
+Epoch: 36 | Train Loss: 3.8999 | Val Loss: 5.2173  | Exp Val Loss: 141590505427677003776.00000000 
+
+Epoch: 37 | Train Loss: 4.5276 | Val Loss: 6.5326  | Exp Val Loss: 131427568123420459008.00000000 
+
+Epoch: 38 | Train Loss: 4.8304 | Val Loss: 4.8090  | Exp Val Loss: 141606497473752449024.00000000 
+
+Epoch: 39 | Train Loss: 3.5390 | Val Loss: 8.4046  | Exp Val Loss: 141684799231400181760.00000000 
+
+Epoch: 40 | Train Loss: 2.8674 | Val Loss: 4.3128  | Exp Val Loss: 141678421219186655232.00000000 
+
+Epoch: 41 | Train Loss: 2.6748 | Val Loss: 7.1485  | Exp Val Loss: 141677117639393427456.00000000 
+
+Epoch: 42 | Train Loss: 2.2638 | Val Loss: 5.1981  | Exp Val Loss: 139627231048102117376.00000000 
+
+Epoch: 43 | Train Loss: 2.7389 | Val Loss: 5.9300  | Exp Val Loss: 139685133460134133760.00000000 
+
+Epoch: 44 | Train Loss: 2.1994 | Val Loss: 4.2278  | Exp Val Loss: 141158386375611383808.00000000 
+
+Epoch: 45 | Train Loss: 2.3380 | Val Loss: 4.9415  | Exp Val Loss: 141672244551282900992.00000000 
+
+Epoch: 46 | Train Loss: 3.0302 | Val Loss: 4.7860  | Exp Val Loss: 139509456452281597952.00000000 
+
+Epoch: 47 | Train Loss: 2.3348 | Val Loss: 4.4883  | Exp Val Loss: 141529146599042383872.00000000 
+
+Epoch: 48 | Train Loss: 2.4317 | Val Loss: 3.9914  | Exp Val Loss: 141206742749581623296.00000000 
+
+Epoch: 49 | Train Loss: 2.7775 | Val Loss: 3.7710  | Exp Val Loss: 141535655702509027328.00000000 
+
+Epoch: 50 | Train Loss: 1.9865 | Val Loss: 5.0534  | Exp Val Loss: 412484128394550640640.00000000 
+
+Epoch: 51 | Train Loss: 1.8891 | Val Loss: 4.5082  | Exp Val Loss: 141558810030943535104.00000000 
+
+Epoch: 52 | Train Loss: 3.3295 | Val Loss: 5.0280  | Exp Val Loss: 141666390933279195136.00000000 
+
+Epoch: 53 | Train Loss: 3.2154 | Val Loss: 5.5292  | Exp Val Loss: 138719457487914090496.00000000 
+
+Epoch: 54 | Train Loss: 5.8084 | Val Loss: 10.8053  | Exp Val Loss: 141687534829656571904.00000000 
+
+Epoch: 55 | Train Loss: 4.6837 | Val Loss: 5.5178  | Exp Val Loss: 141670451650414116864.00000000 
+
+Epoch: 56 | Train Loss: 4.5054 | Val Loss: 5.7948  | Exp Val Loss: 141621072269874659328.00000000 
+
+Epoch: 57 | Train Loss: 2.8979 | Val Loss: 5.3293  | Exp Val Loss: 141513097746372050944.00000000 
+
+Epoch: 58 | Train Loss: 4.5786 | Val Loss: 6.1233  | Exp Val Loss: 141683697944652906496.00000000 
+
+Epoch: 59 | Train Loss: 3.7631 | Val Loss: 5.4141  | Exp Val Loss: 141679660924192309248.00000000 
+
+Epoch: 60 | Train Loss: 4.8652 | Val Loss: 7.6185  | Exp Val Loss: 141685383773486481408.00000000 
+
+Epoch: 61 | Train Loss: 3.0046 | Val Loss: 4.5944  | Exp Val Loss: 141483580032477757440.00000000 
+
+Epoch: 62 | Train Loss: 2.7711 | Val Loss: 4.6590  | Exp Val Loss: 141590287611618050048.00000000 
+
+Epoch: 63 | Train Loss: 2.5820 | Val Loss: 6.2575  | Exp Val Loss: 141685202466012299264.00000000 
+
+Epoch: 64 | Train Loss: 3.5367 | Val Loss: 4.9360  | Exp Val Loss: 141675640141184991232.00000000 
+
+Epoch: 65 | Train Loss: 3.6311 | Val Loss: 6.6385  | Exp Val Loss: 137313169915756429312.00000000 
+
+Epoch: 66 | Train Loss: 2.6163 | Val Loss: 4.6174  | Exp Val Loss: 141668076801085767680.00000000 
+
+Epoch: 67 | Train Loss: 2.5925 | Val Loss: 4.7438  | Exp Val Loss: 141333179796071563264.00000000 
+
+Epoch: 68 | Train Loss: 3.3323 | Val Loss: 5.0565  | Exp Val Loss: 157074227736212275200.00000000 
+
+Epoch: 69 | Train Loss: 2.9317 | Val Loss: 5.8736  | Exp Val Loss: 141686425626022182912.00000000 
+
+Epoch: 70 | Train Loss: 2.5476 | Val Loss: 5.5886  | Exp Val Loss: 141685152926779211776.00000000 
+
+Epoch: 71 | Train Loss: 3.5288 | Val Loss: 5.4539  | Exp Val Loss: 172207166705922342912.00000000 
+
+Epoch: 72 | Train Loss: 2.5786 | Val Loss: 4.7252  | Exp Val Loss: 4092450334458913488896.00000000 
+
+Epoch: 73 | Train Loss: 2.7347 | Val Loss: 4.7302  | Exp Val Loss: 372094032312808898560.00000000 
+
+Epoch: 74 | Train Loss: 2.2890 | Val Loss: 4.4513  | Exp Val Loss: 141419686657233764352.00000000 
+
+Epoch: 75 | Train Loss: 1.4900 | Val Loss: 4.8585  | Exp Val Loss: 141603597770611048448.00000000 
+
+Epoch: 76 | Train Loss: 2.1799 | Val Loss: 4.3397  | Exp Val Loss: 141326386242179284992.00000000 
+
+Epoch: 77 | Train Loss: 1.3399 | Val Loss: 4.1077  | Exp Val Loss: 141367703137857241088.00000000 
+
+Epoch: 78 | Train Loss: 1.4352 | Val Loss: 4.8657  | Exp Val Loss: 141636689683323092992.00000000 
+
+Epoch: 79 | Train Loss: 1.8934 | Val Loss: 4.5231  | Exp Val Loss: 141641420214426058752.00000000 
+
+Epoch: 80 | Train Loss: 1.7851 | Val Loss: 4.0961  | Exp Val Loss: 141518705329229971456.00000000 
+
+Epoch: 81 | Train Loss: 1.9389 | Val Loss: 4.3089  | Exp Val Loss: 166282704416598228992.00000000 
+
+Epoch: 82 | Train Loss: 1.7188 | Val Loss: 4.8551  | Exp Val Loss: 141592839138279587840.00000000 
+
+Epoch: 83 | Train Loss: 1.1810 | Val Loss: 4.2707  | Exp Val Loss: 139267653661481484288.00000000 
+
+Epoch: 84 | Train Loss: 1.6259 | Val Loss: 5.5442  | Exp Val Loss: 141683338420692631552.00000000 
+
+Epoch: 85 | Train Loss: 1.3046 | Val Loss: 4.7960  | Exp Val Loss: 141648568397477527552.00000000 
+
+Epoch: 86 | Train Loss: 0.8960 | Val Loss: 5.5375  | Exp Val Loss: 141622946051096723456.00000000 
+
+Epoch: 87 | Train Loss: 0.9472 | Val Loss: 5.5424  | Exp Val Loss: 141663258793734586368.00000000 
+
+Epoch: 88 | Train Loss: 0.7231 | Val Loss: 5.6630  | Exp Val Loss: 141678046279817740288.00000000 
+
+Epoch: 89 | Train Loss: 0.9209 | Val Loss: 5.0634  | Exp Val Loss: 140821620094839799808.00000000 
+
+Epoch: 90 | Train Loss: 1.0010 | Val Loss: 6.7291  | Exp Val Loss: 141649717025719500800.00000000 
+
+Epoch: 91 | Train Loss: 0.8849 | Val Loss: 6.0597  | Exp Val Loss: 141589560465018830848.00000000 
+
+Epoch: 92 | Train Loss: 0.8592 | Val Loss: 5.6574  | Exp Val Loss: 141341289621805072384.00000000 
+
+Epoch: 93 | Train Loss: 0.6657 | Val Loss: 5.6853  | Exp Val Loss: 106844673249193345024.00000000 
+
+Epoch: 94 | Train Loss: 0.6584 | Val Loss: 6.6252  | Exp Val Loss: 141330037046655877120.00000000 
+
+Epoch: 95 | Train Loss: 0.7159 | Val Loss: 6.4282  | Exp Val Loss: 141153812202045112320.00000000 
+
+Epoch: 96 | Train Loss: 0.4623 | Val Loss: 6.6317  | Exp Val Loss: 141310276408482529280.00000000 
+
+Epoch: 97 | Train Loss: 0.5074 | Val Loss: 7.3039  | Exp Val Loss: 141561977566778507264.00000000 
+
+Epoch: 98 | Train Loss: 0.4106 | Val Loss: 6.7586  | Exp Val Loss: 141584431854968029184.00000000 
+
+Epoch: 99 | Train Loss: 0.3237 | Val Loss: 6.8804  | Exp Val Loss: 141458922107404058624.00000000 
+
+--- 10651.863701581955 seconds ---

@@ -1,0 +1,1036 @@
+
+['design_1922']   Prediction: 578873.25 Ground Truth: 592259.625
+
+['design_1278']   Prediction: 18302.40625 Ground Truth: 1211.118896484375
+
+['design_1209']   Prediction: 158177.90625 Ground Truth: 543291.0625
+
+['design_1162']   Prediction: 743253.9375 Ground Truth: 285586.34375
+
+['design_1156']   Prediction: 85892.6171875 Ground Truth: 976080.0
+
+['design_1705']   Prediction: 39377.7578125 Ground Truth: 2118.57763671875
+
+['design_1492']   Prediction: 8699.833984375 Ground Truth: 2937.7529296875
+
+['design_1604']   Prediction: 628334.6875 Ground Truth: 342559.1875
+
+['design_1901']   Prediction: 678064.8125 Ground Truth: 2015947.125
+
+['design_2107']   Prediction: 821508.375 Ground Truth: 259107.984375
+
+['design_1233']   Prediction: 2787.675537109375 Ground Truth: 2868.08544921875
+
+['design_1619']   Prediction: 21568.48828125 Ground Truth: 2203.935546875
+
+['design_1335']   Prediction: 189854320.0 Ground Truth: 13220784.0
+
+['design_2047']   Prediction: 130017.0859375 Ground Truth: 278702.4375
+
+['design_1462']   Prediction: 3069.919189453125 Ground Truth: 1246.2572021484375
+
+['design_2016']   Prediction: 171967.265625 Ground Truth: 768042.5625
+
+['design_1134']   Prediction: 307712663486464.0 Ground Truth: 58649514868736.0
+
+['design_1710']   Prediction: 2902.884521484375 Ground Truth: 2747.097412109375
+
+['design_1093']   Prediction: 367.48272705078125 Ground Truth: 1429.6717529296875
+
+['design_2057']   Prediction: 243079.328125 Ground Truth: 125856.78125
+
+['design_1869']   Prediction: 65446.44140625 Ground Truth: 503077.75
+
+['design_1747']   Prediction: 28139.224609375 Ground Truth: 3322.259521484375
+
+['design_1464']   Prediction: 330078.125 Ground Truth: 391210.03125
+
+['design_2004']   Prediction: 3204.879150390625 Ground Truth: 2260.858154296875
+
+['design_1659']   Prediction: 3720.842529296875 Ground Truth: 110029.0390625
+
+['design_1193']   Prediction: 158177.90625 Ground Truth: 161813.515625
+
+['design_1110']   Prediction: 171967.265625 Ground Truth: 354832.0625
+
+['design_1827']   Prediction: 3318.66552734375 Ground Truth: 1564.935546875
+
+['design_1031']   Prediction: 11279.3134765625 Ground Truth: 823.365234375
+
+['design_1047']   Prediction: 171967.109375 Ground Truth: 354832.0625
+
+['design_1687']   Prediction: 108824.234375 Ground Truth: 3802.4453125
+
+['design_1542']   Prediction: 103093912.0 Ground Truth: 549080.125
+
+['design_1754']   Prediction: 171967.265625 Ground Truth: 204331.703125
+
+['design_1818']   Prediction: 421.17999267578125 Ground Truth: 1238.0592041015625
+
+['design_1802']   Prediction: 387228.34375 Ground Truth: 2298576.0
+
+['design_1595']   Prediction: 1411.3369140625 Ground Truth: 1415.5877685546875
+
+['design_1891']   Prediction: 743253.9375 Ground Truth: 366516.90625
+
+['design_1114']   Prediction: 68158.5546875 Ground Truth: 1065.6072998046875
+
+['design_1667']   Prediction: 6124.84619140625 Ground Truth: 1793.994384765625
+
+['design_1672']   Prediction: 1155.89404296875 Ground Truth: 1267.8782958984375
+
+['design_1574']   Prediction: 678064.8125 Ground Truth: 114852.0
+
+['design_1017']   Prediction: 421.17962646484375 Ground Truth: 1607.6038818359375
+
+['design_1152']   Prediction: 2151.57421875 Ground Truth: 1372.6524658203125
+
+['design_1742']   Prediction: 3204.879150390625 Ground Truth: 2204.5966796875
+
+['design_1333']   Prediction: 3204.90966796875 Ground Truth: 1008.68212890625
+
+['design_2029']   Prediction: 9603.068359375 Ground Truth: 743.746337890625
+
+['design_1433']   Prediction: 18551.646484375 Ground Truth: 2633.054443359375
+
+['design_1713']   Prediction: 8527.7734375 Ground Truth: 2168.736572265625
+
+['design_1760']   Prediction: 743253.9375 Ground Truth: 230752.296875
+
+['design_1575']   Prediction: 45430524.0 Ground Truth: 832426.4375
+
+['design_1615']   Prediction: 266637.3125 Ground Truth: 1775690.625
+
+['design_1099']   Prediction: 66421.6171875 Ground Truth: 166109.09375
+
+['design_1061']   Prediction: 1414856.375 Ground Truth: 3595881.5
+
+['design_1040']   Prediction: 48328.65625 Ground Truth: 1724.340576171875
+
+['design_1351']   Prediction: 171984.3125 Ground Truth: 934905.1875
+
+['design_1448']   Prediction: 39377.7578125 Ground Truth: 227931.3125
+
+['design_1269']   Prediction: 171984.3125 Ground Truth: 245413.515625
+
+['design_1845']   Prediction: 254743.234375 Ground Truth: 181715.9375
+
+['design_1950']   Prediction: 158177.90625 Ground Truth: 1314411.5
+
+['design_1691']   Prediction: 5.102169892061184e+16 Ground Truth: 32857445629952.0
+
+['design_1042']   Prediction: 39377.7578125 Ground Truth: 227931.3125
+
+['design_1077']   Prediction: 191.60060119628906 Ground Truth: 989.6981201171875
+
+['design_1457']   Prediction: 158177.90625 Ground Truth: 1426308.125
+
+['design_2074']   Prediction: 171984.3125 Ground Truth: 210933.9375
+
+['design_1686']   Prediction: 387228.34375 Ground Truth: 110040.046875
+
+['design_1370']   Prediction: 628334.6875 Ground Truth: 92364.7109375
+
+['design_1751']   Prediction: 274895908896768.0 Ground Truth: 515807707136.0
+
+['design_1562']   Prediction: 28139.224609375 Ground Truth: 1421.9720458984375
+
+['design_1084']   Prediction: 578873.25 Ground Truth: 585253.5
+
+['design_1259']   Prediction: 3837.43212890625 Ground Truth: 2328.31494140625
+
+['design_1978']   Prediction: 2828780.5 Ground Truth: 662582.375
+
+['design_2027']   Prediction: 92510.3515625 Ground Truth: 80089.515625
+
+['design_1948']   Prediction: 280373.125 Ground Truth: 3126.282470703125
+
+['design_1371']   Prediction: 622630.875 Ground Truth: 908909.0
+
+['design_1073']   Prediction: 6852.18017578125 Ground Truth: 3015.438232421875
+
+['design_2053']   Prediction: 103093520.0 Ground Truth: 6418531.0
+
+['design_1356']   Prediction: 1414856.375 Ground Truth: 2099480.5
+
+['design_2024']   Prediction: 28079.578125 Ground Truth: 422101.0625
+
+['design_2011']   Prediction: 151186464.0 Ground Truth: 237542.140625
+
+['design_1075']   Prediction: 39464.4921875 Ground Truth: 150693.0625
+
+['design_1514']   Prediction: 578873.25 Ground Truth: 627626.1875
+
+['design_1191']   Prediction: 1414856.375 Ground Truth: 195966.78125
+
+['design_1190']   Prediction: 7922547.5 Ground Truth: 3684702.75
+
+['design_1980']   Prediction: 1303.6907958984375 Ground Truth: 2730.1171875
+
+['design_1277']   Prediction: 3811025145036800.0 Ground Truth: 9070963589120.0
+
+['design_2064']   Prediction: 387228.34375 Ground Truth: 1590406.25
+
+['design_1612']   Prediction: 4135.56494140625 Ground Truth: 2493.892333984375
+
+['design_1720']   Prediction: 8527.7734375 Ground Truth: 2168.736572265625
+
+['design_1993']   Prediction: 14508.818359375 Ground Truth: 2017.6729736328125
+
+['design_1533']   Prediction: 66421.6171875 Ground Truth: 49553.07421875
+
+['design_1529']   Prediction: 3204.90966796875 Ground Truth: 1047.3306884765625
+
+['design_1606']   Prediction: 421.17962646484375 Ground Truth: 1607.6038818359375
+
+['design_1840']   Prediction: 2902.884521484375 Ground Truth: 2104.85107421875
+
+['design_1946']   Prediction: 130016.4609375 Ground Truth: 481614.8125
+
+['design_1411']   Prediction: 13481.7265625 Ground Truth: 177921.890625
+
+['design_1605']   Prediction: 2902.884521484375 Ground Truth: 2558.56005859375
+
+['design_1996']   Prediction: 286232.59375 Ground Truth: 168198.453125
+
+['design_1154']   Prediction: 387228.34375 Ground Truth: 2387840.0
+
+['design_1287']   Prediction: 4135.56494140625 Ground Truth: 1357.906982421875
+
+['design_1435']   Prediction: 578873.25 Ground Truth: 75697.4609375
+
+['design_1535']   Prediction: 9919.3330078125 Ground Truth: 2071.855712890625
+
+['design_1547']   Prediction: 36067.85546875 Ground Truth: 1818.3779296875
+
+['design_1272']   Prediction: 171984.3125 Ground Truth: 160139.390625
+
+--- Test MSE for fold 0 : 1.606184093697557  ---
+['design_1922']   Prediction: 62678.9609375 Ground Truth: 592259.625
+
+['design_1278']   Prediction: 110620.9609375 Ground Truth: 1211.118896484375
+
+['design_1209']   Prediction: 62523.203125 Ground Truth: 543291.0625
+
+['design_1162']   Prediction: 62688.7109375 Ground Truth: 285586.34375
+
+['design_1156']   Prediction: 62678.9609375 Ground Truth: 976080.0
+
+['design_1705']   Prediction: 62522.96484375 Ground Truth: 2118.57763671875
+
+['design_1492']   Prediction: 104540.4375 Ground Truth: 2937.7529296875
+
+['design_1604']   Prediction: 62489.1640625 Ground Truth: 342559.1875
+
+['design_1901']   Prediction: 62488.74609375 Ground Truth: 2015947.125
+
+['design_2107']   Prediction: 62678.9609375 Ground Truth: 259107.984375
+
+['design_1233']   Prediction: 104555.5859375 Ground Truth: 2868.08544921875
+
+['design_1619']   Prediction: 62688.7109375 Ground Truth: 2203.935546875
+
+['design_1335']   Prediction: 111189.25 Ground Truth: 13220784.0
+
+['design_2047']   Prediction: 62679.3828125 Ground Truth: 278702.4375
+
+['design_1462']   Prediction: 104541.234375 Ground Truth: 1246.2572021484375
+
+['design_2016']   Prediction: 62755.5234375 Ground Truth: 768042.5625
+
+['design_1134']   Prediction: 19580672016384.0 Ground Truth: 58649514868736.0
+
+['design_1710']   Prediction: 62678.9609375 Ground Truth: 2747.097412109375
+
+['design_1093']   Prediction: 104540.4375 Ground Truth: 1429.6717529296875
+
+['design_2057']   Prediction: 104541.4296875 Ground Truth: 125856.78125
+
+['design_1869']   Prediction: 62679.3828125 Ground Truth: 503077.75
+
+['design_1747']   Prediction: 62561.9140625 Ground Truth: 3322.259521484375
+
+['design_1464']   Prediction: 62688.94921875 Ground Truth: 391210.03125
+
+['design_2004']   Prediction: 104540.4375 Ground Truth: 2260.858154296875
+
+['design_1659']   Prediction: 104541.4296875 Ground Truth: 110029.0390625
+
+['design_1193']   Prediction: 62678.9609375 Ground Truth: 161813.515625
+
+['design_1110']   Prediction: 85538.2578125 Ground Truth: 354832.0625
+
+['design_1827']   Prediction: 104541.4296875 Ground Truth: 1564.935546875
+
+['design_1031']   Prediction: 104952.59375 Ground Truth: 823.365234375
+
+['design_1047']   Prediction: 100304.078125 Ground Truth: 354832.0625
+
+['design_1687']   Prediction: 62688.46484375 Ground Truth: 3802.4453125
+
+['design_1542']   Prediction: 104540.4375 Ground Truth: 549080.125
+
+['design_1754']   Prediction: 97580.6796875 Ground Truth: 204331.703125
+
+['design_1818']   Prediction: 105684.796875 Ground Truth: 1238.0592041015625
+
+['design_1802']   Prediction: 62688.58984375 Ground Truth: 2298576.0
+
+['design_1595']   Prediction: 110685.3359375 Ground Truth: 1415.5877685546875
+
+['design_1891']   Prediction: 62688.58984375 Ground Truth: 366516.90625
+
+['design_1114']   Prediction: 104598.875 Ground Truth: 1065.6072998046875
+
+['design_1667']   Prediction: 104540.6328125 Ground Truth: 1793.994384765625
+
+['design_1672']   Prediction: 104540.6328125 Ground Truth: 1267.8782958984375
+
+['design_1574']   Prediction: 62532.5078125 Ground Truth: 114852.0
+
+['design_1017']   Prediction: 104540.4375 Ground Truth: 1607.6038818359375
+
+['design_1152']   Prediction: 104541.4296875 Ground Truth: 1372.6524658203125
+
+['design_1742']   Prediction: 104540.4375 Ground Truth: 2204.5966796875
+
+['design_1333']   Prediction: 111189.359375 Ground Truth: 1008.68212890625
+
+['design_2029']   Prediction: 104541.4296875 Ground Truth: 743.746337890625
+
+['design_1433']   Prediction: 104601.265625 Ground Truth: 2633.054443359375
+
+['design_1713']   Prediction: 104540.4375 Ground Truth: 2168.736572265625
+
+['design_1760']   Prediction: 91582.9296875 Ground Truth: 230752.296875
+
+['design_1575']   Prediction: 61830.86328125 Ground Truth: 832426.4375
+
+['design_1615']   Prediction: 62488.74609375 Ground Truth: 1775690.625
+
+['design_1099']   Prediction: 100304.1796875 Ground Truth: 166109.09375
+
+['design_1061']   Prediction: 62497.80859375 Ground Truth: 3595881.5
+
+['design_1040']   Prediction: 63513.0078125 Ground Truth: 1724.340576171875
+
+['design_1351']   Prediction: 62678.9609375 Ground Truth: 934905.1875
+
+['design_1448']   Prediction: 62522.96484375 Ground Truth: 227931.3125
+
+['design_1269']   Prediction: 62678.9609375 Ground Truth: 245413.515625
+
+['design_1845']   Prediction: 104540.6328125 Ground Truth: 181715.9375
+
+['design_1950']   Prediction: 85537.5234375 Ground Truth: 1314411.5
+
+['design_1691']   Prediction: 19580634267648.0 Ground Truth: 32857445629952.0
+
+['design_1042']   Prediction: 62522.96484375 Ground Truth: 227931.3125
+
+['design_1077']   Prediction: 104540.4375 Ground Truth: 989.6981201171875
+
+['design_1457']   Prediction: 62678.9609375 Ground Truth: 1426308.125
+
+['design_2074']   Prediction: 62678.9609375 Ground Truth: 210933.9375
+
+['design_1686']   Prediction: 91686.75 Ground Truth: 110040.046875
+
+['design_1370']   Prediction: 91543.375 Ground Truth: 92364.7109375
+
+['design_1751']   Prediction: 19580634267648.0 Ground Truth: 515807707136.0
+
+['design_1562']   Prediction: 62678.9609375 Ground Truth: 1421.9720458984375
+
+['design_1084']   Prediction: 104540.6328125 Ground Truth: 585253.5
+
+['design_1259']   Prediction: 104540.4375 Ground Truth: 2328.31494140625
+
+['design_1978']   Prediction: 61865.6640625 Ground Truth: 662582.375
+
+['design_2027']   Prediction: 104541.4296875 Ground Truth: 80089.515625
+
+['design_1948']   Prediction: 103067.7109375 Ground Truth: 3126.282470703125
+
+['design_1371']   Prediction: 104540.6328125 Ground Truth: 908909.0
+
+['design_1073']   Prediction: 65343.78515625 Ground Truth: 3015.438232421875
+
+['design_2053']   Prediction: 104540.3359375 Ground Truth: 6418531.0
+
+['design_1356']   Prediction: 91730.4765625 Ground Truth: 2099480.5
+
+['design_2024']   Prediction: 61830.27734375 Ground Truth: 422101.0625
+
+['design_2011']   Prediction: 104540.4375 Ground Truth: 237542.140625
+
+['design_1075']   Prediction: 62755.5234375 Ground Truth: 150693.0625
+
+['design_1514']   Prediction: 104540.6328125 Ground Truth: 627626.1875
+
+['design_1191']   Prediction: 91686.4921875 Ground Truth: 195966.78125
+
+['design_1190']   Prediction: 105089.4140625 Ground Truth: 3684702.75
+
+['design_1980']   Prediction: 63365.44921875 Ground Truth: 2730.1171875
+
+['design_1277']   Prediction: 19580634267648.0 Ground Truth: 9070963589120.0
+
+['design_2064']   Prediction: 100303.4140625 Ground Truth: 1590406.25
+
+['design_1612']   Prediction: 115925.796875 Ground Truth: 2493.892333984375
+
+['design_1720']   Prediction: 104540.4375 Ground Truth: 2168.736572265625
+
+['design_1993']   Prediction: 62523.4453125 Ground Truth: 2017.6729736328125
+
+['design_1533']   Prediction: 62523.3828125 Ground Truth: 49553.07421875
+
+['design_1529']   Prediction: 104540.6328125 Ground Truth: 1047.3306884765625
+
+['design_1606']   Prediction: 104540.4375 Ground Truth: 1607.6038818359375
+
+['design_1840']   Prediction: 62678.9609375 Ground Truth: 2104.85107421875
+
+['design_1946']   Prediction: 62679.3828125 Ground Truth: 481614.8125
+
+['design_1411']   Prediction: 91771.1640625 Ground Truth: 177921.890625
+
+['design_1605']   Prediction: 62678.9609375 Ground Truth: 2558.56005859375
+
+['design_1996']   Prediction: 62489.1640625 Ground Truth: 168198.453125
+
+['design_1154']   Prediction: 103234.2578125 Ground Truth: 2387840.0
+
+['design_1287']   Prediction: 115925.796875 Ground Truth: 1357.906982421875
+
+['design_1435']   Prediction: 104540.6328125 Ground Truth: 75697.4609375
+
+['design_1535']   Prediction: 104540.4375 Ground Truth: 2071.855712890625
+
+['design_1547']   Prediction: 62264.3046875 Ground Truth: 1818.3779296875
+
+['design_1272']   Prediction: 62678.9609375 Ground Truth: 160139.390625
+
+--- Test MSE for fold 1 : 2.631296856889447  ---
+['design_1922']   Prediction: 9499.837890625 Ground Truth: 592259.625
+
+['design_1278']   Prediction: 9922.8720703125 Ground Truth: 1211.118896484375
+
+['design_1209']   Prediction: 9845.9423828125 Ground Truth: 543291.0625
+
+['design_1162']   Prediction: 9782.9326171875 Ground Truth: 285586.34375
+
+['design_1156']   Prediction: 9527.7275390625 Ground Truth: 976080.0
+
+['design_1705']   Prediction: 9824.697265625 Ground Truth: 2118.57763671875
+
+['design_1492']   Prediction: 8886.7919921875 Ground Truth: 2937.7529296875
+
+['design_1604']   Prediction: 9845.9423828125 Ground Truth: 342559.1875
+
+['design_1901']   Prediction: 9783.361328125 Ground Truth: 2015947.125
+
+['design_2107']   Prediction: 9499.837890625 Ground Truth: 259107.984375
+
+['design_1233']   Prediction: 9038.677734375 Ground Truth: 2868.08544921875
+
+['design_1619']   Prediction: 10842.0283203125 Ground Truth: 2203.935546875
+
+['design_1335']   Prediction: 20409684.0 Ground Truth: 13220784.0
+
+['design_2047']   Prediction: 8819.046875 Ground Truth: 278702.4375
+
+['design_1462']   Prediction: 7327.7421875 Ground Truth: 1246.2572021484375
+
+['design_2016']   Prediction: 9844.8154296875 Ground Truth: 768042.5625
+
+['design_1134']   Prediction: 8797213949952.0 Ground Truth: 58649514868736.0
+
+['design_1710']   Prediction: 9817.1484375 Ground Truth: 2747.097412109375
+
+['design_1093']   Prediction: 8878.431640625 Ground Truth: 1429.6717529296875
+
+['design_2057']   Prediction: 10637.486328125 Ground Truth: 125856.78125
+
+['design_1869']   Prediction: 9527.7275390625 Ground Truth: 503077.75
+
+['design_1747']   Prediction: 9527.763671875 Ground Truth: 3322.259521484375
+
+['design_1464']   Prediction: 9783.640625 Ground Truth: 391210.03125
+
+['design_2004']   Prediction: 8885.173828125 Ground Truth: 2260.858154296875
+
+['design_1659']   Prediction: 10647.28125 Ground Truth: 110029.0390625
+
+['design_1193']   Prediction: 9499.837890625 Ground Truth: 161813.515625
+
+['design_1110']   Prediction: 9862.0400390625 Ground Truth: 354832.0625
+
+['design_1827']   Prediction: 7490.07666015625 Ground Truth: 1564.935546875
+
+['design_1031']   Prediction: 8887.181640625 Ground Truth: 823.365234375
+
+['design_1047']   Prediction: 10924.1669921875 Ground Truth: 354832.0625
+
+['design_1687']   Prediction: 9845.9423828125 Ground Truth: 3802.4453125
+
+['design_1542']   Prediction: 17611236.0 Ground Truth: 549080.125
+
+['design_1754']   Prediction: 9859.435546875 Ground Truth: 204331.703125
+
+['design_1818']   Prediction: 8883.166015625 Ground Truth: 1238.0592041015625
+
+['design_1802']   Prediction: 9527.7275390625 Ground Truth: 2298576.0
+
+['design_1595']   Prediction: 9927.9541015625 Ground Truth: 1415.5877685546875
+
+['design_1891']   Prediction: 9754.72265625 Ground Truth: 366516.90625
+
+['design_1114']   Prediction: 8203.2939453125 Ground Truth: 1065.6072998046875
+
+['design_1667']   Prediction: 8887.181640625 Ground Truth: 1793.994384765625
+
+['design_1672']   Prediction: 8885.1396484375 Ground Truth: 1267.8782958984375
+
+['design_1574']   Prediction: 9847.1435546875 Ground Truth: 114852.0
+
+['design_1017']   Prediction: 8884.7578125 Ground Truth: 1607.6038818359375
+
+['design_1152']   Prediction: 9922.82421875 Ground Truth: 1372.6524658203125
+
+['design_1742']   Prediction: 8850.8291015625 Ground Truth: 2204.5966796875
+
+['design_1333']   Prediction: 8875.958984375 Ground Truth: 1008.68212890625
+
+['design_2029']   Prediction: 8885.1650390625 Ground Truth: 743.746337890625
+
+['design_1433']   Prediction: 8885.1484375 Ground Truth: 2633.054443359375
+
+['design_1713']   Prediction: 8853.201171875 Ground Truth: 2168.736572265625
+
+['design_1760']   Prediction: 9797.3662109375 Ground Truth: 230752.296875
+
+['design_1575']   Prediction: 9797.3759765625 Ground Truth: 832426.4375
+
+['design_1615']   Prediction: 9845.9423828125 Ground Truth: 1775690.625
+
+['design_1099']   Prediction: 10925.396484375 Ground Truth: 166109.09375
+
+['design_1061']   Prediction: 9527.7275390625 Ground Truth: 3595881.5
+
+['design_1040']   Prediction: 9845.9423828125 Ground Truth: 1724.340576171875
+
+['design_1351']   Prediction: 9754.48046875 Ground Truth: 934905.1875
+
+['design_1448']   Prediction: 9844.8154296875 Ground Truth: 227931.3125
+
+['design_1269']   Prediction: 9847.162109375 Ground Truth: 245413.515625
+
+['design_1845']   Prediction: 10637.486328125 Ground Truth: 181715.9375
+
+['design_1950']   Prediction: 9784.0703125 Ground Truth: 1314411.5
+
+['design_1691']   Prediction: 5551593881600.0 Ground Truth: 32857445629952.0
+
+['design_1042']   Prediction: 9844.8154296875 Ground Truth: 227931.3125
+
+['design_1077']   Prediction: 9920.4111328125 Ground Truth: 989.6981201171875
+
+['design_1457']   Prediction: 9527.7275390625 Ground Truth: 1426308.125
+
+['design_2074']   Prediction: 9755.4296875 Ground Truth: 210933.9375
+
+['design_1686']   Prediction: 10925.958984375 Ground Truth: 110040.046875
+
+['design_1370']   Prediction: 8901.9072265625 Ground Truth: 92364.7109375
+
+['design_1751']   Prediction: 10304620593152.0 Ground Truth: 515807707136.0
+
+['design_1562']   Prediction: 9783.15625 Ground Truth: 1421.9720458984375
+
+['design_1084']   Prediction: 10606.5810546875 Ground Truth: 585253.5
+
+['design_1259']   Prediction: 8885.1484375 Ground Truth: 2328.31494140625
+
+['design_1978']   Prediction: 9800.87109375 Ground Truth: 662582.375
+
+['design_2027']   Prediction: 10639.2109375 Ground Truth: 80089.515625
+
+['design_1948']   Prediction: 9831.154296875 Ground Truth: 3126.282470703125
+
+['design_1371']   Prediction: 10637.486328125 Ground Truth: 908909.0
+
+['design_1073']   Prediction: 9783.361328125 Ground Truth: 3015.438232421875
+
+['design_2053']   Prediction: 17859800.0 Ground Truth: 6418531.0
+
+['design_1356']   Prediction: 10856.244140625 Ground Truth: 2099480.5
+
+['design_2024']   Prediction: 9862.8583984375 Ground Truth: 422101.0625
+
+['design_2011']   Prediction: 17013780.0 Ground Truth: 237542.140625
+
+['design_1075']   Prediction: 9567.69140625 Ground Truth: 150693.0625
+
+['design_1514']   Prediction: 10606.5810546875 Ground Truth: 627626.1875
+
+['design_1191']   Prediction: 10924.708984375 Ground Truth: 195966.78125
+
+['design_1190']   Prediction: 9192.984375 Ground Truth: 3684702.75
+
+['design_1980']   Prediction: 8589.01171875 Ground Truth: 2730.1171875
+
+['design_1277']   Prediction: 1717472591872.0 Ground Truth: 9070963589120.0
+
+['design_2064']   Prediction: 10646.7333984375 Ground Truth: 1590406.25
+
+['design_1612']   Prediction: 8853.1416015625 Ground Truth: 2493.892333984375
+
+['design_1720']   Prediction: 8853.201171875 Ground Truth: 2168.736572265625
+
+['design_1993']   Prediction: 8067.01416015625 Ground Truth: 2017.6729736328125
+
+['design_1533']   Prediction: 9527.7275390625 Ground Truth: 49553.07421875
+
+['design_1529']   Prediction: 9882.451171875 Ground Truth: 1047.3306884765625
+
+['design_1606']   Prediction: 8885.1484375 Ground Truth: 1607.6038818359375
+
+['design_1840']   Prediction: 9845.041015625 Ground Truth: 2104.85107421875
+
+['design_1946']   Prediction: 9864.4013671875 Ground Truth: 481614.8125
+
+['design_1411']   Prediction: 9817.1015625 Ground Truth: 177921.890625
+
+['design_1605']   Prediction: 9843.9140625 Ground Truth: 2558.56005859375
+
+['design_1996']   Prediction: 9844.8154296875 Ground Truth: 168198.453125
+
+['design_1154']   Prediction: 9754.6484375 Ground Truth: 2387840.0
+
+['design_1287']   Prediction: 8851.1416015625 Ground Truth: 1357.906982421875
+
+['design_1435']   Prediction: 10639.0390625 Ground Truth: 75697.4609375
+
+['design_1535']   Prediction: 9038.677734375 Ground Truth: 2071.855712890625
+
+['design_1547']   Prediction: 9527.736328125 Ground Truth: 1818.3779296875
+
+['design_1272']   Prediction: 9843.876953125 Ground Truth: 160139.390625
+
+--- Test MSE for fold 2 : 2.726255291873969  ---
+['design_1922']   Prediction: 370192.8125 Ground Truth: 592259.625
+
+['design_1278']   Prediction: 11845.8525390625 Ground Truth: 1211.118896484375
+
+['design_1209']   Prediction: 455134.8125 Ground Truth: 543291.0625
+
+['design_1162']   Prediction: 444061.09375 Ground Truth: 285586.34375
+
+['design_1156']   Prediction: 449060.8125 Ground Truth: 976080.0
+
+['design_1705']   Prediction: 13924.9189453125 Ground Truth: 2118.57763671875
+
+['design_1492']   Prediction: 25729.501953125 Ground Truth: 2937.7529296875
+
+['design_1604']   Prediction: 18681.5703125 Ground Truth: 342559.1875
+
+['design_1901']   Prediction: 568757.4375 Ground Truth: 2015947.125
+
+['design_2107']   Prediction: 429229.71875 Ground Truth: 259107.984375
+
+['design_1233']   Prediction: 12497.462890625 Ground Truth: 2868.08544921875
+
+['design_1619']   Prediction: 13212.8486328125 Ground Truth: 2203.935546875
+
+['design_1335']   Prediction: 38328280.0 Ground Truth: 13220784.0
+
+['design_2047']   Prediction: 18566.478515625 Ground Truth: 278702.4375
+
+['design_1462']   Prediction: 25009.81640625 Ground Truth: 1246.2572021484375
+
+['design_2016']   Prediction: 16451.8125 Ground Truth: 768042.5625
+
+['design_1134']   Prediction: 15459215736832.0 Ground Truth: 58649514868736.0
+
+['design_1710']   Prediction: 14892.3154296875 Ground Truth: 2747.097412109375
+
+['design_1093']   Prediction: 13010.3466796875 Ground Truth: 1429.6717529296875
+
+['design_2057']   Prediction: 18097.6328125 Ground Truth: 125856.78125
+
+['design_1869']   Prediction: 34346.6484375 Ground Truth: 503077.75
+
+['design_1747']   Prediction: 15757.9775390625 Ground Truth: 3322.259521484375
+
+['design_1464']   Prediction: 16882.76953125 Ground Truth: 391210.03125
+
+['design_2004']   Prediction: 12686.16015625 Ground Truth: 2260.858154296875
+
+['design_1659']   Prediction: 13257.9345703125 Ground Truth: 110029.0390625
+
+['design_1193']   Prediction: 428960.4375 Ground Truth: 161813.515625
+
+['design_1110']   Prediction: 16397.927734375 Ground Truth: 354832.0625
+
+['design_1827']   Prediction: 15342.6455078125 Ground Truth: 1564.935546875
+
+['design_1031']   Prediction: 31175.24609375 Ground Truth: 823.365234375
+
+['design_1047']   Prediction: 16395.64453125 Ground Truth: 354832.0625
+
+['design_1687']   Prediction: 15551.66796875 Ground Truth: 3802.4453125
+
+['design_1542']   Prediction: 36500344.0 Ground Truth: 549080.125
+
+['design_1754']   Prediction: 30374.236328125 Ground Truth: 204331.703125
+
+['design_1818']   Prediction: 13236.130859375 Ground Truth: 1238.0592041015625
+
+['design_1802']   Prediction: 497752.8125 Ground Truth: 2298576.0
+
+['design_1595']   Prediction: 10857.6943359375 Ground Truth: 1415.5877685546875
+
+['design_1891']   Prediction: 453386.34375 Ground Truth: 366516.90625
+
+['design_1114']   Prediction: 34032.45703125 Ground Truth: 1065.6072998046875
+
+['design_1667']   Prediction: 30392.494140625 Ground Truth: 1793.994384765625
+
+['design_1672']   Prediction: 14942.505859375 Ground Truth: 1267.8782958984375
+
+['design_1574']   Prediction: 480075.84375 Ground Truth: 114852.0
+
+['design_1017']   Prediction: 13009.2177734375 Ground Truth: 1607.6038818359375
+
+['design_1152']   Prediction: 47503.58203125 Ground Truth: 1372.6524658203125
+
+['design_1742']   Prediction: 15782.4169921875 Ground Truth: 2204.5966796875
+
+['design_1333']   Prediction: 36437.6171875 Ground Truth: 1008.68212890625
+
+['design_2029']   Prediction: 12569.9111328125 Ground Truth: 743.746337890625
+
+['design_1433']   Prediction: 11970.6953125 Ground Truth: 2633.054443359375
+
+['design_1713']   Prediction: 25784.427734375 Ground Truth: 2168.736572265625
+
+['design_1760']   Prediction: 359641.8125 Ground Truth: 230752.296875
+
+['design_1575']   Prediction: 719922.1875 Ground Truth: 832426.4375
+
+['design_1615']   Prediction: 566058.3125 Ground Truth: 1775690.625
+
+['design_1099']   Prediction: 16563.4921875 Ground Truth: 166109.09375
+
+['design_1061']   Prediction: 580702.375 Ground Truth: 3595881.5
+
+['design_1040']   Prediction: 17319.564453125 Ground Truth: 1724.340576171875
+
+['design_1351']   Prediction: 444196.625 Ground Truth: 934905.1875
+
+['design_1448']   Prediction: 481914.375 Ground Truth: 227931.3125
+
+['design_1269']   Prediction: 462171.65625 Ground Truth: 245413.515625
+
+['design_1845']   Prediction: 521073.625 Ground Truth: 181715.9375
+
+['design_1950']   Prediction: 445688.5625 Ground Truth: 1314411.5
+
+['design_1691']   Prediction: 458097185259520.0 Ground Truth: 32857445629952.0
+
+['design_1042']   Prediction: 481914.375 Ground Truth: 227931.3125
+
+['design_1077']   Prediction: 16108.759765625 Ground Truth: 989.6981201171875
+
+['design_1457']   Prediction: 428960.4375 Ground Truth: 1426308.125
+
+['design_2074']   Prediction: 470679.0 Ground Truth: 210933.9375
+
+['design_1686']   Prediction: 357525.03125 Ground Truth: 110040.046875
+
+['design_1370']   Prediction: 31043.6953125 Ground Truth: 92364.7109375
+
+['design_1751']   Prediction: 12393028517888.0 Ground Truth: 515807707136.0
+
+['design_1562']   Prediction: 19008.185546875 Ground Truth: 1421.9720458984375
+
+['design_1084']   Prediction: 309500.625 Ground Truth: 585253.5
+
+['design_1259']   Prediction: 12954.0029296875 Ground Truth: 2328.31494140625
+
+['design_1978']   Prediction: 485456.03125 Ground Truth: 662582.375
+
+['design_2027']   Prediction: 21746.609375 Ground Truth: 80089.515625
+
+['design_1948']   Prediction: 37654.91015625 Ground Truth: 3126.282470703125
+
+['design_1371']   Prediction: 448002.53125 Ground Truth: 908909.0
+
+['design_1073']   Prediction: 28027.755859375 Ground Truth: 3015.438232421875
+
+['design_2053']   Prediction: 37275380.0 Ground Truth: 6418531.0
+
+['design_1356']   Prediction: 364014.40625 Ground Truth: 2099480.5
+
+['design_2024']   Prediction: 41737.703125 Ground Truth: 422101.0625
+
+['design_2011']   Prediction: 37733620.0 Ground Truth: 237542.140625
+
+['design_1075']   Prediction: 32349.154296875 Ground Truth: 150693.0625
+
+['design_1514']   Prediction: 393117.0 Ground Truth: 627626.1875
+
+['design_1191']   Prediction: 378101.65625 Ground Truth: 195966.78125
+
+['design_1190']   Prediction: 20733.037109375 Ground Truth: 3684702.75
+
+['design_1980']   Prediction: 16412.87109375 Ground Truth: 2730.1171875
+
+['design_1277']   Prediction: 20463929524224.0 Ground Truth: 9070963589120.0
+
+['design_2064']   Prediction: 439556.125 Ground Truth: 1590406.25
+
+['design_1612']   Prediction: 30941.490234375 Ground Truth: 2493.892333984375
+
+['design_1720']   Prediction: 25784.427734375 Ground Truth: 2168.736572265625
+
+['design_1993']   Prediction: 16496.431640625 Ground Truth: 2017.6729736328125
+
+['design_1533']   Prediction: 453621.625 Ground Truth: 49553.07421875
+
+['design_1529']   Prediction: 27358.68359375 Ground Truth: 1047.3306884765625
+
+['design_1606']   Prediction: 27083.353515625 Ground Truth: 1607.6038818359375
+
+['design_1840']   Prediction: 27048.765625 Ground Truth: 2104.85107421875
+
+['design_1946']   Prediction: 37784.26953125 Ground Truth: 481614.8125
+
+['design_1411']   Prediction: 541995.25 Ground Truth: 177921.890625
+
+['design_1605']   Prediction: 14102.9345703125 Ground Truth: 2558.56005859375
+
+['design_1996']   Prediction: 19228.1015625 Ground Truth: 168198.453125
+
+['design_1154']   Prediction: 543579.1875 Ground Truth: 2387840.0
+
+['design_1287']   Prediction: 19465.447265625 Ground Truth: 1357.906982421875
+
+['design_1435']   Prediction: 309287.0 Ground Truth: 75697.4609375
+
+['design_1535']   Prediction: 15019.87109375 Ground Truth: 2071.855712890625
+
+['design_1547']   Prediction: 28927.0234375 Ground Truth: 1818.3779296875
+
+['design_1272']   Prediction: 363864.5 Ground Truth: 160139.390625
+
+--- Test MSE for fold 3 : 1.9157867570525233  ---
+['design_1922']   Prediction: 9762.96875 Ground Truth: 592259.625
+
+['design_1278']   Prediction: 12616.3046875 Ground Truth: 1211.118896484375
+
+['design_1209']   Prediction: 39322.41015625 Ground Truth: 543291.0625
+
+['design_1162']   Prediction: 1680042.5 Ground Truth: 285586.34375
+
+['design_1156']   Prediction: 20994.583984375 Ground Truth: 976080.0
+
+['design_1705']   Prediction: 47234.0703125 Ground Truth: 2118.57763671875
+
+['design_1492']   Prediction: 24241.91796875 Ground Truth: 2937.7529296875
+
+['design_1604']   Prediction: 40696.73046875 Ground Truth: 342559.1875
+
+['design_1901']   Prediction: 577934.4375 Ground Truth: 2015947.125
+
+['design_2107']   Prediction: 513182.0625 Ground Truth: 259107.984375
+
+['design_1233']   Prediction: 10195.98828125 Ground Truth: 2868.08544921875
+
+['design_1619']   Prediction: 44774.6875 Ground Truth: 2203.935546875
+
+['design_1335']   Prediction: 60395880.0 Ground Truth: 13220784.0
+
+['design_2047']   Prediction: 107494.765625 Ground Truth: 278702.4375
+
+['design_1462']   Prediction: 17630.232421875 Ground Truth: 1246.2572021484375
+
+['design_2016']   Prediction: 99376.40625 Ground Truth: 768042.5625
+
+['design_1134']   Prediction: 5.287778192248013e+16 Ground Truth: 58649514868736.0
+
+['design_1710']   Prediction: 47234.0703125 Ground Truth: 2747.097412109375
+
+['design_1093']   Prediction: 25264.33203125 Ground Truth: 1429.6717529296875
+
+['design_2057']   Prediction: 20094.83984375 Ground Truth: 125856.78125
+
+['design_1869']   Prediction: 23662.474609375 Ground Truth: 503077.75
+
+['design_1747']   Prediction: 28549.470703125 Ground Truth: 3322.259521484375
+
+['design_1464']   Prediction: 107274.3828125 Ground Truth: 391210.03125
+
+['design_2004']   Prediction: 17348.7265625 Ground Truth: 2260.858154296875
+
+['design_1659']   Prediction: 18497.728515625 Ground Truth: 110029.0390625
+
+['design_1193']   Prediction: 33623.58984375 Ground Truth: 161813.515625
+
+['design_1110']   Prediction: 124208.78125 Ground Truth: 354832.0625
+
+['design_1827']   Prediction: 22836.720703125 Ground Truth: 1564.935546875
+
+['design_1031']   Prediction: 17825.80859375 Ground Truth: 823.365234375
+
+['design_1047']   Prediction: 99376.40625 Ground Truth: 354832.0625
+
+['design_1687']   Prediction: 44774.6875 Ground Truth: 3802.4453125
+
+['design_1542']   Prediction: 47127328.0 Ground Truth: 549080.125
+
+['design_1754']   Prediction: 76183.4921875 Ground Truth: 204331.703125
+
+['design_1818']   Prediction: 30546.615234375 Ground Truth: 1238.0592041015625
+
+['design_1802']   Prediction: 320431.40625 Ground Truth: 2298576.0
+
+['design_1595']   Prediction: 25247.880859375 Ground Truth: 1415.5877685546875
+
+['design_1891']   Prediction: 1680042.5 Ground Truth: 366516.90625
+
+['design_1114']   Prediction: 23658.52734375 Ground Truth: 1065.6072998046875
+
+['design_1667']   Prediction: 20994.001953125 Ground Truth: 1793.994384765625
+
+['design_1672']   Prediction: 20989.158203125 Ground Truth: 1267.8782958984375
+
+['design_1574']   Prediction: 727353.25 Ground Truth: 114852.0
+
+['design_1017']   Prediction: 25264.33203125 Ground Truth: 1607.6038818359375
+
+['design_1152']   Prediction: 23548.09375 Ground Truth: 1372.6524658203125
+
+['design_1742']   Prediction: 24071.39453125 Ground Truth: 2204.5966796875
+
+['design_1333']   Prediction: 23663.015625 Ground Truth: 1008.68212890625
+
+['design_2029']   Prediction: 23944.962890625 Ground Truth: 743.746337890625
+
+['design_1433']   Prediction: 33350.5390625 Ground Truth: 2633.054443359375
+
+['design_1713']   Prediction: 16546.03125 Ground Truth: 2168.736572265625
+
+['design_1760']   Prediction: 1518614.375 Ground Truth: 230752.296875
+
+['design_1575']   Prediction: 95505.03125 Ground Truth: 832426.4375
+
+['design_1615']   Prediction: 83124.15625 Ground Truth: 1775690.625
+
+['design_1099']   Prediction: 42287.32421875 Ground Truth: 166109.09375
+
+['design_1061']   Prediction: 318830.46875 Ground Truth: 3595881.5
+
+['design_1040']   Prediction: 55765.7421875 Ground Truth: 1724.340576171875
+
+['design_1351']   Prediction: 43431.0625 Ground Truth: 934905.1875
+
+['design_1448']   Prediction: 106956.0703125 Ground Truth: 227931.3125
+
+['design_1269']   Prediction: 115334.953125 Ground Truth: 245413.515625
+
+['design_1845']   Prediction: 9811.962890625 Ground Truth: 181715.9375
+
+['design_1950']   Prediction: 151821.09375 Ground Truth: 1314411.5
+
+['design_1691']   Prediction: 52605887709184.0 Ground Truth: 32857445629952.0
+
+['design_1042']   Prediction: 106956.0703125 Ground Truth: 227931.3125
+
+['design_1077']   Prediction: 23438.244140625 Ground Truth: 989.6981201171875
+
+['design_1457']   Prediction: 22112.04296875 Ground Truth: 1426308.125
+
+['design_2074']   Prediction: 43431.15234375 Ground Truth: 210933.9375
+
+['design_1686']   Prediction: 72676.4921875 Ground Truth: 110040.046875
+
+['design_1370']   Prediction: 68299.4296875 Ground Truth: 92364.7109375
+
+['design_1751']   Prediction: 4.27213911532503e+16 Ground Truth: 515807707136.0
+
+['design_1562']   Prediction: 39322.484375 Ground Truth: 1421.9720458984375
+
+['design_1084']   Prediction: 9811.962890625 Ground Truth: 585253.5
+
+['design_1259']   Prediction: 15515.9501953125 Ground Truth: 2328.31494140625
+
+['design_1978']   Prediction: 782173.4375 Ground Truth: 662582.375
+
+['design_2027']   Prediction: 20146.9765625 Ground Truth: 80089.515625
+
+['design_1948']   Prediction: 15944.244140625 Ground Truth: 3126.282470703125
+
+['design_1371']   Prediction: 272119.375 Ground Truth: 908909.0
+
+['design_1073']   Prediction: 38131.99609375 Ground Truth: 3015.438232421875
+
+['design_2053']   Prediction: 47127328.0 Ground Truth: 6418531.0
+
+['design_1356']   Prediction: 1546573.875 Ground Truth: 2099480.5
+
+['design_2024']   Prediction: 43819.0625 Ground Truth: 422101.0625
+
+['design_2011']   Prediction: 58833760.0 Ground Truth: 237542.140625
+
+['design_1075']   Prediction: 34973.47265625 Ground Truth: 150693.0625
+
+['design_1514']   Prediction: 9811.962890625 Ground Truth: 627626.1875
+
+['design_1191']   Prediction: 1546573.875 Ground Truth: 195966.78125
+
+['design_1190']   Prediction: 49223.984375 Ground Truth: 3684702.75
+
+['design_1980']   Prediction: 24138.75 Ground Truth: 2730.1171875
+
+['design_1277']   Prediction: 3.848176880582656e+16 Ground Truth: 9070963589120.0
+
+['design_2064']   Prediction: 230940.75 Ground Truth: 1590406.25
+
+['design_1612']   Prediction: 6738.00634765625 Ground Truth: 2493.892333984375
+
+['design_1720']   Prediction: 16546.03125 Ground Truth: 2168.736572265625
+
+['design_1993']   Prediction: 32457.095703125 Ground Truth: 2017.6729736328125
+
+['design_1533']   Prediction: 17825.841796875 Ground Truth: 49553.07421875
+
+['design_1529']   Prediction: 24075.34375 Ground Truth: 1047.3306884765625
+
+['design_1606']   Prediction: 25264.33203125 Ground Truth: 1607.6038818359375
+
+['design_1840']   Prediction: 47234.0703125 Ground Truth: 2104.85107421875
+
+['design_1946']   Prediction: 108034.7265625 Ground Truth: 481614.8125
+
+['design_1411']   Prediction: 57988.96875 Ground Truth: 177921.890625
+
+['design_1605']   Prediction: 47234.0703125 Ground Truth: 2558.56005859375
+
+['design_1996']   Prediction: 108034.5234375 Ground Truth: 168198.453125
+
+['design_1154']   Prediction: 1457339.875 Ground Truth: 2387840.0
+
+['design_1287']   Prediction: 22209.087890625 Ground Truth: 1357.906982421875
+
+['design_1435']   Prediction: 9811.962890625 Ground Truth: 75697.4609375
+
+['design_1535']   Prediction: 13577.232421875 Ground Truth: 2071.855712890625
+
+['design_1547']   Prediction: 17825.875 Ground Truth: 1818.3779296875
+
+['design_1272']   Prediction: 47234.0703125 Ground Truth: 160139.390625
+
+--- Test MSE for fold 4 : 2.3894640218864365  ---

@@ -1,0 +1,1036 @@
+
+['design_2066']   Prediction: 7.498596185778432e+35 Ground Truth: 4.7243289822505116e+35
+
+['design_2025']   Prediction: 1.4902048855756734e+36 Ground Truth: 6.556150750272018e+34
+
+['design_1912']   Prediction: 1.6542075778066924e+29 Ground Truth: 5.120760667055598e+27
+
+['design_1993']   Prediction: 1.3589918594446456e+29 Ground Truth: 7.306864768439594e+28
+
+['design_1037']   Prediction: 7.000806307738219e+29 Ground Truth: 1.8316835549658994e+29
+
+['design_1882']   Prediction: 5.265932399039103e+29 Ground Truth: 2.634157966148314e+31
+
+['design_1482']   Prediction: 4.295961723561546e+29 Ground Truth: 1.3388825118033121e+29
+
+['design_1529']   Prediction: 7.359902533607461e+35 Ground Truth: 1.552270841596504e+35
+
+['design_1394']   Prediction: 5.958231986559101e+28 Ground Truth: 1.511417344685231e+30
+
+['design_1408']   Prediction: 2.1802689103576946e+35 Ground Truth: 1.0075616559770027e+36
+
+['design_1842']   Prediction: 1.3715191855119447e+32 Ground Truth: 6.559167753284574e+31
+
+['design_1903']   Prediction: 7.81613761478909e+30 Ground Truth: 6.174022846398139e+30
+
+['design_1651']   Prediction: 6.2096149825691406e+29 Ground Truth: 5.458268341257286e+29
+
+['design_1187']   Prediction: 1.1931911778356965e+29 Ground Truth: 1.4572181212089604e+29
+
+['design_1114']   Prediction: 1.7452289114276776e+32 Ground Truth: 1.8278222313425834e+35
+
+['design_1189']   Prediction: 5.07907149534488e+35 Ground Truth: 2.5684944333530287e+35
+
+['design_1813']   Prediction: 5.917143620264949e+28 Ground Truth: 1.527985521927322e+30
+
+['design_1360']   Prediction: 8.818536780904513e+28 Ground Truth: 1.3255734096762428e+30
+
+['design_1820']   Prediction: 7.359816427693687e+27 Ground Truth: 3.209876745424552e+29
+
+['design_1961']   Prediction: 5.863774267695446e+27 Ground Truth: 3.47196057666111e+28
+
+['design_1155']   Prediction: 1.5595594364070038e+35 Ground Truth: 6.934508801767013e+34
+
+['design_1524']   Prediction: 1.85102628543832e+27 Ground Truth: 2.719775422511824e+30
+
+['design_1710']   Prediction: 7.735810538704796e+30 Ground Truth: 5.455627745035793e+30
+
+['design_1598']   Prediction: 2.5244197075111403e+32 Ground Truth: 1.4668954779476459e+30
+
+['design_1349']   Prediction: 4.7246385078318835e+29 Ground Truth: 5.2568605441308514e+29
+
+['design_1604']   Prediction: 3.275609064551549e+29 Ground Truth: 8.159637145643405e+27
+
+['design_1474']   Prediction: 6.182224803621314e+30 Ground Truth: 2.212150009599862e+31
+
+['design_1310']   Prediction: 6.117776288156885e+29 Ground Truth: 1.4463303274933858e+29
+
+['design_1994']   Prediction: 5.306199627763074e+21 Ground Truth: 2.1203837210274143e+20
+
+['design_1443']   Prediction: 4.699832483381347e+29 Ground Truth: 5.2568605441308514e+29
+
+['design_1488']   Prediction: 3.0975476586907364e+36 Ground Truth: 1.2576235830156272e+35
+
+['design_1986']   Prediction: 5.229195790662596e+35 Ground Truth: 4.891133182622356e+35
+
+['design_1433']   Prediction: 3.231256583432864e+31 Ground Truth: 8.255754778056064e+34
+
+['design_1510']   Prediction: 4.723918063601257e+29 Ground Truth: 3.277984225997773e+29
+
+['design_1406']   Prediction: 1.5828109123097553e+31 Ground Truth: 4.14501988751604e+34
+
+['design_177']   Prediction: 4.7045318047157804e+29 Ground Truth: 9.786658744351357e+28
+
+['design_1983']   Prediction: 7.078467702390263e+29 Ground Truth: 1.7979282682410065e+29
+
+['design_1068']   Prediction: 1.703940897079045e+30 Ground Truth: 1.3155387209105315e+30
+
+['design_1659']   Prediction: 3.584675861597171e+29 Ground Truth: 1.0555338359601936e+30
+
+['design_1238']   Prediction: 8.53865288646041e+29 Ground Truth: 2.3568681318374356e+29
+
+['design_2108']   Prediction: 1.8386958757480528e+34 Ground Truth: 2.5226509387830094e+34
+
+['design_1421']   Prediction: 1.7171404780826437e+29 Ground Truth: 8.754050977634335e+28
+
+['design_1803']   Prediction: 6.15441165175235e+30 Ground Truth: 1.0668126242422412e+32
+
+['design_1376']   Prediction: 1.783392446417415e+29 Ground Truth: 1.5889141743100798e+30
+
+['design_1924']   Prediction: 1.498791002304255e+29 Ground Truth: 8.96052266278768e+29
+
+['design_1323']   Prediction: 5.376697237660277e+35 Ground Truth: 6.915119194519694e+34
+
+['design_1777']   Prediction: 1.0170737499557474e+30 Ground Truth: 1.0205438204052237e+29
+
+['design_2094']   Prediction: 3.944241756864008e+29 Ground Truth: 8.210665266969863e+29
+
+['design_1176']   Prediction: 3.17222830199225e+30 Ground Truth: 2.9857445429932304e+30
+
+['design_1947']   Prediction: 1.7958637693587983e+35 Ground Truth: 1.637119410345449e+36
+
+['design_1319']   Prediction: 2.9307539075628286e+29 Ground Truth: 2.632717425253234e+28
+
+['design_1248']   Prediction: 9.605393918115614e+29 Ground Truth: 5.1167218631211235e+28
+
+['design_1555']   Prediction: 5.486042698696698e+33 Ground Truth: 1.6289072528445205e+34
+
+['design_1162']   Prediction: 3.266973556306314e+29 Ground Truth: 8.506365689027712e+28
+
+['design_1657']   Prediction: 9.712466966801607e+29 Ground Truth: 7.820397567145957e+29
+
+['design_1241']   Prediction: 6.474440761456647e+29 Ground Truth: 1.1334116850023462e+29
+
+['design_1145']   Prediction: 7.134740176978775e+27 Ground Truth: 4.90588028891919e+29
+
+['design_1318']   Prediction: 3.876344125949849e+22 Ground Truth: 1.7454522262806352e+21
+
+['design_1005']   Prediction: 4.965814222025996e+30 Ground Truth: 5.258487607168325e+30
+
+['design_178']   Prediction: 3.6118536473900636e+29 Ground Truth: 1.9554781255784154e+29
+
+['design_1942']   Prediction: 5.575169956856746e+30 Ground Truth: 2.2897289252878627e+29
+
+['design_1217']   Prediction: 6.88155030910506e+29 Ground Truth: 8.31216875662596e+28
+
+['design_1489']   Prediction: 1.5582035454407753e+35 Ground Truth: 2.0334282262353822e+35
+
+['design_1593']   Prediction: 4.1472520419596765e+35 Ground Truth: 1.171894353626255e+35
+
+['design_2028']   Prediction: 4.7233411793117095e+29 Ground Truth: 5.2568605441308514e+29
+
+['design_2006']   Prediction: 3.444099722800705e+35 Ground Truth: 9.697867772844766e+34
+
+['design_1151']   Prediction: 8.98884974715645e+32 Ground Truth: 7.203050677905049e+34
+
+['design_1596']   Prediction: 1.7714296802453953e+34 Ground Truth: 1.8478227124816882e+34
+
+['design_1916']   Prediction: 6.151079247730583e+30 Ground Truth: 2.212150009599862e+31
+
+['design_1755']   Prediction: 3.0537851908443573e+36 Ground Truth: 6.336457294837761e+35
+
+['design_1143']   Prediction: 2.15475991790818e+34 Ground Truth: 1.9340359516676203e+34
+
+['design_1769']   Prediction: 3.1532378907548333e+30 Ground Truth: 2.091219074466772e+30
+
+['design_1974']   Prediction: 2.0962350588080805e+30 Ground Truth: 3.556345440593139e+29
+
+['design_1286']   Prediction: 3.267821315537319e+29 Ground Truth: 1.0730760862919732e+29
+
+['design_1040']   Prediction: 6.206462236257847e+28 Ground Truth: 1.896378464623939e+30
+
+['design_1377']   Prediction: 1.4503410771502962e+36 Ground Truth: 3.440160498560496e+35
+
+['design_2081']   Prediction: 3.140801066385548e+30 Ground Truth: 2.290937155975131e+31
+
+['design_1131']   Prediction: 1.0026083669506144e+29 Ground Truth: 7.095113619229395e+27
+
+['design_1648']   Prediction: 4.44233059885024e+35 Ground Truth: 6.934508801767013e+34
+
+['design_1297']   Prediction: 2.9870205641958336e+30 Ground Truth: 2.228759169427238e+30
+
+['design_1409']   Prediction: 1.503057320411141e+30 Ground Truth: 5.124417903778256e+28
+
+['design_1768']   Prediction: 3.332081011900297e+28 Ground Truth: 1.1452913259741708e+24
+
+['design_446']   Prediction: 9.217463374132477e+30 Ground Truth: 3.235708090085849e+30
+
+['design_2071']   Prediction: 2.0024553584345698e+30 Ground Truth: 5.078147911416042e+30
+
+['design_1245']   Prediction: 4.676725755286007e+29 Ground Truth: 8.235221572680785e+28
+
+['design_1261']   Prediction: 5.689462293409713e+35 Ground Truth: 3.3308347455295e+35
+
+['design_1184']   Prediction: 1.0404703180163404e+30 Ground Truth: 4.060655193105935e+30
+
+['design_1262']   Prediction: 1.9075723489914917e+36 Ground Truth: 4.7243289822505116e+35
+
+['design_2079']   Prediction: 2.5142459201274805e+35 Ground Truth: 1.0135093339439891e+35
+
+['design_1885']   Prediction: 4.2166315100481176e+36 Ground Truth: 1.743548225228192e+35
+
+['design_1198']   Prediction: 4.918997889640646e+29 Ground Truth: 1.9900276010089314e+30
+
+['design_1897']   Prediction: 8.532231354669904e+35 Ground Truth: 1.3099883476421957e+35
+
+['design_1478']   Prediction: 1.2452021534923183e+27 Ground Truth: 8.569447650801695e+27
+
+['design_1356']   Prediction: 4.458785141997705e+29 Ground Truth: 6.551630391697052e+28
+
+['design_2037']   Prediction: 1.784006512731702e+31 Ground Truth: 4.0457367462604353e+31
+
+['design_1168']   Prediction: 1.6515013421599321e+35 Ground Truth: 1.0784470137503525e+35
+
+['design_1668']   Prediction: 1.3028279992852396e+29 Ground Truth: 1.5088659974123709e+31
+
+['design_1706']   Prediction: 8.569944203969637e+21 Ground Truth: 2.447857831013335e+21
+
+['design_1341']   Prediction: 3.5362554193339147e+21 Ground Truth: 2.4609401349089002e+23
+
+['design_1456']   Prediction: 5.659572624110416e+29 Ground Truth: 8.431029776526492e+28
+
+['design_2072']   Prediction: 4.796310540880409e+35 Ground Truth: 3.648144328680754e+35
+
+['design_1417']   Prediction: 3.6272077608778066e+29 Ground Truth: 2.736047762383229e+28
+
+['design_1515']   Prediction: 6.3250390641434405e+29 Ground Truth: 6.879997783900151e+28
+
+--- Test MSE for fold 0 : 1.9712604041238433  ---
+['design_2066']   Prediction: 3.442129714539788e+35 Ground Truth: 4.7243289822505116e+35
+
+['design_2025']   Prediction: 2.0663326724795876e+35 Ground Truth: 6.556150750272018e+34
+
+['design_1912']   Prediction: 9.288258296802701e+28 Ground Truth: 5.120760667055598e+27
+
+['design_1993']   Prediction: 5.279972183487334e+29 Ground Truth: 7.306864768439594e+28
+
+['design_1037']   Prediction: 1.753334017069972e+29 Ground Truth: 1.8316835549658994e+29
+
+['design_1882']   Prediction: 2.7257998021024183e+30 Ground Truth: 2.634157966148314e+31
+
+['design_1482']   Prediction: 2.0800239302510262e+29 Ground Truth: 1.3388825118033121e+29
+
+['design_1529']   Prediction: 9.176273221414028e+37 Ground Truth: 1.552270841596504e+35
+
+['design_1394']   Prediction: 7.370106700378184e+29 Ground Truth: 1.511417344685231e+30
+
+['design_1408']   Prediction: 1.511680570341993e+35 Ground Truth: 1.0075616559770027e+36
+
+['design_1842']   Prediction: 6.639849769989507e+30 Ground Truth: 6.559167753284574e+31
+
+['design_1903']   Prediction: 1.8179921678273088e+30 Ground Truth: 6.174022846398139e+30
+
+['design_1651']   Prediction: 7.374043265078304e+29 Ground Truth: 5.458268341257286e+29
+
+['design_1187']   Prediction: 2.58617260060645e+28 Ground Truth: 1.4572181212089604e+29
+
+['design_1114']   Prediction: 6.00951851888493e+34 Ground Truth: 1.8278222313425834e+35
+
+['design_1189']   Prediction: 2.6519690273076513e+35 Ground Truth: 2.5684944333530287e+35
+
+['design_1813']   Prediction: 7.223697472257843e+29 Ground Truth: 1.527985521927322e+30
+
+['design_1360']   Prediction: 7.168794106160044e+29 Ground Truth: 1.3255734096762428e+30
+
+['design_1820']   Prediction: 1.1520071363966013e+29 Ground Truth: 3.209876745424552e+29
+
+['design_1961']   Prediction: 6.533041173826554e+29 Ground Truth: 3.47196057666111e+28
+
+['design_1155']   Prediction: 1.2953786744745653e+35 Ground Truth: 6.934508801767013e+34
+
+['design_1524']   Prediction: 4.869501727613063e+28 Ground Truth: 2.719775422511824e+30
+
+['design_1710']   Prediction: 1.792840617265954e+30 Ground Truth: 5.455627745035793e+30
+
+['design_1598']   Prediction: 1.700849824874018e+30 Ground Truth: 1.4668954779476459e+30
+
+['design_1349']   Prediction: 1.6440165220420004e+29 Ground Truth: 5.2568605441308514e+29
+
+['design_1604']   Prediction: 1.8217607296174344e+29 Ground Truth: 8.159637145643405e+27
+
+['design_1474']   Prediction: 6.366849536941221e+30 Ground Truth: 2.212150009599862e+31
+
+['design_1310']   Prediction: 3.0974538221974457e+29 Ground Truth: 1.4463303274933858e+29
+
+['design_1994']   Prediction: 2.944592766488302e+21 Ground Truth: 2.1203837210274143e+20
+
+['design_1443']   Prediction: 1.6440165220420004e+29 Ground Truth: 5.2568605441308514e+29
+
+['design_1488']   Prediction: 5.566510781954311e+34 Ground Truth: 1.2576235830156272e+35
+
+['design_1986']   Prediction: 1.557252708455401e+35 Ground Truth: 4.891133182622356e+35
+
+['design_1433']   Prediction: 8.283010256313002e+34 Ground Truth: 8.255754778056064e+34
+
+['design_1510']   Prediction: 6.793753582612822e+29 Ground Truth: 3.277984225997773e+29
+
+['design_1406']   Prediction: 4.0728568963939854e+34 Ground Truth: 4.14501988751604e+34
+
+['design_177']   Prediction: 1.488932401139957e+29 Ground Truth: 9.786658744351357e+28
+
+['design_1983']   Prediction: 1.680783356320349e+29 Ground Truth: 1.7979282682410065e+29
+
+['design_1068']   Prediction: 1.6112168911775128e+30 Ground Truth: 1.3155387209105315e+30
+
+['design_1659']   Prediction: 2.278238236488153e+30 Ground Truth: 1.0555338359601936e+30
+
+['design_1238']   Prediction: 1.2308606452435807e+29 Ground Truth: 2.3568681318374356e+29
+
+['design_2108']   Prediction: 4.530515901277555e+34 Ground Truth: 2.5226509387830094e+34
+
+['design_1421']   Prediction: 1.0707046082916058e+29 Ground Truth: 8.754050977634335e+28
+
+['design_1803']   Prediction: 2.819694954891702e+30 Ground Truth: 1.0668126242422412e+32
+
+['design_1376']   Prediction: 7.47857681396447e+29 Ground Truth: 1.5889141743100798e+30
+
+['design_1924']   Prediction: 6.923416165816951e+29 Ground Truth: 8.96052266278768e+29
+
+['design_1323']   Prediction: 1.707256973106908e+35 Ground Truth: 6.915119194519694e+34
+
+['design_1777']   Prediction: 4.337160404336738e+29 Ground Truth: 1.0205438204052237e+29
+
+['design_2094']   Prediction: 3.260151436790501e+29 Ground Truth: 8.210665266969863e+29
+
+['design_1176']   Prediction: 3.6786418876626296e+30 Ground Truth: 2.9857445429932304e+30
+
+['design_1947']   Prediction: 6.325851813003602e+34 Ground Truth: 1.637119410345449e+36
+
+['design_1319']   Prediction: 1.7217056842089634e+29 Ground Truth: 2.632717425253234e+28
+
+['design_1248']   Prediction: 2.2962017785786025e+29 Ground Truth: 5.1167218631211235e+28
+
+['design_1555']   Prediction: 1.277832161875336e+34 Ground Truth: 1.6289072528445205e+34
+
+['design_1162']   Prediction: 3.1889577952733956e+29 Ground Truth: 8.506365689027712e+28
+
+['design_1657']   Prediction: 4.350781598219927e+29 Ground Truth: 7.820397567145957e+29
+
+['design_1241']   Prediction: 3.3719902977310064e+29 Ground Truth: 1.1334116850023462e+29
+
+['design_1145']   Prediction: 1.1348999860230874e+29 Ground Truth: 4.90588028891919e+29
+
+['design_1318']   Prediction: 4.3255909818177474e+20 Ground Truth: 1.7454522262806352e+21
+
+['design_1005']   Prediction: 3.1018183466377094e+30 Ground Truth: 5.258487607168325e+30
+
+['design_178']   Prediction: 1.5955278296798728e+29 Ground Truth: 1.9554781255784154e+29
+
+['design_1942']   Prediction: 3.462705371151794e+30 Ground Truth: 2.2897289252878627e+29
+
+['design_1217']   Prediction: 6.394667524513464e+29 Ground Truth: 8.31216875662596e+28
+
+['design_1489']   Prediction: 5.6268009377475875e+34 Ground Truth: 2.0334282262353822e+35
+
+['design_1593']   Prediction: 2.1570720927959557e+35 Ground Truth: 1.171894353626255e+35
+
+['design_2028']   Prediction: 1.6440165220420004e+29 Ground Truth: 5.2568605441308514e+29
+
+['design_2006']   Prediction: 1.5112539266868537e+35 Ground Truth: 9.697867772844766e+34
+
+['design_1151']   Prediction: 1.4399706652743166e+35 Ground Truth: 7.203050677905049e+34
+
+['design_1596']   Prediction: 1.8604409115081202e+34 Ground Truth: 1.8478227124816882e+34
+
+['design_1916']   Prediction: 6.376036768707383e+30 Ground Truth: 2.212150009599862e+31
+
+['design_1755']   Prediction: 1.3185917338096197e+35 Ground Truth: 6.336457294837761e+35
+
+['design_1143']   Prediction: 1.2330302452955705e+34 Ground Truth: 1.9340359516676203e+34
+
+['design_1769']   Prediction: 7.454707329234816e+29 Ground Truth: 2.091219074466772e+30
+
+['design_1974']   Prediction: 4.975197073101344e+29 Ground Truth: 3.556345440593139e+29
+
+['design_1286']   Prediction: 6.729836918951159e+29 Ground Truth: 1.0730760862919732e+29
+
+['design_1040']   Prediction: 4.318603393005653e+29 Ground Truth: 1.896378464623939e+30
+
+['design_1377']   Prediction: 9.00306649815561e+34 Ground Truth: 3.440160498560496e+35
+
+['design_2081']   Prediction: 3.5860235442955833e+33 Ground Truth: 2.290937155975131e+31
+
+['design_1131']   Prediction: 2.596373620564421e+28 Ground Truth: 7.095113619229395e+27
+
+['design_1648']   Prediction: 2.0747367998182882e+35 Ground Truth: 6.934508801767013e+34
+
+['design_1297']   Prediction: 2.964893594919427e+29 Ground Truth: 2.228759169427238e+30
+
+['design_1409']   Prediction: 4.574457808943663e+29 Ground Truth: 5.124417903778256e+28
+
+['design_1768']   Prediction: 1.8567038981163026e+26 Ground Truth: 1.1452913259741708e+24
+
+['design_446']   Prediction: 3.875177260388835e+30 Ground Truth: 3.235708090085849e+30
+
+['design_2071']   Prediction: 2.376360549521447e+30 Ground Truth: 5.078147911416042e+30
+
+['design_1245']   Prediction: 1.488932401139957e+29 Ground Truth: 8.235221572680785e+28
+
+['design_1261']   Prediction: 5.933119296948441e+34 Ground Truth: 3.3308347455295e+35
+
+['design_1184']   Prediction: 1.411883912988992e+30 Ground Truth: 4.060655193105935e+30
+
+['design_1262']   Prediction: 7.393413669506119e+34 Ground Truth: 4.7243289822505116e+35
+
+['design_2079']   Prediction: 4.402162316596321e+34 Ground Truth: 1.0135093339439891e+35
+
+['design_1885']   Prediction: 3.333249619922935e+35 Ground Truth: 1.743548225228192e+35
+
+['design_1198']   Prediction: 8.203277219054743e+29 Ground Truth: 1.9900276010089314e+30
+
+['design_1897']   Prediction: 3.0026911072952333e+35 Ground Truth: 1.3099883476421957e+35
+
+['design_1478']   Prediction: 1.12105710064536e+28 Ground Truth: 8.569447650801695e+27
+
+['design_1356']   Prediction: 1.389140674886571e+29 Ground Truth: 6.551630391697052e+28
+
+['design_2037']   Prediction: 3.586797979757777e+30 Ground Truth: 4.0457367462604353e+31
+
+['design_1168']   Prediction: 6.556251271003208e+34 Ground Truth: 1.0784470137503525e+35
+
+['design_1668']   Prediction: 2.5280984204231948e+30 Ground Truth: 1.5088659974123709e+31
+
+['design_1706']   Prediction: 2.9634228794802915e+21 Ground Truth: 2.447857831013335e+21
+
+['design_1341']   Prediction: 1.1457877324283479e+21 Ground Truth: 2.4609401349089002e+23
+
+['design_1456']   Prediction: 3.252698031323258e+29 Ground Truth: 8.431029776526492e+28
+
+['design_2072']   Prediction: 2.764141052076972e+35 Ground Truth: 3.648144328680754e+35
+
+['design_1417']   Prediction: 1.4292400831918806e+29 Ground Truth: 2.736047762383229e+28
+
+['design_1515']   Prediction: 5.073440052043008e+29 Ground Truth: 6.879997783900151e+28
+
+--- Test MSE for fold 1 : 1.3028344830263008  ---
+['design_2066']   Prediction: 5.856600044345742e+35 Ground Truth: 4.7243289822505116e+35
+
+['design_2025']   Prediction: 3.3104517161594554e+34 Ground Truth: 6.556150750272018e+34
+
+['design_1912']   Prediction: 2.649644039556108e+28 Ground Truth: 5.120760667055598e+27
+
+['design_1993']   Prediction: 5.103994518765812e+29 Ground Truth: 7.306864768439594e+28
+
+['design_1037']   Prediction: 4.289902360680046e+29 Ground Truth: 1.8316835549658994e+29
+
+['design_1882']   Prediction: 7.793569992051434e+30 Ground Truth: 2.634157966148314e+31
+
+['design_1482']   Prediction: 2.973433711361708e+29 Ground Truth: 1.3388825118033121e+29
+
+['design_1529']   Prediction: 2.39141671714796e+35 Ground Truth: 1.552270841596504e+35
+
+['design_1394']   Prediction: 1.469191530310549e+30 Ground Truth: 1.511417344685231e+30
+
+['design_1408']   Prediction: 1.2708872925057921e+37 Ground Truth: 1.0075616559770027e+36
+
+['design_1842']   Prediction: 1.4885235386498702e+29 Ground Truth: 6.559167753284574e+31
+
+['design_1903']   Prediction: 1.3206875359762702e+30 Ground Truth: 6.174022846398139e+30
+
+['design_1651']   Prediction: 1.9844849783574532e+29 Ground Truth: 5.458268341257286e+29
+
+['design_1187']   Prediction: 8.395368826031102e+27 Ground Truth: 1.4572181212089604e+29
+
+['design_1114']   Prediction: 4.0626463669499596e+34 Ground Truth: 1.8278222313425834e+35
+
+['design_1189']   Prediction: 4.722635084135957e+35 Ground Truth: 2.5684944333530287e+35
+
+['design_1813']   Prediction: 3.905762025814993e+29 Ground Truth: 1.527985521927322e+30
+
+['design_1360']   Prediction: 2.8935835942921837e+29 Ground Truth: 1.3255734096762428e+30
+
+['design_1820']   Prediction: 3.0781595550110555e+29 Ground Truth: 3.209876745424552e+29
+
+['design_1961']   Prediction: 2.72487308490382e+29 Ground Truth: 3.47196057666111e+28
+
+['design_1155']   Prediction: 3.766087184254809e+34 Ground Truth: 6.934508801767013e+34
+
+['design_1524']   Prediction: 8.219000810496106e+29 Ground Truth: 2.719775422511824e+30
+
+['design_1710']   Prediction: 1.3179999427635395e+30 Ground Truth: 5.455627745035793e+30
+
+['design_1598']   Prediction: 5.73218637567625e+29 Ground Truth: 1.4668954779476459e+30
+
+['design_1349']   Prediction: 3.190442129506291e+29 Ground Truth: 5.2568605441308514e+29
+
+['design_1604']   Prediction: 6.542339607878654e+28 Ground Truth: 8.159637145643405e+27
+
+['design_1474']   Prediction: 1.3240729816183736e+31 Ground Truth: 2.212150009599862e+31
+
+['design_1310']   Prediction: 8.984618821108512e+29 Ground Truth: 1.4463303274933858e+29
+
+['design_1994']   Prediction: 1.922995523328137e+21 Ground Truth: 2.1203837210274143e+20
+
+['design_1443']   Prediction: 3.190442129506291e+29 Ground Truth: 5.2568605441308514e+29
+
+['design_1488']   Prediction: 3.537359985177871e+35 Ground Truth: 1.2576235830156272e+35
+
+['design_1986']   Prediction: 2.616916507507278e+35 Ground Truth: 4.891133182622356e+35
+
+['design_1433']   Prediction: 1.9203179667102872e+34 Ground Truth: 8.255754778056064e+34
+
+['design_1510']   Prediction: 3.751810233948212e+29 Ground Truth: 3.277984225997773e+29
+
+['design_1406']   Prediction: 2.8534607037210844e+34 Ground Truth: 4.14501988751604e+34
+
+['design_177']   Prediction: 6.791392966055365e+28 Ground Truth: 9.786658744351357e+28
+
+['design_1983']   Prediction: 9.046001840704785e+28 Ground Truth: 1.7979282682410065e+29
+
+['design_1068']   Prediction: 1.7875139389890044e+30 Ground Truth: 1.3155387209105315e+30
+
+['design_1659']   Prediction: 9.975996928326214e+29 Ground Truth: 1.0555338359601936e+30
+
+['design_1238']   Prediction: 2.036294061041016e+29 Ground Truth: 2.3568681318374356e+29
+
+['design_2108']   Prediction: 4.28796630938037e+34 Ground Truth: 2.5226509387830094e+34
+
+['design_1421']   Prediction: 4.994990588872303e+28 Ground Truth: 8.754050977634335e+28
+
+['design_1803']   Prediction: 1.5829075054827426e+31 Ground Truth: 1.0668126242422412e+32
+
+['design_1376']   Prediction: 7.922186854421597e+29 Ground Truth: 1.5889141743100798e+30
+
+['design_1924']   Prediction: 3.0153541586301417e+29 Ground Truth: 8.96052266278768e+29
+
+['design_1323']   Prediction: 1.0996671876925636e+35 Ground Truth: 6.915119194519694e+34
+
+['design_1777']   Prediction: 4.1980289096504765e+28 Ground Truth: 1.0205438204052237e+29
+
+['design_2094']   Prediction: 6.718982087353635e+28 Ground Truth: 8.210665266969863e+29
+
+['design_1176']   Prediction: 3.3751706793309575e+30 Ground Truth: 2.9857445429932304e+30
+
+['design_1947']   Prediction: 1.4626580457510888e+35 Ground Truth: 1.637119410345449e+36
+
+['design_1319']   Prediction: 3.8566504533137747e+28 Ground Truth: 2.632717425253234e+28
+
+['design_1248']   Prediction: 2.0991706707084916e+29 Ground Truth: 5.1167218631211235e+28
+
+['design_1555']   Prediction: 1.2627619750130914e+34 Ground Truth: 1.6289072528445205e+34
+
+['design_1162']   Prediction: 8.998369218938672e+28 Ground Truth: 8.506365689027712e+28
+
+['design_1657']   Prediction: 1.6787783150695862e+30 Ground Truth: 7.820397567145957e+29
+
+['design_1241']   Prediction: 8.731742518369259e+29 Ground Truth: 1.1334116850023462e+29
+
+['design_1145']   Prediction: 3.38673768157303e+29 Ground Truth: 4.90588028891919e+29
+
+['design_1318']   Prediction: 4.309222578603325e+21 Ground Truth: 1.7454522262806352e+21
+
+['design_1005']   Prediction: 1.411345487652081e+30 Ground Truth: 5.258487607168325e+30
+
+['design_178']   Prediction: 6.845598177492336e+28 Ground Truth: 1.9554781255784154e+29
+
+['design_1942']   Prediction: 1.7578419125566555e+30 Ground Truth: 2.2897289252878627e+29
+
+['design_1217']   Prediction: 5.239859930345191e+28 Ground Truth: 8.31216875662596e+28
+
+['design_1489']   Prediction: 1.1051256119489838e+35 Ground Truth: 2.0334282262353822e+35
+
+['design_1593']   Prediction: 4.028250549581626e+35 Ground Truth: 1.171894353626255e+35
+
+['design_2028']   Prediction: 3.189906802041793e+29 Ground Truth: 5.2568605441308514e+29
+
+['design_2006']   Prediction: 2.792267842051161e+35 Ground Truth: 9.697867772844766e+34
+
+['design_1151']   Prediction: 2.2165809598716385e+35 Ground Truth: 7.203050677905049e+34
+
+['design_1596']   Prediction: 9.277482275986052e+33 Ground Truth: 1.8478227124816882e+34
+
+['design_1916']   Prediction: 1.8078061517721273e+31 Ground Truth: 2.212150009599862e+31
+
+['design_1755']   Prediction: 8.789316442367565e+35 Ground Truth: 6.336457294837761e+35
+
+['design_1143']   Prediction: 9.276915918418079e+33 Ground Truth: 1.9340359516676203e+34
+
+['design_1769']   Prediction: 4.346567736159933e+29 Ground Truth: 2.091219074466772e+30
+
+['design_1974']   Prediction: 2.0395904617407184e+29 Ground Truth: 3.556345440593139e+29
+
+['design_1286']   Prediction: 3.675596150175838e+29 Ground Truth: 1.0730760862919732e+29
+
+['design_1040']   Prediction: 2.0360390154720092e+30 Ground Truth: 1.896378464623939e+30
+
+['design_1377']   Prediction: 1.858505317980295e+35 Ground Truth: 3.440160498560496e+35
+
+['design_2081']   Prediction: 1.5689776275030875e+30 Ground Truth: 2.290937155975131e+31
+
+['design_1131']   Prediction: 3.294970058776342e+28 Ground Truth: 7.095113619229395e+27
+
+['design_1648']   Prediction: 2.0246267944204734e+34 Ground Truth: 6.934508801767013e+34
+
+['design_1297']   Prediction: 1.8410084531597694e+30 Ground Truth: 2.228759169427238e+30
+
+['design_1409']   Prediction: 3.5302433154377145e+28 Ground Truth: 5.124417903778256e+28
+
+['design_1768']   Prediction: 1.7189803592880345e+27 Ground Truth: 1.1452913259741708e+24
+
+['design_446']   Prediction: 3.2540523304726816e+30 Ground Truth: 3.235708090085849e+30
+
+['design_2071']   Prediction: 5.550976933354618e+30 Ground Truth: 5.078147911416042e+30
+
+['design_1245']   Prediction: 6.743941683162194e+28 Ground Truth: 8.235221572680785e+28
+
+['design_1261']   Prediction: 5.238100243847574e+35 Ground Truth: 3.3308347455295e+35
+
+['design_1184']   Prediction: 1.0983019291228366e+30 Ground Truth: 4.060655193105935e+30
+
+['design_1262']   Prediction: 4.41321147614056e+35 Ground Truth: 4.7243289822505116e+35
+
+['design_2079']   Prediction: 8.169414402428097e+34 Ground Truth: 1.0135093339439891e+35
+
+['design_1885']   Prediction: 5.350752391281731e+35 Ground Truth: 1.743548225228192e+35
+
+['design_1198']   Prediction: 1.1640807163360245e+30 Ground Truth: 1.9900276010089314e+30
+
+['design_1897']   Prediction: 1.0964586451811422e+35 Ground Truth: 1.3099883476421957e+35
+
+['design_1478']   Prediction: 2.937120696502363e+28 Ground Truth: 8.569447650801695e+27
+
+['design_1356']   Prediction: 3.883015897624284e+28 Ground Truth: 6.551630391697052e+28
+
+['design_2037']   Prediction: 2.728442211712641e+30 Ground Truth: 4.0457367462604353e+31
+
+['design_1168']   Prediction: 6.471469214296694e+34 Ground Truth: 1.0784470137503525e+35
+
+['design_1668']   Prediction: 6.101162700638695e+30 Ground Truth: 1.5088659974123709e+31
+
+['design_1706']   Prediction: 1.8206208224986577e+21 Ground Truth: 2.447857831013335e+21
+
+['design_1341']   Prediction: 3.498164818110545e+21 Ground Truth: 2.4609401349089002e+23
+
+['design_1456']   Prediction: 6.6015547779173015e+28 Ground Truth: 8.431029776526492e+28
+
+['design_2072']   Prediction: 4.731507053774304e+35 Ground Truth: 3.648144328680754e+35
+
+['design_1417']   Prediction: 6.487267842192077e+28 Ground Truth: 2.736047762383229e+28
+
+['design_1515']   Prediction: 5.8856723533131605e+28 Ground Truth: 6.879997783900151e+28
+
+--- Test MSE for fold 2 : 1.0496669880394798  ---
+['design_2066']   Prediction: 2.224152993433533e+35 Ground Truth: 4.7243289822505116e+35
+
+['design_2025']   Prediction: 5.911387011970778e+34 Ground Truth: 6.556150750272018e+34
+
+['design_1912']   Prediction: 1.4593368581551647e+28 Ground Truth: 5.120760667055598e+27
+
+['design_1993']   Prediction: 2.6961287957012297e+29 Ground Truth: 7.306864768439594e+28
+
+['design_1037']   Prediction: 5.27654941226055e+29 Ground Truth: 1.8316835549658994e+29
+
+['design_1882']   Prediction: 4.6401743364771407e+30 Ground Truth: 2.634157966148314e+31
+
+['design_1482']   Prediction: 5.032691318346304e+29 Ground Truth: 1.3388825118033121e+29
+
+['design_1529']   Prediction: 2.8448434526252204e+35 Ground Truth: 1.552270841596504e+35
+
+['design_1394']   Prediction: 1.907478972615368e+30 Ground Truth: 1.511417344685231e+30
+
+['design_1408']   Prediction: 1.0741653653917566e+36 Ground Truth: 1.0075616559770027e+36
+
+['design_1842']   Prediction: 1.041079409903111e+33 Ground Truth: 6.559167753284574e+31
+
+['design_1903']   Prediction: 3.712843910256802e+30 Ground Truth: 6.174022846398139e+30
+
+['design_1651']   Prediction: 5.7059628857022154e+29 Ground Truth: 5.458268341257286e+29
+
+['design_1187']   Prediction: 4.396830716057004e+29 Ground Truth: 1.4572181212089604e+29
+
+['design_1114']   Prediction: 4.065034105697733e+34 Ground Truth: 1.8278222313425834e+35
+
+['design_1189']   Prediction: 2.5893308458830614e+35 Ground Truth: 2.5684944333530287e+35
+
+['design_1813']   Prediction: 4.693740252829127e+29 Ground Truth: 1.527985521927322e+30
+
+['design_1360']   Prediction: 1.0463611868617314e+30 Ground Truth: 1.3255734096762428e+30
+
+['design_1820']   Prediction: 8.800562131808096e+29 Ground Truth: 3.209876745424552e+29
+
+['design_1961']   Prediction: 2.710888004348927e+30 Ground Truth: 3.47196057666111e+28
+
+['design_1155']   Prediction: 5.1653736433844335e+34 Ground Truth: 6.934508801767013e+34
+
+['design_1524']   Prediction: 3.333316005182897e+29 Ground Truth: 2.719775422511824e+30
+
+['design_1710']   Prediction: 4.124947379350315e+30 Ground Truth: 5.455627745035793e+30
+
+['design_1598']   Prediction: 4.146669962940061e+29 Ground Truth: 1.4668954779476459e+30
+
+['design_1349']   Prediction: 7.53982024040751e+29 Ground Truth: 5.2568605441308514e+29
+
+['design_1604']   Prediction: 3.121424271122503e+28 Ground Truth: 8.159637145643405e+27
+
+['design_1474']   Prediction: 1.5458974504410603e+31 Ground Truth: 2.212150009599862e+31
+
+['design_1310']   Prediction: 7.712525021814414e+28 Ground Truth: 1.4463303274933858e+29
+
+['design_1994']   Prediction: 3.329388199950185e+21 Ground Truth: 2.1203837210274143e+20
+
+['design_1443']   Prediction: 6.714655832971348e+29 Ground Truth: 5.2568605441308514e+29
+
+['design_1488']   Prediction: 1.6225019530108517e+35 Ground Truth: 1.2576235830156272e+35
+
+['design_1986']   Prediction: 4.651049270177818e+35 Ground Truth: 4.891133182622356e+35
+
+['design_1433']   Prediction: 5.153996974423401e+34 Ground Truth: 8.255754778056064e+34
+
+['design_1510']   Prediction: 4.6847605785146204e+29 Ground Truth: 3.277984225997773e+29
+
+['design_1406']   Prediction: 6.414106043932304e+34 Ground Truth: 4.14501988751604e+34
+
+['design_177']   Prediction: 1.3757351987043192e+29 Ground Truth: 9.786658744351357e+28
+
+['design_1983']   Prediction: 1.2625804975670272e+29 Ground Truth: 1.7979282682410065e+29
+
+['design_1068']   Prediction: 9.23988350792014e+29 Ground Truth: 1.3155387209105315e+30
+
+['design_1659']   Prediction: 1.3556528441098018e+30 Ground Truth: 1.0555338359601936e+30
+
+['design_1238']   Prediction: 2.053768705974227e+29 Ground Truth: 2.3568681318374356e+29
+
+['design_2108']   Prediction: 1.8919313826394538e+34 Ground Truth: 2.5226509387830094e+34
+
+['design_1421']   Prediction: 2.4673477068095117e+28 Ground Truth: 8.754050977634335e+28
+
+['design_1803']   Prediction: 1.2168746277711773e+31 Ground Truth: 1.0668126242422412e+32
+
+['design_1376']   Prediction: 2.2412239502061022e+30 Ground Truth: 1.5889141743100798e+30
+
+['design_1924']   Prediction: 5.79984466474962e+29 Ground Truth: 8.96052266278768e+29
+
+['design_1323']   Prediction: 7.73387936675062e+34 Ground Truth: 6.915119194519694e+34
+
+['design_1777']   Prediction: 5.1074783029675545e+28 Ground Truth: 1.0205438204052237e+29
+
+['design_2094']   Prediction: 2.8543790744353778e+29 Ground Truth: 8.210665266969863e+29
+
+['design_1176']   Prediction: 3.9591223492197805e+30 Ground Truth: 2.9857445429932304e+30
+
+['design_1947']   Prediction: 1.2351404329347762e+36 Ground Truth: 1.637119410345449e+36
+
+['design_1319']   Prediction: 5.54195868675068e+28 Ground Truth: 2.632717425253234e+28
+
+['design_1248']   Prediction: 9.02428839961655e+28 Ground Truth: 5.1167218631211235e+28
+
+['design_1555']   Prediction: 6.914614981541693e+33 Ground Truth: 1.6289072528445205e+34
+
+['design_1162']   Prediction: 8.062086394792632e+28 Ground Truth: 8.506365689027712e+28
+
+['design_1657']   Prediction: 2.57244831746294e+29 Ground Truth: 7.820397567145957e+29
+
+['design_1241']   Prediction: 9.33543190454668e+28 Ground Truth: 1.1334116850023462e+29
+
+['design_1145']   Prediction: 4.131687443026122e+30 Ground Truth: 4.90588028891919e+29
+
+['design_1318']   Prediction: 9.717986621330182e+21 Ground Truth: 1.7454522262806352e+21
+
+['design_1005']   Prediction: 3.184643970159692e+30 Ground Truth: 5.258487607168325e+30
+
+['design_178']   Prediction: 1.2626190320775274e+29 Ground Truth: 1.9554781255784154e+29
+
+['design_1942']   Prediction: 9.604482841394807e+30 Ground Truth: 2.2897289252878627e+29
+
+['design_1217']   Prediction: 3.3982411302069766e+28 Ground Truth: 8.31216875662596e+28
+
+['design_1489']   Prediction: 6.974142194888758e+34 Ground Truth: 2.0334282262353822e+35
+
+['design_1593']   Prediction: 1.6278458925724388e+35 Ground Truth: 1.171894353626255e+35
+
+['design_2028']   Prediction: 7.129631709812266e+29 Ground Truth: 5.2568605441308514e+29
+
+['design_2006']   Prediction: 1.941865625310491e+35 Ground Truth: 9.697867772844766e+34
+
+['design_1151']   Prediction: 7.721262281870224e+34 Ground Truth: 7.203050677905049e+34
+
+['design_1596']   Prediction: 7.045884286397456e+33 Ground Truth: 1.8478227124816882e+34
+
+['design_1916']   Prediction: 1.6238112688042396e+31 Ground Truth: 2.212150009599862e+31
+
+['design_1755']   Prediction: 5.071288516800291e+35 Ground Truth: 6.336457294837761e+35
+
+['design_1143']   Prediction: 6.718256027360344e+33 Ground Truth: 1.9340359516676203e+34
+
+['design_1769']   Prediction: 1.2207469229524122e+30 Ground Truth: 2.091219074466772e+30
+
+['design_1974']   Prediction: 1.2700001853375823e+29 Ground Truth: 3.556345440593139e+29
+
+['design_1286']   Prediction: 3.044968496633536e+29 Ground Truth: 1.0730760862919732e+29
+
+['design_1040']   Prediction: 5.6706803856567625e+29 Ground Truth: 1.896378464623939e+30
+
+['design_1377']   Prediction: 3.837307904936561e+35 Ground Truth: 3.440160498560496e+35
+
+['design_2081']   Prediction: 9.838282143584813e+29 Ground Truth: 2.290937155975131e+31
+
+['design_1131']   Prediction: 2.420455788226237e+28 Ground Truth: 7.095113619229395e+27
+
+['design_1648']   Prediction: 6.07354131148466e+34 Ground Truth: 6.934508801767013e+34
+
+['design_1297']   Prediction: 1.0811669923449375e+30 Ground Truth: 2.228759169427238e+30
+
+['design_1409']   Prediction: 3.567771253522107e+28 Ground Truth: 5.124417903778256e+28
+
+['design_1768']   Prediction: 1.5003159385587266e+26 Ground Truth: 1.1452913259741708e+24
+
+['design_446']   Prediction: 4.569176238711358e+30 Ground Truth: 3.235708090085849e+30
+
+['design_2071']   Prediction: 1.0840708623867973e+31 Ground Truth: 5.078147911416042e+30
+
+['design_1245']   Prediction: 1.3757351987043192e+29 Ground Truth: 8.235221572680785e+28
+
+['design_1261']   Prediction: 1.5174003484995072e+35 Ground Truth: 3.3308347455295e+35
+
+['design_1184']   Prediction: 2.29237070021203e+31 Ground Truth: 4.060655193105935e+30
+
+['design_1262']   Prediction: 1.6940872717929743e+35 Ground Truth: 4.7243289822505116e+35
+
+['design_2079']   Prediction: 5.112678992496196e+34 Ground Truth: 1.0135093339439891e+35
+
+['design_1885']   Prediction: 2.267466831809675e+35 Ground Truth: 1.743548225228192e+35
+
+['design_1198']   Prediction: 3.325176760986614e+30 Ground Truth: 1.9900276010089314e+30
+
+['design_1897']   Prediction: 1.2945191479464887e+35 Ground Truth: 1.3099883476421957e+35
+
+['design_1478']   Prediction: 2.5274591820066077e+28 Ground Truth: 8.569447650801695e+27
+
+['design_1356']   Prediction: 1.2522772383747022e+29 Ground Truth: 6.551630391697052e+28
+
+['design_2037']   Prediction: 2.1829609792555947e+31 Ground Truth: 4.0457367462604353e+31
+
+['design_1168']   Prediction: 5.675001371117203e+34 Ground Truth: 1.0784470137503525e+35
+
+['design_1668']   Prediction: 6.514007241259632e+30 Ground Truth: 1.5088659974123709e+31
+
+['design_1706']   Prediction: 1.1669164404489008e+21 Ground Truth: 2.447857831013335e+21
+
+['design_1341']   Prediction: 5.4479522274744115e+22 Ground Truth: 2.4609401349089002e+23
+
+['design_1456']   Prediction: 5.4798590952642955e+28 Ground Truth: 8.431029776526492e+28
+
+['design_2072']   Prediction: 2.9378592961210296e+35 Ground Truth: 3.648144328680754e+35
+
+['design_1417']   Prediction: 8.800121440567915e+28 Ground Truth: 2.736047762383229e+28
+
+['design_1515']   Prediction: 8.673145506103219e+28 Ground Truth: 6.879997783900151e+28
+
+--- Test MSE for fold 3 : 0.8507150446326988  ---
+['design_2066']   Prediction: 6.040480686725098e+35 Ground Truth: 4.7243289822505116e+35
+
+['design_2025']   Prediction: 1.0419227317960734e+35 Ground Truth: 6.556150750272018e+34
+
+['design_1912']   Prediction: 7.562914784797324e+27 Ground Truth: 5.120760667055598e+27
+
+['design_1993']   Prediction: 1.3308325392230213e+30 Ground Truth: 7.306864768439594e+28
+
+['design_1037']   Prediction: 4.1395577012275404e+29 Ground Truth: 1.8316835549658994e+29
+
+['design_1882']   Prediction: 7.531745673742576e+30 Ground Truth: 2.634157966148314e+31
+
+['design_1482']   Prediction: 1.6302521460070506e+29 Ground Truth: 1.3388825118033121e+29
+
+['design_1529']   Prediction: 6.203687928518795e+34 Ground Truth: 1.552270841596504e+35
+
+['design_1394']   Prediction: 1.0772478059534743e+30 Ground Truth: 1.511417344685231e+30
+
+['design_1408']   Prediction: 3.2925208776473896e+36 Ground Truth: 1.0075616559770027e+36
+
+['design_1842']   Prediction: 5.312099840490775e+31 Ground Truth: 6.559167753284574e+31
+
+['design_1903']   Prediction: 7.031079925881554e+30 Ground Truth: 6.174022846398139e+30
+
+['design_1651']   Prediction: 4.314388397577703e+29 Ground Truth: 5.458268341257286e+29
+
+['design_1187']   Prediction: 8.638175201705949e+27 Ground Truth: 1.4572181212089604e+29
+
+['design_1114']   Prediction: 8.587247390719809e+34 Ground Truth: 1.8278222313425834e+35
+
+['design_1189']   Prediction: 4.706700319950275e+35 Ground Truth: 2.5684944333530287e+35
+
+['design_1813']   Prediction: 7.680321599163122e+29 Ground Truth: 1.527985521927322e+30
+
+['design_1360']   Prediction: 3.517690944205326e+30 Ground Truth: 1.3255734096762428e+30
+
+['design_1820']   Prediction: 6.022581313437924e+28 Ground Truth: 3.209876745424552e+29
+
+['design_1961']   Prediction: 8.648008538209563e+29 Ground Truth: 3.47196057666111e+28
+
+['design_1155']   Prediction: 9.829416233179388e+34 Ground Truth: 6.934508801767013e+34
+
+['design_1524']   Prediction: 1.832404528101572e+30 Ground Truth: 2.719775422511824e+30
+
+['design_1710']   Prediction: 4.828699971185489e+30 Ground Truth: 5.455627745035793e+30
+
+['design_1598']   Prediction: 7.426211436509225e+29 Ground Truth: 1.4668954779476459e+30
+
+['design_1349']   Prediction: 5.628912376378396e+29 Ground Truth: 5.2568605441308514e+29
+
+['design_1604']   Prediction: 1.3859692280040053e+28 Ground Truth: 8.159637145643405e+27
+
+['design_1474']   Prediction: 1.8487999800671857e+31 Ground Truth: 2.212150009599862e+31
+
+['design_1310']   Prediction: 1.132746020222921e+29 Ground Truth: 1.4463303274933858e+29
+
+['design_1994']   Prediction: 6.349765852118018e+20 Ground Truth: 2.1203837210274143e+20
+
+['design_1443']   Prediction: 5.232491999711288e+29 Ground Truth: 5.2568605441308514e+29
+
+['design_1488']   Prediction: 7.290015470488832e+34 Ground Truth: 1.2576235830156272e+35
+
+['design_1986']   Prediction: 5.178773007334455e+35 Ground Truth: 4.891133182622356e+35
+
+['design_1433']   Prediction: 1.1131052744070142e+35 Ground Truth: 8.255754778056064e+34
+
+['design_1510']   Prediction: 2.5647467044133574e+29 Ground Truth: 3.277984225997773e+29
+
+['design_1406']   Prediction: 1.171343940725988e+34 Ground Truth: 4.14501988751604e+34
+
+['design_177']   Prediction: 9.45780542063717e+28 Ground Truth: 9.786658744351357e+28
+
+['design_1983']   Prediction: 1.0340242877672234e+29 Ground Truth: 1.7979282682410065e+29
+
+['design_1068']   Prediction: 1.2261888269715437e+30 Ground Truth: 1.3155387209105315e+30
+
+['design_1659']   Prediction: 1.7274365214989829e+30 Ground Truth: 1.0555338359601936e+30
+
+['design_1238']   Prediction: 2.308339204912874e+29 Ground Truth: 2.3568681318374356e+29
+
+['design_2108']   Prediction: 2.561887943504175e+34 Ground Truth: 2.5226509387830094e+34
+
+['design_1421']   Prediction: 6.000291271402131e+28 Ground Truth: 8.754050977634335e+28
+
+['design_1803']   Prediction: 1.643322847962492e+32 Ground Truth: 1.0668126242422412e+32
+
+['design_1376']   Prediction: 1.07830040255304e+30 Ground Truth: 1.5889141743100798e+30
+
+['design_1924']   Prediction: 2.5524487176186683e+29 Ground Truth: 8.96052266278768e+29
+
+['design_1323']   Prediction: 7.812814880239598e+34 Ground Truth: 6.915119194519694e+34
+
+['design_1777']   Prediction: 9.73245258844109e+28 Ground Truth: 1.0205438204052237e+29
+
+['design_2094']   Prediction: 5.005083230519492e+29 Ground Truth: 8.210665266969863e+29
+
+['design_1176']   Prediction: 1.1678257418515994e+30 Ground Truth: 2.9857445429932304e+30
+
+['design_1947']   Prediction: 1.3918879649541973e+36 Ground Truth: 1.637119410345449e+36
+
+['design_1319']   Prediction: 2.9026143646120346e+28 Ground Truth: 2.632717425253234e+28
+
+['design_1248']   Prediction: 4.271170810683755e+28 Ground Truth: 5.1167218631211235e+28
+
+['design_1555']   Prediction: 1.046099937629435e+34 Ground Truth: 1.6289072528445205e+34
+
+['design_1162']   Prediction: 7.674138321385111e+28 Ground Truth: 8.506365689027712e+28
+
+['design_1657']   Prediction: 4.823635176464214e+29 Ground Truth: 7.820397567145957e+29
+
+['design_1241']   Prediction: 6.704746985827672e+28 Ground Truth: 1.1334116850023462e+29
+
+['design_1145']   Prediction: 1.1198357691689948e+30 Ground Truth: 4.90588028891919e+29
+
+['design_1318']   Prediction: 7.297263901309678e+23 Ground Truth: 1.7454522262806352e+21
+
+['design_1005']   Prediction: 6.301945936463571e+30 Ground Truth: 5.258487607168325e+30
+
+['design_178']   Prediction: 1.7883792654233254e+29 Ground Truth: 1.9554781255784154e+29
+
+['design_1942']   Prediction: 3.579635396508015e+30 Ground Truth: 2.2897289252878627e+29
+
+['design_1217']   Prediction: 6.429029257542087e+28 Ground Truth: 8.31216875662596e+28
+
+['design_1489']   Prediction: 1.0685371551830683e+35 Ground Truth: 2.0334282262353822e+35
+
+['design_1593']   Prediction: 1.6377743697579138e+35 Ground Truth: 1.171894353626255e+35
+
+['design_2028']   Prediction: 5.7296940995412506e+29 Ground Truth: 5.2568605441308514e+29
+
+['design_2006']   Prediction: 1.3709825446946147e+35 Ground Truth: 9.697867772844766e+34
+
+['design_1151']   Prediction: 4.885629400242896e+34 Ground Truth: 7.203050677905049e+34
+
+['design_1596']   Prediction: 2.9480499071098233e+33 Ground Truth: 1.8478227124816882e+34
+
+['design_1916']   Prediction: 2.1938969222198287e+31 Ground Truth: 2.212150009599862e+31
+
+['design_1755']   Prediction: 6.0319149339348685e+35 Ground Truth: 6.336457294837761e+35
+
+['design_1143']   Prediction: 1.1026112814527929e+34 Ground Truth: 1.9340359516676203e+34
+
+['design_1769']   Prediction: 1.0972382255173032e+30 Ground Truth: 2.091219074466772e+30
+
+['design_1974']   Prediction: 4.1776305531803914e+29 Ground Truth: 3.556345440593139e+29
+
+['design_1286']   Prediction: 9.248871871388975e+28 Ground Truth: 1.0730760862919732e+29
+
+['design_1040']   Prediction: 5.82888117399017e+30 Ground Truth: 1.896378464623939e+30
+
+['design_1377']   Prediction: 4.333435847023322e+35 Ground Truth: 3.440160498560496e+35
+
+['design_2081']   Prediction: 3.1080856598717556e+31 Ground Truth: 2.290937155975131e+31
+
+['design_1131']   Prediction: 2.1862658424360344e+28 Ground Truth: 7.095113619229395e+27
+
+['design_1648']   Prediction: 1.1914755939916554e+35 Ground Truth: 6.934508801767013e+34
+
+['design_1297']   Prediction: 1.9930361640267698e+30 Ground Truth: 2.228759169427238e+30
+
+['design_1409']   Prediction: 2.505151667214828e+28 Ground Truth: 5.124417903778256e+28
+
+['design_1768']   Prediction: 1.864888349526926e+26 Ground Truth: 1.1452913259741708e+24
+
+['design_446']   Prediction: 2.3591449925029523e+30 Ground Truth: 3.235708090085849e+30
+
+['design_2071']   Prediction: 7.915877017221846e+30 Ground Truth: 5.078147911416042e+30
+
+['design_1245']   Prediction: 8.715332294841287e+28 Ground Truth: 8.235221572680785e+28
+
+['design_1261']   Prediction: 2.092604929239724e+35 Ground Truth: 3.3308347455295e+35
+
+['design_1184']   Prediction: 2.2400443408376132e+30 Ground Truth: 4.060655193105935e+30
+
+['design_1262']   Prediction: 2.1710492479281534e+36 Ground Truth: 4.7243289822505116e+35
+
+['design_2079']   Prediction: 1.5760660298556319e+35 Ground Truth: 1.0135093339439891e+35
+
+['design_1885']   Prediction: 3.2065576478800314e+35 Ground Truth: 1.743548225228192e+35
+
+['design_1198']   Prediction: 9.759783567802686e+29 Ground Truth: 1.9900276010089314e+30
+
+['design_1897']   Prediction: 1.3417600292328534e+35 Ground Truth: 1.3099883476421957e+35
+
+['design_1478']   Prediction: 9.897214626862838e+26 Ground Truth: 8.569447650801695e+27
+
+['design_1356']   Prediction: 5.308182656382701e+28 Ground Truth: 6.551630391697052e+28
+
+['design_2037']   Prediction: 2.5367456250257344e+31 Ground Truth: 4.0457367462604353e+31
+
+['design_1168']   Prediction: 1.2824671579352251e+35 Ground Truth: 1.0784470137503525e+35
+
+['design_1668']   Prediction: 1.7931552402105086e+30 Ground Truth: 1.5088659974123709e+31
+
+['design_1706']   Prediction: 1.411948176384884e+22 Ground Truth: 2.447857831013335e+21
+
+['design_1341']   Prediction: 2.7468437713491273e+23 Ground Truth: 2.4609401349089002e+23
+
+['design_1456']   Prediction: 1.1739040886463603e+29 Ground Truth: 8.431029776526492e+28
+
+['design_2072']   Prediction: 3.872866692695401e+35 Ground Truth: 3.648144328680754e+35
+
+['design_1417']   Prediction: 2.6748706851892734e+28 Ground Truth: 2.736047762383229e+28
+
+['design_1515']   Prediction: 5.687510522012391e+28 Ground Truth: 6.879997783900151e+28
+
+--- Test MSE for fold 4 : 0.6866312489926236  ---
