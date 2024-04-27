@@ -1,4 +1,4 @@
-%%Copyright (C) 2023  Athanasios Papadimitriou , Mihalis Psarakis, David Hely
+%%Copyright (C) 2023  Amalia-Artemis Koufopoulou, Athanasios Papadimitriou , Mihalis Psarakis, David Hely
 
 %    This program is free software: you can redistribute it and/or modify
 %    it under the terms of the GNU General Public License as published by
@@ -22,7 +22,7 @@ keybyte = 16;
 sample_start = 1;
 sample_stop = size(datapoints,2);
 
-%LEAKAGE_MODEL = 'HD';% LSB, MSB, HW, IDENTITY, HD
+LEAKAGE_MODEL = 'HD';% LSB, MSB, HW, IDENTITY, HD
 myfolder = strcat('./',LEAKAGE_MODEL);
 
 samples = sample_start - sample_stop;
@@ -53,12 +53,12 @@ tic
                 V1 = transpose([zeros(1),V]);
                 V1(size(V1,1)) = [];
                 V2 = transpose(all_int_values(i_op, bitxor((uint8(plaintext(:,1))),(uint8(ikey-1)))+1));
-                %V1b = dec2bin(V1, 8);
-                %V2b = dec2bin(V2, 8);
+                V1b = dec2bin(V1, 8);
+                V2b = dec2bin(V2, 8);
                 %tic
                 for hdi = 1:size(V1,1)                    
-                    %Vhd(hdi,1) = bitsize * pdist2(double(V1b(hdi,:)), double(V2b(hdi,:)),'hamming');
-                    Vhd(hdi,1) = disthamming(uint8(V1(hdi,:)),uint8(V2(hdi,:)));
+                    Vhd(hdi,1) = bitsize * pdist2(double(V1b(hdi,:)), double(V2b(hdi,:)),'hamming');
+                    %Vhd(hdi,1) = disthamming(uint8(V1(hdi,:)),uint8(V2(hdi,:)));
                 end
                 %toc
                 hypotheses(:,ikey) = Vhd;                          

@@ -1,4 +1,4 @@
-%%Copyright (C) 2023  Athanasios Papadimitriou , Mihalis Psarakis, David Hely
+%%Copyright (C) 2023  Amalia-Artemis Koufopoulou, Athanasios Papadimitriou , Mihalis Psarakis, David Hely
 
 %    This program is free software: you can redistribute it and/or modify
 %    it under the terms of the GNU General Public License as published by
